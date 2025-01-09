@@ -22,17 +22,17 @@ twitter:
 vimeo:
 wordpress:
 youtube: # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
-twitch: ydrec
+twitch: lenzarng
 tiktok:
 
 # Share button options
 share:
-  facebook: true
-  twitter: true
-  tumblr:
-  pinterest:
-  pocket:
+  facebook: false
+  twitter: false
+  tumblr: false
+  pinterest: false
+  pocket: false
   reddit: true
-  linkedin:
-  wordpress:
+  linkedin: false
+  wordpress: false
   email: true
