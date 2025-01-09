@@ -27,12 +27,12 @@ tiktok:
 
 # Share button options
 share:
-  facebook: false
-  twitter: false
-  tumblr: false
-  pinterest: false
-  pocket: false
-  reddit: true
-  linkedin: false
-  wordpress: false
-  email: true
+  facebook: 
+  twitter: 
+  tumblr: 
+  pinterest: 
+  pocket: 
+  reddit: 
+  linkedin: 
+  wordpress: 
+  email: 
