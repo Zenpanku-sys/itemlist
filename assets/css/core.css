@@ -30,7 +30,7 @@ p {
 .tab {
     overflow: hidden;
     border: 1px solid #454545;
-    background-color: #ffd04f;
+    background-color: #695d00;
 }
 
 .tab button {
@@ -41,7 +41,7 @@ p {
     padding: 12px 12px;
     transition: 0.3s;
     font-size: 0.75em;
-    color: #ffffff;
+    color: #ffbb00;
 }
 
 .tab button:hover {
