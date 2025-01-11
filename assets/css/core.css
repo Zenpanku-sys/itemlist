@@ -41,11 +41,11 @@ p {
     padding: 12px 12px;
     transition: 0.25s;
     font-size: 0.75em;
-    color: #ffbb00;
+    color: #ffaa00;
 }
 
 .tab button:hover {
-    background-color: #ffeeab;
+    background-color: #808080;
 }
 
 .tabContent {
