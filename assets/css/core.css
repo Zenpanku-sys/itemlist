@@ -39,7 +39,7 @@ p {
     outline: none;
     cursor: pointer;
     padding: 12px 12px;
-    transition: 0.3s;
+    transition: 0.25s;
     font-size: 0.75em;
     color: #ffbb00;
 }
