@@ -45,12 +45,6 @@ store:
   events:
     usage: true
     mod: true
-  animals:
-    usage: true
-    mod: true
-    weight: true
-    quantity: true
-    karma: true
 
 commands:
   # Whether or not the command list will display the command's shortcut disclaimer.
