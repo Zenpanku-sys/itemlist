@@ -1,5 +1,5 @@
 # Metadata
-title: "ChillGreenBeans's Purchase List"
+title: "raging_aura_blaxx's TTK Purchase List"
 favicon: assets/img/favicon.png
 description: "A custom version of Toolkit's item list to support all the latest features of Utils."
 
@@ -26,8 +26,8 @@ store:
   traits:
     conflicts: true
     stats: true
-    karma: true
-    limit: true
+    karma: false
+    limit: false
     description: true
     usage: false
     mod: true
