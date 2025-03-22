@@ -24,6 +24,12 @@
     "version": null
   },
   {
+    "author": "VAMV",
+    "name": "Maru Race",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Nemonian.MY",
     "name": "[1.5] Moyo - from the depth",
     "steamId": "3240244292",
@@ -52,6 +58,12 @@
     "name": "Ratkin Weapons+",
     "steamId": "2779404660",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "PPONN",
+    "name": "Ratkin Apparel+(unofficial))",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Corvenik",
@@ -150,6 +162,12 @@
     "version": null
   },
   {
+    "author": "BreadMoAOBA",
+    "name": "Cinders of the Embergarden",
+    "steamId": "3421959154",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "AobaKuma",
     "name": "The Dead Man's Switch - MobileDragoon",
     "steamId": null,
@@ -208,6 +226,12 @@
     "name": "Roo's Satyr and Faun Xenotypes Expanded",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "11.0.4"
   },
   {
     "author": "Neronix17",
@@ -418,5 +442,53 @@
     "name": "Simple sidearms",
     "steamId": "927155256",
     "version": "1.4.6.0"
+  },
+  {
+    "author": "Slime-Senpai",
+    "name": "EndlessGrowth",
+    "steamId": "2894401734",
+    "version": "1.5.2.0"
+  },
+  {
+    "author": "Anthony Therrien",
+    "name": "Astraltech Bionic Implants",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Inglix",
+    "name": "Apparel Tainted Only When Corpse Rots",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "legodude17 and Oskar Potocki",
+    "name": "Vanilla Skills Expanded",
+    "steamId": "3400246558",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "G13",
+    "name": "The Dead Man's Switch - Sisters Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Anxie",
+    "name": "Ratkin Knights+",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Helixien, Taranchuk, OskarPotocki, Luizi, IcingWithCheeseCake, Sir Van and Reann_Shepard",
+    "name": "Reinforced Mechanoid 2 (Continued)",
+    "steamId": "3400713047",
+    "version": "1.5.17"
+  },
+  {
+    "author": "Roolo",
+    "name": "Search and Destroy (Unofficial Update)",
+    "steamId": null,
+    "version": null
   }
 ]

@@ -1795,17 +1795,17 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 1,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy has outstanding memory, both in terms of retaining information but also muscle memory. his skills will never decay.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Anomaly",
@@ -4033,6 +4033,378 @@
       },
       "defName": "VPE_Thrall",
       "name": "thrall"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1500,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "Timmy is the Maru. They feel the warmth, remind themselves that they are alive, and clear their minds.",
+      "stats": [
+        "Flame meditation focus type allowed."
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Flame meditation focus type allowed."
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Maru_flameworship",
+      "name": "flameworship"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1500,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "Any object, event, or technology has cause and effect.\nTimmy is very skilled at identifying and learning such causal relationships.",
+      "stats": [
+        "+25% global learning factor",
+        "+20% sell price multiplier"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+25% global learning factor",
+          "+20% sell price multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "MRT_Eyetrait",
+      "name": "sharpeye"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1500,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "Timmy's body is naturally flexible.\nStronger and more flexible than others, it has a significant advantage in hunting.",
+      "stats": [
+        "+10.0 melee dodge chance",
+        "+0.20 move speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+10.0 melee dodge chance",
+          "+0.20 move speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "MRT_Bodytrait",
+      "name": "flexible"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1500,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "Timmy believes that he is right.\nThe firm belief has a positive effect on his will, just like his piety, but he also tends to ignore the opinions of others.",
+      "stats": [
+        "-9% mental break threshold",
+        "+10% global work speed",
+        "+50% global certainty loss factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-9% mental break threshold",
+          "+10% global work speed",
+          "+50% global certainty loss factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "MRT_Mentaltrait",
+      "name": "self-righteousness"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1500,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "A person with strong leadership always influences those around them, either positively or negatively.\nNo one knows what path such a person will choose or what kind of life he will lead. But one thing is certain, he won't be an ordinary person who comes and goes into the world without anyone knowing. /n/nTimmy was born with that gift.",
+      "stats": [
+        "-100% mental break threshold"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-100% mental break threshold"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "MRT_Mountaintrait",
+      "name": "leadership"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1500,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "Timmy has ears that are sensitive to even small sounds.\n Being sensitive to sounds is always an advantage in life outside of its nest, but it also has the disadvantage of not being able to fall asleep deeply.",
+      "stats": [
+        "-20% rest rate multiplier",
+        "+8.0 melee dodge chance",
+        "+2.0 melee hit chance"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-20% rest rate multiplier",
+          "+8.0 melee dodge chance",
+          "+2.0 melee hit chance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "MRT_Eartrait",
+      "name": "sensitiveears"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1500,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "Timmy is an experimentally cultivated Maru.\nIt has significantly superior physical abilities than other floors, but its autoimmunity is very low due to its imperfect design.",
+      "stats": [
+        "-16% immunity gain speed",
+        "+15.0 melee dodge chance",
+        "+0.60 move speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-16% immunity gain speed",
+          "+15.0 melee dodge chance",
+          "+0.60 move speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "MRT_Prototype",
+      "name": "prototype"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1500,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "A fragment of a talent to accomplish a feat.",
+      "stats": [
+        "+75% global learning factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+75% global learning factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "MRT_MountainA",
+      "name": "inquisitivemind"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1500,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "A fragment of a talent to accomplish a feat.",
+      "stats": [
+        "-14% mental break threshold",
+        "+40% global work speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-14% mental break threshold",
+          "+40% global work speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "MRT_MountainB",
+      "name": "senseofduty"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1500,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "A fragment of a talent to accomplish a feat.",
+      "stats": [
+        "+150.00% negotiation ability",
+        "+150.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+150.00% negotiation ability",
+          "+150.00% social impact"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "MRT_MountainC",
+      "name": "philosophy"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1500,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "A fragment of a talent to accomplish a feat.",
+      "stats": [
+        "-25% mental break threshold"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-25% mental break threshold"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Maru Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "MRT_MountainD",
+      "name": "warp"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1500,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "Timmy is a part of an unknown consciousness. when others approach, they will feel a burning sensation",
+      "stats": [
+        "+1.0 beauty",
+        "x80% flammability"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+1.0 beauty",
+          "x80% flammability"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Cinders of the Embergarden",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Cinder_Coke",
+      "name": "coke"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1500,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "Timmy is a knight who strictly adheres to the chivalric creed, upholding justice, self-discipline, and regarding the protection of others as their divine duty.",
+      "stats": [
+        "+2 melee",
+        "+1.0 beauty",
+        "x75% global certainty loss factor",
+        "x75% incoming damage multiplier"
+      ],
+      "conflicts": [
+        "abrasive",
+        "psychopath"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "abrasive",
+          "psychopath"
+        ],
+        "stats": [
+          "+2 melee",
+          "+1.0 beauty",
+          "x75% global certainty loss factor",
+          "x75% incoming damage multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Ratkin Knights+",
+        "karmaTypeForAdding": null
+      },
+      "defName": "KnightCreed",
+      "name": "knightcreed"
     }
   ],
   "races": [
@@ -4522,6 +4894,93 @@
       "enabled": false,
       "name": "mech",
       "price": 4167
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+55.00 Mass",
+          "+50% Flammability",
+          "+3 Honor value",
+          "+$2200 Market value",
+          "+5.00 Move speed",
+          "+35% Mental break threshold",
+          "+46.8F Max comfortable temperature",
+          "-1.8F Min comfortable temperature",
+          "+100% Immunity gain speed",
+          "+75 Carrying capacity",
+          "+60 Meat amount",
+          "+50 Leather amount",
+          "+80% Pain shock threshold",
+          "+100% Psychic sensitivity",
+          "+1.2 Melee dodge chance",
+          "+1.0 Melee hit chance",
+          "+100% Aiming time",
+          "+1.0 Shooting accuracy",
+          "+100% Sell price multiplier",
+          "+90.00% Negotiation ability",
+          "+90.00% Trade price improvement",
+          "+90.00% Social impact",
+          "+100% Mechanoid shredding efficiency",
+          "+100% Mechanoid shredding speed",
+          "+100% Smelting speed",
+          "+100% General labor speed",
+          "+100% Butchery efficiency",
+          "+100% Butchery speed",
+          "+100.00% Food poison chance",
+          "+1.0 Cooking speed",
+          "+90% Rest rate multiplier",
+          "+80% Plant work speed",
+          "+100% Research speed",
+          "+100% Medical tend quality",
+          "+100% Drug synthesis speed",
+          "+100% Medical surgery success chance",
+          "+100% Mining speed",
+          "+100% Mining yield",
+          "+110% Hunting stealth"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A race that lives on the ruins of an unknown civilization. Also called Far North or Yeti, they live in a small society over a wide radius.",
+      "defName": "Maru",
+      "enabled": true,
+      "name": "Maru",
+      "price": 3667
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+75.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+4 Honor value",
+          "+4.60 Move speed",
+          "+90.0F Max comfortable temperature",
+          "+10.8F Min comfortable temperature",
+          "+80 Meat amount",
+          "+75 Leather amount",
+          "+75 Carrying capacity",
+          "+110% Immunity gain speed",
+          "+100% Psychic sensitivity",
+          "+1.0 Melee dodge chance",
+          "+100% Global work speed",
+          "+100% Drug synthesis speed",
+          "+100% Research speed",
+          "+115% Hacking speed",
+          "+100% Medical tend speed",
+          "+100% Medical tend quality",
+          "+100% Medical surgery success chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "“However, as prosperity inevitably leads to decline, this civilization did not escape the fate of destruction.” The Thucydides Trap led to a great war between two totalitarian regimes on this planet. The outcome of this war has long been lost to history, but one of its most direct consequences was a series of explosions at a nuclear power plant cluster in Siberia, part of the 'Eurasian Common Defense Agreement Alliance.' The massive energy and radioactive materials released from the explosions accidentally awakened a dormant avatar of an Other god deep within the planet (note: to be verified). The awakening of this Other god resulted in two chain reactions: first, the entire Siberian region and parts of Central Asia transformed into enclosed area, making them inaccessible and unobservable from the outside; second, those who were trapped inside the enclosed area, fortunate enough to have survived the war and the 'awakening,' underwent inhuman mutations. The modern scientific community unanimously agrees that these mutated humans are the original 'cinders.'",
+      "defName": "Alien_Cinder",
+      "enabled": true,
+      "name": "Cinder",
+      "price": 2917
     }
   ]
 }
