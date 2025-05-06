@@ -12,76 +12,28 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "11.0.5"
+  },
+  {
+    "author": "Vectorial1024",
+    "name": "Elite Bionics Framework",
+    "steamId": "1665403571",
+    "version": "2.0.0.0"
+  },
+  {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.7.1"
+  },
+  {
     "author": "erdelf",
     "name": "Humanoid Alien Races",
     "steamId": "839005762",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Roo",
-    "name": "Yuran race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "VAMV",
-    "name": "Maru Race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Nemonian.MY",
-    "name": "[1.5] Moyo - from the depth",
-    "steamId": "3240244292",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "AOBA",
-    "name": "[1.5] Moyo - Light in the Abyss",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Nemonian",
-    "name": "[1.5] Moyo - The Cartel Arrives",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Gloomylynx Nukafrog",
-    "name": "NewRatkinPlus",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Feng Xinzi",
-    "name": "Ratkin Weapons+",
-    "steamId": "2779404660",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "PPONN",
-    "name": "Ratkin Apparel+(unofficial))",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Corvenik",
-    "name": "Ratkin Apparel Layer Fix",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "dave.420 and TimesNewRoman",
-    "name": "Rimfront Armorworks",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Seioch and MaroonToon",
-    "name": "Kurin HAR Edition",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
@@ -90,106 +42,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "AobaKuma",
-    "name": "Exosuit Framework",
-    "steamId": "3352894993",
-    "version": "1.0.0+7f0aa325c0b37ab33e0c25b8807fe9e554488754"
-  },
-  {
-    "author": "The Biomes Mod Team",
-    "name": "Biomes! Core",
-    "steamId": "2038000893",
-    "version": "2.6.2.0"
-  },
-  {
     "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
     "version": "1.7.3+1b7d7cb57a0a1a5a74476cd6f0775fb8ee67d71c"
-  },
-  {
-    "author": "The Biomes Mod Team",
-    "name": "Biomes! Caverns",
-    "steamId": "2969748433",
-    "version": "1.6.3.0"
-  },
-  {
-    "author": "rooki1",
-    "name": "Rimsenal - Hair pack",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "rooki1",
-    "name": "Rimsenal - Security Pack",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "rooki1",
-    "name": "Rimsenal - Storytellers Pack",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "rooki1",
-    "name": "Rimsenal - Feral Faction Pack",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "rooki1",
-    "name": "Rimsenal - Federation Faction Pack",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "rooki1",
-    "name": "Rimsenal - Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "rooki1",
-    "name": "Rimsenal - Augmented Vanilla Pack",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "AobaKuma , Bill Doors, Bread Mo and KV4EX",
-    "name": "The Dead Man's Switch",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "BreadMoAOBA",
-    "name": "Cinders of the Embergarden",
-    "steamId": "3421959154",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "AobaKuma",
-    "name": "The Dead Man's Switch - MobileDragoon",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "AobaKuma",
-    "name": "The Dead Man's Switch - Synthetic",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Pesky",
-    "name": "XS1 Goliath",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rooboid and Zelan",
-    "name": "Roo's Minotaur Xenotype",
-    "steamId": "2927812651",
-    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki, Taranchuk and Chowder",
@@ -198,70 +54,16 @@
     "version": "1.4.1.0"
   },
   {
-    "author": "Rooboid and Zelan",
-    "name": "Roo's Faun Xenotype",
-    "steamId": "2971801826",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Rooboid and Zelan",
-    "name": "Roo's Minotaur Xenotype Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Trunken and Sarg",
-    "name": "Vanilla Apparel Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rooboid and Zelan",
-    "name": "Roo's Satyr Xenotype",
-    "steamId": "2971803439",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Rooboid and Zelan",
-    "name": "Roo's Satyr and Faun Xenotypes Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "HugsLib",
-    "steamId": "818773962",
-    "version": "11.0.4"
-  },
-  {
-    "author": "Neronix17",
-    "name": "Tabula Rasa",
-    "steamId": "1660622094",
-    "version": "1.5.8928.40486"
-  },
-  {
-    "author": "Neronix17",
-    "name": "Archotech Genetics",
-    "steamId": "2995858859",
-    "version": "1.0.8871.34446"
-  },
-  {
-    "author": "RedMattis",
-    "name": "Big and Small - Genes & More",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "RedMattis",
-    "name": "Big and Small - Races",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
     "version": "1.5.10.0"
+  },
+  {
+    "author": "SmArtKar",
+    "name": "Athena Framework",
+    "steamId": "2903359518",
+    "version": "0.0.0.0"
   },
   {
     "author": "LTS",
@@ -276,58 +78,16 @@
     "version": "1.5.2"
   },
   {
-    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
-    "name": "Vanilla Weapons Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Quickdraw",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Laser",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Taranchuk",
-    "name": "Vanilla Weapons Expanded - Heavy Weapons",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, AveryTheKitty and Taranchuk",
-    "name": "Vanilla Weapons Expanded - Coilguns",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, LimeTreeSnake and Kikohi",
-    "name": "Vanilla Factions Expanded - Settlers",
-    "steamId": "2052918119",
-    "version": "1.2.0.0"
-  },
-  {
-    "author": "Oskar Potocki, Luizi and xrushha",
-    "name": "Vanilla Weapons Expanded - Frontier",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, ISOREX, xrushha, legodude17 and Chowder",
-    "name": "Vanilla Factions Expanded - Classical",
-    "steamId": "2787850474",
+    "author": "Killathon",
+    "name": "ABF: Artificial Beings Framework",
+    "steamId": "3284097810",
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki, Kentington, Sarg Bjornson, erdelf, Kikohi, Chowder, Taranchuk and ISOREX",
-    "name": "Vanilla Factions Expanded - Mechanoids",
-    "steamId": "2329011599",
-    "version": "1.0.1.2"
+    "author": "Killathon",
+    "name": "ABF: Synstructs Core",
+    "steamId": "3288463094",
+    "version": "1.0.0.0"
   },
   {
     "author": "Krkr",
@@ -336,82 +96,10 @@
     "version": "0.6.3.2421"
   },
   {
-    "author": "Oskar Potocki, xrushha, SmashPhil and legodude17",
-    "name": "Vanilla Apparel Expanded — Accessories",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
-    "name": "Vanilla Armour Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Chemfuel Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, xrushha, legodude17 and Allie",
-    "name": "Vanilla Factions Expanded - Empire",
-    "steamId": "2938820380",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, xrushha and legodude17",
-    "name": "Vanilla Factions Expanded - Deserters",
-    "steamId": "3025493377",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, xrushha, Taranchuk, Sarg Bjornson and Oracle of Thessia",
-    "name": "Vanilla Factions Expanded - Medieval 2",
-    "steamId": "3444347874",
-    "version": "1.0.6.0"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson, erdelf, Roolo, Smash Phil, Taranchuk, xrushha, Kikohi and legodude17",
-    "name": "Vanilla Factions Expanded - Pirates",
-    "steamId": "2723801948",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oskar Potocki and XeoNovaDan",
     "name": "Vanilla Hair Expanded",
     "steamId": "1888705256",
     "version": "1.0.3"
-  },
-  {
-    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
-    "name": "Vanilla Psycasts Expanded",
-    "steamId": "2842502659",
-    "version": "1.1.0.0"
-  },
-  {
-    "author": "legodude17 and Oskar Potocki",
-    "name": "Vanilla Outposts Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Grenades",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Non-Lethal",
-    "steamId": "2454918354",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Tribal",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Syrchalis",
@@ -420,9 +108,69 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "PeteTimesSix",
+    "name": "Simple sidearms",
+    "steamId": "927155256",
+    "version": "1.4.6.0"
+  },
+  {
+    "author": "Slime-Senpai",
+    "name": "EndlessGrowth",
+    "steamId": "2894401734",
+    "version": "1.5.2.0"
+  },
+  {
+    "author": "Inglix",
+    "name": "Apparel Tainted Only When Corpse Rots",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "legodude17 and Oskar Potocki",
+    "name": "Vanilla Skills Expanded",
+    "steamId": "3400246558",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Roolo",
+    "name": "Search and Destroy (Unofficial Update)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "alite",
+    "name": "EBSG Framework",
+    "steamId": "3112549163",
+    "version": "1.0.9243.34809"
+  },
+  {
+    "author": "Turnovus",
+    "name": "Integrated Genes",
+    "steamId": "2884115974",
+    "version": "1.5.2"
+  },
+  {
+    "author": "kaitorisenkou",
+    "name": "ModularWeapons",
+    "steamId": "2878204522",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "nry",
     "name": "ToolkitCore",
     "steamId": "3013877477",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Soul, Phaneron and Bradson",
+    "name": "Adaptive Storage Framework",
+    "steamId": "3033901359",
+    "version": "1.1.1"
+  },
+  {
+    "author": "Ogre",
+    "name": "OgreStack",
+    "steamId": "1447140290",
     "version": "1.0.0.0"
   },
   {
@@ -438,56 +186,56 @@
     "version": "7.0.5.0-beta+e8d2ab06fe38b0b1f43d53750a3b8ba18d5edcda"
   },
   {
-    "author": "PeteTimesSix",
-    "name": "Simple sidearms",
-    "steamId": "927155256",
-    "version": "1.4.6.0"
-  },
-  {
-    "author": "Slime-Senpai",
-    "name": "EndlessGrowth",
-    "steamId": "2894401734",
-    "version": "1.5.2.0"
-  },
-  {
-    "author": "Anthony Therrien",
-    "name": "Astraltech Bionic Implants",
+    "author": "Reel",
+    "name": "Reel's Expanded Storage",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Inglix",
-    "name": "Apparel Tainted Only When Corpse Rots",
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Props and Decor",
+    "steamId": "2102143149",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "guy762, Sovereign and Kaitorisenkou",
+    "name": "Star Wars Xenotypes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "guy762, MajesticMadman, Kaitorisenkou and lee01richards",
+    "name": "Star Wars KotOR Resources and Materials",
+    "steamId": "3254370945",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "guy762",
+    "name": "Star Wars KotOR Weapons and Armor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "guy762",
+    "name": "Star Wars KotOR Droids",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "guy762, Lee, Kaitorisenkou and Ranger Rick",
+    "name": "Star Wars KotOR Factions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dracora",
+    "name": "ΩmegaTech",
     "steamId": null,
     "version": null
   },
   {
     "author": "legodude17 and Oskar Potocki",
-    "name": "Vanilla Skills Expanded",
-    "steamId": "3400246558",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "G13",
-    "name": "The Dead Man's Switch - Sisters Retexture",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Anxie",
-    "name": "Ratkin Knights+",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Helixien, Taranchuk, OskarPotocki, Luizi, IcingWithCheeseCake, Sir Van and Reann_Shepard",
-    "name": "Reinforced Mechanoid 2 (Continued)",
-    "steamId": "3400713047",
-    "version": "1.5.17"
-  },
-  {
-    "author": "Roolo",
-    "name": "Search and Destroy (Unofficial Update)",
+    "name": "Vanilla Outposts Expanded",
     "steamId": null,
     "version": null
   }
