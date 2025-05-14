@@ -141,7 +141,7 @@
     "author": "alite",
     "name": "EBSG Framework",
     "steamId": "3112549163",
-    "version": "1.0.9243.34809"
+    "version": "1.0.9257.38779"
   },
   {
     "author": "Turnovus",
@@ -198,6 +198,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
+    "name": "Vanilla Psycasts Expanded",
+    "steamId": "2842502659",
+    "version": "1.1.0.0"
+  },
+  {
     "author": "guy762, Sovereign and Kaitorisenkou",
     "name": "Star Wars Xenotypes",
     "steamId": null,
@@ -238,5 +244,23 @@
     "name": "Vanilla Outposts Expanded",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "Tabula Rasa",
+    "steamId": "1660622094",
+    "version": "1.5.8928.40486"
+  },
+  {
+    "author": "Neronix17",
+    "name": "Archotech Genetics",
+    "steamId": "2995858859",
+    "version": "1.0.8871.34446"
+  },
+  {
+    "author": "Lee",
+    "name": "Star Wars : The Force-Psycast",
+    "steamId": "3100942433",
+    "version": "1.0.0.0"
   }
 ]
