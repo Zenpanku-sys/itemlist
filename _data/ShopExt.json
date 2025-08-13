@@ -1989,7 +1989,563 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "Timmy is able to use oversized weapons.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Framework",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_Giant",
+      "name": "giant"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "Timmy has exceptionally basic common traits.",
+      "stats": [
+        "+2 construction",
+        "+2 melee",
+        "+2 mining",
+        "+8.0% Armor - Blunt",
+        "+8.0% Armor - Sharp",
+        "+8.0% Armor - Heat",
+        "+8% general labor speed",
+        "+8% global learning factor",
+        "+8% immunity gain speed",
+        "-2.8% incoming damage multiplier",
+        "+8% injury healing factor",
+        "+0.08 max nutrition",
+        "+8% melee armor penetration",
+        "-8% melee cooldown",
+        "+8.8% melee damage factor",
+        "+0.1 melee dodge chance",
+        "+0.1 melee hit chance",
+        "-8% mental break threshold",
+        "+8% mining speed",
+        "+8% mining yield",
+        "+0.08 move speed",
+        "+8.00% negotiation ability",
+        "+8% pain shock threshold",
+        "+8% psychic sensitivity",
+        "+8% research speed",
+        "+8% rest rate multiplier",
+        "+8% global work speed",
+        "+0.1F max comfortable temperature",
+        "-0.1F min comfortable temperature",
+        "+0.089 honor value",
+        "+8% / day meditation psyfocus gain",
+        "+0.1 neural heat limit",
+        "+0.08 neural heat recovery rate",
+        "x180% raid wealth multiplier",
+        "x92% Acid damage multiplier",
+        "x92% Piercing resistance multiplier",
+        "x92% Concussive damage multiplier",
+        "x108% Mass carry capacity"
+      ],
+      "conflicts": [
+        "slowlearner",
+        "pyromaniac",
+        "wimp",
+        "bodypurist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "slowlearner",
+          "pyromaniac",
+          "wimp",
+          "bodypurist"
+        ],
+        "stats": [
+          "+2 construction",
+          "+2 melee",
+          "+2 mining",
+          "+8.0% Armor - Blunt",
+          "+8.0% Armor - Sharp",
+          "+8.0% Armor - Heat",
+          "+8% general labor speed",
+          "+8% global learning factor",
+          "+8% immunity gain speed",
+          "-2.8% incoming damage multiplier",
+          "+8% injury healing factor",
+          "+0.08 max nutrition",
+          "+8% melee armor penetration",
+          "-8% melee cooldown",
+          "+8.8% melee damage factor",
+          "+0.1 melee dodge chance",
+          "+0.1 melee hit chance",
+          "-8% mental break threshold",
+          "+8% mining speed",
+          "+8% mining yield",
+          "+0.08 move speed",
+          "+8.00% negotiation ability",
+          "+8% pain shock threshold",
+          "+8% psychic sensitivity",
+          "+8% research speed",
+          "+8% rest rate multiplier",
+          "+8% global work speed",
+          "+0.1F max comfortable temperature",
+          "-0.1F min comfortable temperature",
+          "+0.089 honor value",
+          "+8% / day meditation psyfocus gain",
+          "+0.1 neural heat limit",
+          "+0.08 neural heat recovery rate",
+          "x180% raid wealth multiplier",
+          "x92% Acid damage multiplier",
+          "x92% Piercing resistance multiplier",
+          "x92% Concussive damage multiplier",
+          "x108% Mass carry capacity"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "(RD)BasicThings",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VeryCommon",
+      "name": "verycommon"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "Timmy has moderate combat capability.",
+      "stats": [
+        "+6 melee",
+        "+20.0% Armor - Blunt",
+        "+20.0% Armor - Sharp",
+        "+20.0% Armor - Heat",
+        "+20% general labor speed",
+        "-20% incoming damage multiplier",
+        "+20% injury healing factor",
+        "+20% melee armor penetration",
+        "-20% melee cooldown",
+        "+20% melee damage factor",
+        "+0.2 melee dodge chance",
+        "+0.2 melee hit chance",
+        "-20% mental break threshold",
+        "+0.20 move speed",
+        "+20% pain shock threshold",
+        "x420% raid wealth multiplier",
+        "x80% Acid damage multiplier",
+        "x80% Piercing resistance multiplier",
+        "x80% Concussive damage multiplier",
+        "x120% Mass carry capacity"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+6 melee",
+          "+20.0% Armor - Blunt",
+          "+20.0% Armor - Sharp",
+          "+20.0% Armor - Heat",
+          "+20% general labor speed",
+          "-20% incoming damage multiplier",
+          "+20% injury healing factor",
+          "+20% melee armor penetration",
+          "-20% melee cooldown",
+          "+20% melee damage factor",
+          "+0.2 melee dodge chance",
+          "+0.2 melee hit chance",
+          "-20% mental break threshold",
+          "+0.20 move speed",
+          "+20% pain shock threshold",
+          "x420% raid wealth multiplier",
+          "x80% Acid damage multiplier",
+          "x80% Piercing resistance multiplier",
+          "x80% Concussive damage multiplier",
+          "x120% Mass carry capacity"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "(RD)BasicThings",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Scrappy",
+      "name": "scrappy"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "Timmy learns faster in skills they lack passion in.\n\n(This increase to no-passion learning will not show in the skill UI)",
+      "stats": [
+        "+0.35 skill learning (no passion)",
+        "+15% global learning factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+0.35 skill learning (no passion)",
+          "+15% global learning factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Passioned_Learning",
+      "name": "diligentstudent"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "Timmy learns much faster in skills they lack passion in.\n\n(This increase to no-passion learning will not show in the skill UI)",
+      "stats": [
+        "+0.65 skill learning (no passion)",
+        "+30% global learning factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+0.65 skill learning (no passion)",
+          "+30% global learning factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Very_Passioned_Learning",
+      "name": "verydiligentstudent"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "There is something about Timmy that makes predators not consider them prey",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_AnimalFriend",
+      "name": "animalfriend"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "Timmy loves alcohol. he will never stop being addicted to it.",
+      "stats": [
+        "+10% mental break threshold",
+        "x150% recreation power"
+      ],
+      "conflicts": [
+        "chemicalfascination",
+        "chemicalinterest",
+        "teetotaler",
+        "lush"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "chemicalfascination",
+          "chemicalinterest",
+          "teetotaler",
+          "lush"
+        ],
+        "stats": [
+          "+10% mental break threshold",
+          "x150% recreation power"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_AlcoholAddict",
+      "name": "alcohollover"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "Timmy has a gentle and cool-headed nature. he is less likely to insult others or starts fights, and will sometimes cheer up others.",
+      "stats": [
+        "-20% mental break threshold"
+      ],
+      "conflicts": [
+        "abrasive",
+        "kind",
+        "psychopath"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "abrasive",
+          "kind",
+          "psychopath"
+        ],
+        "stats": [
+          "-20% mental break threshold"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_Gentle",
+      "name": "gentle"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "Timmy doesn't react to insults or to either part failing a flirt attempt.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_InsultProof",
+      "name": "uninsultable"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "Timmy isn't bothered by rough appearances, a bit of rough living. Timmy also doesn't care as much for royal titles.",
+      "stats": [],
+      "conflicts": [
+        "greedy",
+        "jealous",
+        "bodypurist",
+        "misandrist",
+        "misogynist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "greedy",
+          "jealous",
+          "bodypurist",
+          "misandrist",
+          "misogynist"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_Unpretentious",
+      "name": "unpretentious"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "Timmy is truly gigantic by the standards of their kind. They are sturdier than usual, but being significantly larger than normal for their kind does slow them down somewhat and make them more prone to early heart attacks and other health-issues.",
+      "stats": [
+        "x130% body size multipler",
+        "x110% construction speed",
+        "x90% move speed",
+        "x80% lifespan factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x130% body size multipler",
+          "x110% construction speed",
+          "x90% move speed",
+          "x80% lifespan factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Gigantism",
+      "name": "gigantism"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "Timmy is both taller and bulkier than usual for their kind. This makes them sturdier but slightly slower.",
+      "stats": [
+        "x115% body size multipler",
+        "x105% construction speed",
+        "x98% move speed",
+        "x95% lifespan factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x115% body size multipler",
+          "x105% construction speed",
+          "x98% move speed",
+          "x95% lifespan factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Large",
+      "name": "large"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "Timmy is a bit smaller than usual for their kind.",
+      "stats": [
+        "x80% body size multipler",
+        "x95% mining speed",
+        "x95% construction speed",
+        "x95% deep drilling speed",
+        "x93% move speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x80% body size multipler",
+          "x95% mining speed",
+          "x95% construction speed",
+          "x95% deep drilling speed",
+          "x93% move speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Small",
+      "name": "small"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "Timmy is much smaller than usual for their kind.",
+      "stats": [
+        "x60% body size multipler",
+        "x75% mining speed",
+        "x75% construction speed",
+        "x75% deep drilling speed",
+        "x85% move speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x60% body size multipler",
+          "x75% mining speed",
+          "x75% construction speed",
+          "x75% deep drilling speed",
+          "x85% move speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Dwarfism",
+      "name": "dwarfism"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 1,
+      "degree": 0,
+      "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Psycasts Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VPE_Thrall",
+      "name": "thrall"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy tends to occasionally allow their mind to drift, even in the middle of working.",
@@ -2019,7 +2575,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy has a loose screw or two, a small trade off for being naturally scientifically inclined.",
@@ -2049,7 +2605,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy strives for perfection in his work. They will naturally produce better quality products at the expense of time. However, making a low quality product will upset them. Additionally, they may very rarely quit a project mid attempt if they don't like the direction its going in.",
@@ -2075,7 +2631,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "While fully capable of warfare in theory, Timmy's fight or flight instincts heavily lean towards flight, and he will try to hide or run as a first priority.",
@@ -2105,7 +2661,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy has a higher mental and physical fortitude compared to most and can more readily adapt to harsh environments in the rimworlds.",
@@ -2149,7 +2705,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Minor bruises and scrapes plague Timmy all too often, mostly due to uncoordinated tripping or falling.",
@@ -2175,7 +2731,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy loves the brightness and heat of a dry summer day. They don't mind working up a sweat or sleeping in the warmth either.",
@@ -2201,7 +2757,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy loves the overcast and cold of a brisk winter night. They don't mind getting chilly or sleeping in the cold either.",
@@ -2227,7 +2783,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "A bomb could go off next to Timmy while they sleep and they'd continue to do so. They can't be bothered to defend the colony mid catnap, either.",
@@ -2249,7 +2805,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy is naturally hygenic and organized. They will not track in dirt or throw trash anywhere, and feel happy while cleaning.",
@@ -2275,7 +2831,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy is sloppy naturally and leaves trash and dirt everywhere it seems. At least they're not much bothered by messes.",
@@ -2301,7 +2857,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy has problems taking breaks or resting mid job. he will continue to work even sacrificing their health or sleep.",
@@ -2327,7 +2883,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy has never felt nausea in his life. Throwing up or food poisoning is foreign to him.",
@@ -2353,7 +2909,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy can't stand mistreatment of animals. he will feel happier being nuzzled or being a master to a bonded animal, but will be more deeply crushed when not master of a bonded animal or seeing one die. They also refuse to butcher.",
@@ -2379,7 +2935,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy believes deeply in human superiority. Killing animals will please them and the colony losing an animal is a cherry on top according to them.",
@@ -2411,7 +2967,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Whether because they're a bit chunky or because they shift their weight oddly, Timmy has broken a few chairs in their time and is likely to break more.",
@@ -2433,7 +2989,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy only plays by their own rules, and will roll their eyes and take it easy while doing any task they've been forced to do.",
@@ -2463,7 +3019,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy needs clear instructions on how, and when to do certain things and will only work at a normal speed when being forced to do something.",
@@ -2493,7 +3049,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy is fueled by spite. They can't stand walking on the same soil as their rivals and will be elated by news of their life ending.",
@@ -2523,7 +3079,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Whether by past trauma or fear of change, Timmy rejects modernity. They may randomly punch or attack mechanical devices and refuse to learn or research anything about them. They also love killing mechanoids.",
@@ -2553,7 +3109,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy always recalls the good times and lives to party, any party attended will be remembered for many times longer than most.",
@@ -2579,7 +3135,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy has hindered mental capacities. While slow to learn and hard to speak with, they tend to be much happier naturally.",
@@ -2623,7 +3179,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy learned a specific move in melee combat which allows them to disarm opponents and will use it frequently.",
@@ -2645,7 +3201,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy believes they belong in high society, and loves nothing more than critiquing art and brushing elbows with royalty.",
@@ -2671,7 +3227,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Sour stomach plagues Timmy any time they're around too much blood or rotting corpses. Vomiting is just part of life for him.",
@@ -2701,7 +3257,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy feels naturally anxious, but especially from social situations. They will not attend any gatherings and may occasionally need alone time in their room to breathe.",
@@ -2733,7 +3289,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "No amount of lovin' is enough lovin' for Timmy. he will tend to jump from partner to partner and tumble between the sheets with them frequently.",
@@ -2765,7 +3321,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy refuses to give their body to anybody but their spouse and would never fathom initiating a divorce. They also hate being nude much more than other pawns.",
@@ -2797,7 +3353,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "An armchair and flatscreen is all Timmy needs to be happy. Even reruns or ancient commercials are entertaining to them, they will never grow bored of television and tend to watch it more, as well as feel pleased after doing so.",
@@ -2819,7 +3375,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy is mad for all things feline. They will naturally gravitate towards bonding with cats, however they're not a fan of dogs.",
@@ -2845,7 +3401,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy is mad for all things canine. They will naturally gravitate towards bonding with dogs, however they're not a fan of cats.",
@@ -2871,7 +3427,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy is a natural scientist. They research much faster and recall things better. However, they'll be upset without a laboratory dedicated to their work and tend to stress out more frequently.",
@@ -2903,7 +3459,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy believes animals are integral to the way society and life functions from furry friends to sources of food. They love having as many as possible and are particularly good at taming and training them.",
@@ -2935,7 +3491,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "The sea calls to Timmy. he feels happier just being near the ocean or a deep river.",
@@ -2957,7 +3513,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "The mountains call to Timmy. he feels happier just being near a large mountain.",
@@ -2979,7 +3535,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy has a twisted secret. he treats organ harvesting like a sick experiment, and does not even blink at the idea. While harvesting one will make them happy, going too long without giving in to their compulsion will upset them.",
@@ -3005,7 +3561,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy is supposedly a hand-to-hand combat specialist, but only when inebriated. They claim to become more talented the more drunk they are.",
@@ -3031,7 +3587,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy is compulsive to steal and take things that don't belong to them, even if it means angering the other party.",
@@ -3057,7 +3613,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Smokeleaf culture is just part of life for Timmy. he absolutely adores smokeleaf and would rather die before giving it up.",
@@ -3087,7 +3643,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Alcohol culture is just part of life for Timmy. he absolutely adores booze and would rather die before giving it up.",
@@ -3117,7 +3673,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy loves to travel and does so swiftly, but can grow upset if they haven't done so in a while. They are also quite adept at foraging while traveling.",
@@ -3147,7 +3703,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy is never really asleep or awake. he is almost zombie like, lurching along and working very slowly, and will only sleep once every three days or so.",
@@ -3181,7 +3737,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy has grown tired of the world and needs to be constantly distracted to stop dark thoughts. his bleak personality is a big downer and therefore it is very hard to become friends with them.",
@@ -3203,7 +3759,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy is hardened through what can only be presumed as old emotional trauma. They feel absolutely nothing from lost animals, colonists, family, prisoners or dead bodies.",
@@ -3233,7 +3789,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Only the finest of culinary creations may grace the lips of Timmy. They feel neutral towards mundane meals, but will laud and savour lavish meals down to the last bite.",
@@ -3263,7 +3819,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Whether through studying ancient manuscripts or years of scholastic pursuit Timmy is surprisingly well read on a variety of topics, particularly science and medical practice.",
@@ -3297,7 +3853,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy strongly believes infrastucture rules all and is a natural born stoneworker.",
@@ -3329,7 +3885,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "In the eyes of Timmy food is art, their culinary creations are incredibly beautiful, amazing to taste, and almost always safe to eat.",
@@ -3359,7 +3915,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Flora and fauna are both vital to Timmy. They use all parts of plants and animals and strongly appreciate mother Gaia's blessings.",
@@ -3391,7 +3947,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy has an eye for silver and a tongue made from it. They believe their products are the best products and he will likely convince you if given the chance.",
@@ -3421,7 +3977,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy is strangely hypercoagulating and will bleed much more slowly than most.",
@@ -3447,7 +4003,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy is strangely hemophilic and tends to bleed much more profusely than others.",
@@ -3473,7 +4029,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 3500,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy has trouble expressing themselves until its all too much to bear, whereafter they will have an utter meltdown.",
@@ -3491,406 +4047,6 @@
       },
       "defName": "VTE_Schizoid",
       "name": "schizoid"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1,
-      "degree": 1,
-      "description": "Timmy possesses a natural affinity for organic life, and is cheered up by its mere existence. he could spend all day admiring it.",
-      "stats": [
-        "Natural meditation focus type allowed.",
-        "+40% animals learning factor",
-        "+100.00% bond chance factor"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "Natural meditation focus type allowed.",
-          "+40% animals learning factor",
-          "+100.00% bond chance factor"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "ABF: Synstructs Core",
-        "karmaTypeForAdding": null
-      },
-      "defName": "ABF_Trait_Synstruct_BiologicalPreference",
-      "name": "biophile"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1,
-      "degree": -1,
-      "description": "Timmy possesses an irrational fear of organic life, bordering on hysteria. he believes all life is out to get him.",
-      "stats": [
-        "-40% animals learning factor",
-        "x0% bond chance factor"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "-40% animals learning factor",
-          "x0% bond chance factor"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "ABF: Synstructs Core",
-        "karmaTypeForAdding": null
-      },
-      "defName": "ABF_Trait_Synstruct_BiologicalPreference",
-      "name": "biophobe"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1,
-      "degree": 0,
-      "description": "Timmy has a gentle and cool-headed nature. he is less likely to insult others or starts fights, and will sometimes cheer up others.",
-      "stats": [
-        "-20% mental break threshold"
-      ],
-      "conflicts": [
-        "abrasive",
-        "kind",
-        "psychopath"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "abrasive",
-          "kind",
-          "psychopath"
-        ],
-        "stats": [
-          "-20% mental break threshold"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Big and Small - Framework",
-        "karmaTypeForAdding": null
-      },
-      "defName": "BS_Gentle",
-      "name": "gentle"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1,
-      "degree": 0,
-      "description": "Timmy is able to use oversized weapons.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Big and Small - Framework",
-        "karmaTypeForAdding": null
-      },
-      "defName": "BS_Giant",
-      "name": "giant"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Psycasts Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VPE_Thrall",
-      "name": "thrall"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 2,
-      "description": "Timmy has a very strong connection with the Force. he is extremely sensitive to psychic phenomena.",
-      "stats": [
-        "+80% psychic sensitivity"
-      ],
-      "conflicts": [
-        "psychicallyhypersensitive",
-        "psychicallysensitive",
-        "psychicallydull",
-        "psychicallydeaf"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "psychicallyhypersensitive",
-          "psychicallysensitive",
-          "psychicallydull",
-          "psychicallydeaf"
-        ],
-        "stats": [
-          "+80% psychic sensitivity"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Star Wars : The Force-Psycast",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Force_NeutralSensitivty",
-      "name": "majorforcesensitivity"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1,
-      "description": "Timmy has a connection with the Force. A metaphysical, spiritual, binding, and ubiquitous power that held enormous importance for both the Jedi and Sith monastic orders.",
-      "stats": [
-        "+40% psychic sensitivity"
-      ],
-      "conflicts": [
-        "psychicallyhypersensitive",
-        "psychicallysensitive",
-        "psychicallydull",
-        "psychicallydeaf"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "psychicallyhypersensitive",
-          "psychicallysensitive",
-          "psychicallydull",
-          "psychicallydeaf"
-        ],
-        "stats": [
-          "+40% psychic sensitivity"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Star Wars : The Force-Psycast",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Force_NeutralSensitivty",
-      "name": "forcesensitivity"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1,
-      "description": "Timmy has a weaker connection to the Force compared to other force sensitives. he isn't as affected by psychic phenomena.",
-      "stats": [
-        "+20% psychic sensitivity"
-      ],
-      "conflicts": [
-        "psychicallyhypersensitive",
-        "psychicallysensitive",
-        "psychicallydull",
-        "psychicallydeaf"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "psychicallyhypersensitive",
-          "psychicallysensitive",
-          "psychicallydull",
-          "psychicallydeaf"
-        ],
-        "stats": [
-          "+20% psychic sensitivity"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Star Wars : The Force-Psycast",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Force_NeutralSensitivty",
-      "name": "dullforcesensitivity"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1,
-      "description": "Timmy has a very strong affinity with the light side of the Force.",
-      "stats": [
-        "+80% light side attunement"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+80% light side attunement"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Star Wars : The Force-Psycast",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Force_LightAffinity",
-      "name": "majorlightsideaffinity"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy has a strong affinity with the light side of the Force.",
-      "stats": [
-        "+40% light side attunement"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+40% light side attunement"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Star Wars : The Force-Psycast",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Force_LightAffinity",
-      "name": "lightsideaffinity"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1,
-      "description": "Timmy has a weak affinity with the light side of the Force.",
-      "stats": [
-        "+20% light side attunement"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+20% light side attunement"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Star Wars : The Force-Psycast",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Force_LightAffinity",
-      "name": "minorlightsideaffinity"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1,
-      "description": "Timmy has a very strong affinity with the dark side of the Force.",
-      "stats": [
-        "+80% dark side corruption"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+80% dark side corruption"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Star Wars : The Force-Psycast",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Force_DarkAffinity",
-      "name": "majordarksideaffinity"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy has a strong affinity with the dark side of the Force.",
-      "stats": [
-        "+40% dark side corruption"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+40% dark side corruption"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Star Wars : The Force-Psycast",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Force_DarkAffinity",
-      "name": "darksideaffinity"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1,
-      "description": "Timmy has a weak affinity with the dark side of the Force.",
-      "stats": [
-        "+20% dark side corruption"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+20% dark side corruption"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Star Wars : The Force-Psycast",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Force_DarkAffinity",
-      "name": "minordarksideaffinity"
     }
   ],
   "races": [
@@ -3905,7 +4061,8 @@
           "+28.8F Min comfortable temperature",
           "+46.8F Max comfortable temperature",
           "+75 Leather amount",
-          "+3 Honor value"
+          "+3 Honor value",
+          "+75% Wildness"
         ],
         "mod": "Unknown",
         "karmaType": null
@@ -3927,7 +4084,8 @@
           "+28.8F Min comfortable temperature",
           "+46.8F Max comfortable temperature",
           "+75 Leather amount",
-          "+3 Honor value"
+          "+3 Honor value",
+          "+75% Wildness"
         ],
         "mod": "Unknown",
         "karmaType": null
@@ -3942,885 +4100,36 @@
       "data": {
         "customName": false,
         "stats": [
-          "+35.00 Mass",
+          "+60.00 Mass",
           "+0% Flammability",
-          "+100% Pain shock threshold",
-          "+0% Psychic sensitivity",
-          "+100% Toxic resistance",
-          "+100% Toxic environment resistance",
-          "+1000% Immunity gain speed",
+          "+$2500 Market value",
+          "+4.60 Move speed",
+          "+18.0F Min comfortable temperature",
+          "+72.0F Max comfortable temperature",
           "+0 Leather amount",
-          "+0 Meat amount",
-          "+115% Charging speed",
-          "+$3500 Market value",
-          "+3.00 Move speed",
-          "-225.0F Min comfortable temperature",
-          "+225.0F Max comfortable temperature",
-          "+150% Global learning factor",
-          "+180% Global work speed",
-          "+20.0% Armor - Sharp",
-          "+10.0% Armor - Blunt",
-          "+30.0% Armor - Heat",
-          "+175% Injury healing factor",
-          "+100% Incoming damage multiplier",
-          "+80% Stagger time multiplier",
-          "+90% EMP resistance",
-          "+100% Coherence retention efficiency",
-          "+115% Nutrition intake efficiency",
-          "+15 Complexity capacity",
-          "+14 Skill capacity"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Duwani's 3C line of utility droid is designed for more advanced repair work than cheaper competitor models are capable of. Equipped with a wide variety of tools for both micro and macro-scale repair work, these sophisticated droids excel in constrained environments where advantages of one advanced droid would be preferable to the upkeep of many basic droids, such as in deep-space mining claims and on naval warships.\n\nBy default, this droid is capable of the following work types:\n\n-Construction\n-Crafting\n-Hauling\n-Firefighting\n-Combat",
-      "defName": "guy762_DroidRace_3Cseries",
-      "enabled": true,
-      "name": "3C-series utility droid",
-      "price": 5833
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+25.00 Mass",
-          "+0% Flammability",
-          "+100% Pain shock threshold",
-          "+0% Psychic sensitivity",
+          "+3 Honor value",
+          "+75% Wildness",
+          "+75% Psychic sensitivity",
           "+100% Toxic resistance",
-          "+100% Toxic environment resistance",
-          "+1000% Immunity gain speed",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+125% Charging speed",
-          "+$800 Market value",
-          "+3.00 Move speed",
-          "-315.0F Min comfortable temperature",
-          "+315.0F Max comfortable temperature",
-          "+50% Global learning factor",
-          "+110% Global work speed",
-          "+10.0% Armor - Sharp",
-          "+5.0% Armor - Blunt",
-          "+20.0% Armor - Heat",
-          "+50% Injury healing factor",
-          "+175% Coherence retention efficiency",
-          "+125% Nutrition intake efficiency",
-          "+15 Complexity capacity",
-          "+14 Skill capacity"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A simple multipurpose utility droid, Serv-O-Droid's R-8009 series quickly established itself to be the galaxy's leading maintenance and cleaning droid. These compact droids can be found everywhere in the galaxy in roles ranging from basic civil maintenance to fast-response starship repair.\n\nBy default, this droid is capable of the following work types:\n\n-Construction\n-Cleaning\n-Hauling\n-Firefighting\n-Combat",
-      "defName": "guy762_DroidRace_R8009UD",
-      "enabled": true,
-      "name": "R-8009 series utility droid",
-      "price": 1333
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+65.00 Mass",
-          "+0% Flammability",
-          "+100% Pain shock threshold",
-          "+0% Psychic sensitivity",
-          "+100% Toxic resistance",
-          "+100% Toxic environment resistance",
-          "+1000% Immunity gain speed",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+75% Charging speed",
-          "+$1800 Market value",
-          "+1.00 Move speed",
-          "-45.0F Min comfortable temperature",
-          "+45.0F Max comfortable temperature",
-          "+100% Global learning factor",
-          "+100% Global work speed",
-          "+10.0% Armor - Sharp",
-          "+5.0% Armor - Blunt",
-          "+20.0% Armor - Heat",
-          "+25% Injury healing factor",
-          "+0% EMP resistance",
-          "+125% Coherence retention efficiency",
-          "+75% Nutrition intake efficiency",
-          "+20 Complexity capacity",
-          "+16 Skill capacity"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "The GE3-series protocol droid is one of Czerka Corporation's leading products, and can be found throughout the galaxy in a variety of different public service roles. Its simplistic design allows for many different programming options, and can serve as an interpreter, medical, or even a computer networking droid.\n\nBy default, this droid is capable of the following work types:\n\n-Social\n-Medical\n-Firefighting",
-      "defName": "guy762_DroidRace_GE3PD",
-      "enabled": true,
-      "name": "GE3-series protocol droid",
-      "price": 3000
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+65.00 Mass",
-          "+0% Flammability",
-          "+100% Pain shock threshold",
-          "+0% Psychic sensitivity",
-          "+100% Toxic resistance",
-          "+100% Toxic environment resistance",
-          "+1000% Immunity gain speed",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+75% Charging speed",
-          "+$1400 Market value",
-          "+2.00 Move speed",
-          "-90.0F Min comfortable temperature",
-          "+90.0F Max comfortable temperature",
-          "+100% Global learning factor",
-          "+150% Global work speed",
-          "+10.0% Armor - Sharp",
-          "+5.0% Armor - Blunt",
-          "+20.0% Armor - Heat",
-          "+25% Injury healing factor",
-          "+0% EMP resistance",
-          "+75% Coherence retention efficiency",
-          "+75% Nutrition intake efficiency",
-          "+25 Complexity capacity",
-          "+14 Skill capacity"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "This version of the popular GE3-series droid is designed for common labor, as opposed to human-cyborg relations. Marketed primarily to agri-world plantation owners, its enhanced servomotors allow for a greater range of full-body movement than the ordinarily stiff GE3 protocol droids are capable of, necessary for performing more physically demanding tasks like crop seeding and harvesting.\n\nBy default, this droid is capable of the following work types:\n\n-Cleaning\n-Hauling\n-Firefighting\n-Plants",
-      "defName": "guy762_DroidRace_GE3LD",
-      "enabled": true,
-      "name": "GE3-series labor droid",
-      "price": 2333
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+15.00 Mass",
-          "+0% Flammability",
-          "+100% Pain shock threshold",
-          "+0% Psychic sensitivity",
-          "+100% Toxic resistance",
-          "+100% Toxic environment resistance",
-          "+1000% Immunity gain speed",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+100% Charging speed",
-          "+$1600 Market value",
-          "+3.00 Move speed",
-          "-225.0F Min comfortable temperature",
-          "+225.0F Max comfortable temperature",
-          "+75% Global learning factor",
-          "+100% Global work speed",
-          "+10.0% Armor - Sharp",
-          "+5.0% Armor - Blunt",
-          "+20.0% Armor - Heat",
-          "+85% Injury healing factor",
-          "+75% Coherence retention efficiency",
-          "+100% Nutrition intake efficiency",
-          "+25 Complexity capacity",
-          "+14 Skill capacity"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A triumph in droid modularity, MerenData's K-X12 probe droid is an extremely versatile model that can fulfill a variety of different programmable roles. Originally designed to serve as a scout unit in Republic infantry divisions, the simplicity of the model's design allows for easy modification of both software and hardware, and can be programmed for tasks ranging from basic construction and repair to computer use and first aid.\n\nBy default, this droid is capable of the following work types:\n\n-Firefighting\n-Combat\n-Hunting",
-      "defName": "guy762_DroidRace_KX12UPD",
-      "enabled": true,
-      "name": "K-X12 utility probe droid",
-      "price": 2667
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+150.00 Mass",
-          "+0% Flammability",
-          "+100% Pain shock threshold",
-          "+0% Psychic sensitivity",
-          "+100% Toxic resistance",
-          "+100% Toxic environment resistance",
-          "+1000% Immunity gain speed",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+65% Charging speed",
-          "+$4780 Market value",
-          "+4.00 Move speed",
-          "-360.0F Min comfortable temperature",
-          "+360.0F Max comfortable temperature",
-          "+20% Global learning factor",
-          "+150% Global work speed",
-          "+40.0% Armor - Sharp",
-          "+40.0% Armor - Blunt",
-          "+20.0% Armor - Heat",
-          "+35% Injury healing factor",
-          "+50% Stagger time multiplier",
-          "+65% Coherence retention efficiency",
-          "+65% Nutrition intake efficiency",
-          "+10 Complexity capacity",
-          "+16 Skill capacity",
-          "+85% Incoming damage multiplier"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "This improved version of Duwani's KM1-series mining droid features hardpoints for attaching both heavier mining tool systems and class III armor plating arrangements. These sturdier units are typically sent in first to dig tunnels towards pockets of ore, where ordinary mining droids might be easily crushed by debris and cave-ins.\n\nBy default, this droid is capable of the following work types:\n\n-Mining\n-Hauling\n-Firefighting\n-Combat",
-      "defName": "guy762_DroidRace_KM1HMD",
-      "enabled": true,
-      "name": "KM1-B Excavation Droid",
-      "price": 7967
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+125.00 Mass",
-          "+0% Flammability",
-          "+100% Pain shock threshold",
-          "+0% Psychic sensitivity",
-          "+100% Toxic resistance",
-          "+100% Toxic environment resistance",
-          "+1000% Immunity gain speed",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+65% Charging speed",
-          "+$2100 Market value",
-          "+4.00 Move speed",
-          "-360.0F Min comfortable temperature",
-          "+360.0F Max comfortable temperature",
-          "+20% Global learning factor",
-          "+150% Global work speed",
-          "+40.0% Armor - Sharp",
-          "+40.0% Armor - Blunt",
-          "+20.0% Armor - Heat",
-          "+35% Injury healing factor",
-          "+50% Stagger time multiplier",
-          "+50% Coherence retention efficiency",
-          "+65% Nutrition intake efficiency",
-          "+5 Complexity capacity",
-          "+12 Skill capacity"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Another popular Duwani product, these crab-like droids were designed for mining operations in environments considered too dangerous for organic laborers. While they perform mining tasks effectively, these models are often criticized for being very energy inefficient and maintenance-intensive. However, Duwani's dominance over the civilian droid market and the relatively low cost of these mining droids ensure they are very difficult for competitors to attempt to replace.\n\nBy default, this droid is capable of the following work types:\n\n-Mining\n-Hauling\n-Combat",
-      "defName": "guy762_DroidRace_KM1MD",
-      "enabled": true,
-      "name": "KM1-series Mining Droid",
-      "price": 3500
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+25.00 Mass",
-          "+0% Flammability",
-          "+100% Pain shock threshold",
-          "+0% Psychic sensitivity",
-          "+100% Toxic resistance",
-          "+100% Toxic environment resistance",
-          "+1000% Immunity gain speed",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+115% Charging speed",
-          "+$700 Market value",
-          "+6.00 Move speed",
-          "-90.0F Min comfortable temperature",
-          "+90.0F Max comfortable temperature",
-          "+25% Global learning factor",
-          "+100% Global work speed",
-          "+30.0% Armor - Sharp",
-          "+20.0% Armor - Blunt",
-          "+40.0% Armor - Heat",
-          "+75% Injury healing factor",
-          "+125% Coherence retention efficiency",
-          "+115% Nutrition intake efficiency",
-          "+15 Complexity capacity",
-          "+12 Skill capacity"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Automata Galactica's Municipal Patrol Droid was developed with civic security in mind. A lightweight frame, powerful repulsors and thrusters, and a strong communications relay allow these units to easily serve in policing or patrol roles. Sensor hardpoints, as well as its quick speed, also enables these droids to function as scouts in military forces.\n\nBy default, this droid is capable of the following work types:\n\n-Combat\n-Hunting",
-      "defName": "guy762_DroidRace_MPDMkI",
-      "enabled": true,
-      "name": "Municipal Patrol Droid Mark I",
-      "price": 1167
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+15.00 Mass",
-          "+0% Flammability",
-          "+100% Pain shock threshold",
-          "+0% Psychic sensitivity",
-          "+100% Toxic resistance",
-          "+100% Toxic environment resistance",
-          "+1000% Immunity gain speed",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+100% Charging speed",
-          "+$3200 Market value",
-          "+3.00 Move speed",
-          "-225.0F Min comfortable temperature",
-          "+225.0F Max comfortable temperature",
-          "+75% Global learning factor",
-          "+100% Global work speed",
-          "+30.0% Armor - Sharp",
-          "+20.0% Armor - Blunt",
-          "+40.0% Armor - Heat",
-          "+85% Injury healing factor",
-          "+65% Coherence retention efficiency",
-          "+100% Nutrition intake efficiency",
-          "+15 Complexity capacity",
-          "+16 Skill capacity",
-          "+75% Aiming time"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "This illegal combat probe is manufactured and employed almost exclusively by the Exchange, and is typically deployed in large groups to overwhelm a target and ensure their elimination. Some might call these methods crude, but the Exchange spares no expense in making an example of those who oppose them.\n\nThe shield generator mount has been completely reconfigured in order to fit a cloaking device, sacrificing any compatibility with ordinary shield generators in the process. Additionally, each unit is rigged with an explosive incendiary device set to detonate upon premature termination.\n\nBy default, this droid is capable of the following work types:\n\n-Combat\n-Hunting",
-      "defName": "guy762_DroidRace_KX12APD",
-      "enabled": true,
-      "name": "K-X12 assassin probe droid",
-      "price": 5333
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+75.00 Mass",
-          "+0% Flammability",
-          "+100% Pain shock threshold",
-          "+0% Psychic sensitivity",
-          "+100% Toxic resistance",
-          "+100% Toxic environment resistance",
-          "+1000% Immunity gain speed",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+75% Charging speed",
-          "+$1000 Market value",
-          "+4.00 Move speed",
-          "-45.0F Min comfortable temperature",
-          "+45.0F Max comfortable temperature",
-          "+10% Global learning factor",
-          "+50% Global work speed",
-          "+10.0% Armor - Sharp",
-          "+5.0% Armor - Blunt",
-          "+20.0% Armor - Heat",
-          "+25% Injury healing factor",
-          "+0% EMP resistance",
-          "+75% Coherence retention efficiency",
-          "+75% Nutrition intake efficiency",
-          "+10 Complexity capacity",
-          "+12 Skill capacity"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Originally designed by Ubrikkian Steamworks as a competitor to the Kellenech Sentinel droid, the original Devastator prototype was recieved with little interest from the Republic military, deemed too complicated for widespread field use and too dangerous for the private market. This significantly stripped-down production model was eventually approved for sale, and found many buyers in Outer Rim militias and private security forces as a cheap battle droid, but few of the original prototypes remain.\n\nBy default, this droid is capable of the following work types:\n\n-Combat\n-Hauling\n-Firefighting",
-      "defName": "guy762_DroidRace_DevWD",
-      "enabled": true,
-      "name": "Devastator-class war droid",
-      "price": 1667
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+75.00 Mass",
-          "+0% Flammability",
-          "+100% Pain shock threshold",
-          "+0% Psychic sensitivity",
-          "+100% Toxic resistance",
-          "+100% Toxic environment resistance",
-          "+1000% Immunity gain speed",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+75% Charging speed",
-          "+$8600 Market value",
-          "+6.00 Move speed",
-          "-45.0F Min comfortable temperature",
-          "+45.0F Max comfortable temperature",
-          "+10% Global learning factor",
-          "+50% Global work speed",
-          "+10.0% Armor - Sharp",
-          "+5.0% Armor - Blunt",
-          "+20.0% Armor - Heat",
-          "+45% Injury healing factor",
-          "+0% EMP resistance",
-          "+85% Coherence retention efficiency",
-          "+75% Nutrition intake efficiency",
-          "+15 Complexity capacity",
-          "+16 Skill capacity"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Loosely-based on schematics for the original Ubrikkian Steamworks prototype, this is an upgrade over the common \"war droid\" variant of the Devastator-class droid. This model has not been approved by the Republic for manufacture and does not \"officially\" exist; rather, the design was secretly sold to various interested underworld organizations, and is manufactured privately without any involvement from Ubrikkian.\n\nCompared to the \"war droid\" variant, this advanced model is faster, can handle significantly more system upgrades, and has the necessary mounts to equip proper Class II armor plating. However, most of the basic programmed labor functions normally required for use as a military war droid have been removed to clear space for enhanced combat capabilities.\n\nBy default, this droid is capable of the following work types:\n\n-Combat\n-Hunting",
-      "defName": "guy762_DroidRace_DevAD",
-      "enabled": true,
-      "name": "Devastator-class Type II assassin droid",
-      "price": 14333
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+100.00 Mass",
-          "+0% Flammability",
-          "+100% Pain shock threshold",
-          "+0% Psychic sensitivity",
-          "+100% Toxic resistance",
-          "+100% Toxic environment resistance",
-          "+1000% Immunity gain speed",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+85% Charging speed",
-          "+$2400 Market value",
-          "+4.00 Move speed",
-          "-135.0F Min comfortable temperature",
-          "+135.0F Max comfortable temperature",
-          "+40% Global learning factor",
-          "+100% Global work speed",
-          "+30.0% Armor - Sharp",
-          "+20.0% Armor - Blunt",
-          "+40.0% Armor - Heat",
-          "+65% Injury healing factor",
-          "+15% EMP resistance",
-          "+100% Coherence retention efficiency",
-          "+85% Nutrition intake efficiency",
-          "+20 Complexity capacity",
-          "+16 Skill capacity"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Kellenech Technologies' Sentinel-class war droid is the most widespread combat droid in the galaxy - and for good reason. First deployed during the Onderon campaign during the Mandalorian Wars, these units were used to supplant the dwindling count of Republic soldiers during the battle of Dxun, and were proved to be equally as capable as any organic fighting force. Its durable, easy-to-maintain design made it an ideal choice for widespread adoption, and following the war these units were sold to virtually every security force across the galaxy.\n\nBy default, this droid is capable of the following work types:\n\n-Combat\n-Hunting\n-Hauling\n-Firefighting",
-      "defName": "guy762_DroidRace_SentWD",
-      "enabled": true,
-      "name": "Sentinel-class war droid",
-      "price": 4000
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+150.00 Mass",
-          "+0% Flammability",
-          "+100% Pain shock threshold",
-          "+0% Psychic sensitivity",
-          "+100% Toxic resistance",
-          "+100% Toxic environment resistance",
-          "+1000% Immunity gain speed",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+100% Charging speed",
-          "+$14000 Market value",
-          "+3.00 Move speed",
-          "-270.0F Min comfortable temperature",
-          "+270.0F Max comfortable temperature",
-          "+40% Global learning factor",
-          "+40.0% Armor - Sharp",
-          "+30.0% Armor - Blunt",
-          "+50.0% Armor - Heat",
-          "+75% Injury healing factor",
-          "+90% Aiming time",
-          "+90% Ranged cooldown multiplier",
-          "+75% Stagger time multiplier",
-          "+80% EMP resistance",
-          "+15 Complexity capacity",
-          "+16 Skill capacity",
-          "+50% Coherence retention efficiency",
-          "+100% Nutrition intake efficiency"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "One of Revan's many war droid designs created during the Mandalorian Wars, this peculiar one-legged design only caught on after the wars ended, and was marketed by Czerka Arms as a powerful security/defense droid.\n\nBy default, this droid is capable of the following work types:\n\n-Combat",
-      "defName": "guy762_DroidRace_ADMkI",
-      "enabled": true,
-      "name": "Assault Droid Mark I",
-      "price": 23333
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+200.00 Mass",
-          "+0% Flammability",
-          "+100% Pain shock threshold",
-          "+0% Psychic sensitivity",
-          "+100% Toxic resistance",
-          "+100% Toxic environment resistance",
-          "+1000% Immunity gain speed",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+75% Charging speed",
-          "+$21000 Market value",
-          "+2.00 Move speed",
-          "-180.0F Min comfortable temperature",
-          "+180.0F Max comfortable temperature",
-          "+20% Global learning factor",
-          "+50.0% Armor - Sharp",
-          "+40.0% Armor - Blunt",
-          "+60.0% Armor - Heat",
-          "+60% Injury healing factor",
-          "+75% Aiming time",
-          "+75% Ranged cooldown multiplier",
-          "+50% Stagger time multiplier",
-          "+80% EMP resistance",
-          "+10 Complexity capacity",
-          "+16 Skill capacity",
-          "+75% Coherence retention efficiency",
-          "+75% Nutrition intake efficiency"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Designed by the Jedi Revan and produced by Czerka Arms during the Mandalorian Wars, the Mark IV assault droid is a potent killing machine. Equipped with installation mounts for heavy-duty armor, shielding, and ordnance, the Mk. IV drastically reduces the need for manned assault vehicles on the battlefield, offering instead a force of substantially more agile - and expendable - autonomous drones.\n\nBy default, this droid is capable of the following work types:\n\n-Combat",
-      "defName": "guy762_DroidRace_ADMkIV",
-      "enabled": true,
-      "name": "Assault Droid Mark IV",
-      "price": 35000
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+150.00 Mass",
-          "+0% Flammability",
-          "+100% Pain shock threshold",
-          "+0% Psychic sensitivity",
-          "+100% Toxic resistance",
-          "+100% Toxic environment resistance",
-          "+1000% Immunity gain speed",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+100% Charging speed",
-          "+$33000 Market value",
-          "+5.00 Move speed",
-          "-180.0F Min comfortable temperature",
-          "+180.0F Max comfortable temperature",
+          "+0% Fertility",
+          "+0.5 Flirt chance",
           "+120% Global learning factor",
-          "+40% Global work speed",
-          "+110.00% Social impact",
-          "+40.0% Armor - Sharp",
-          "+30.0% Armor - Blunt",
-          "+50.0% Armor - Heat",
-          "+200% Injury healing factor",
-          "+95% Incoming damage multiplier",
-          "+80% EMP resistance",
-          "+50% Aiming time",
-          "+50% Ranged cooldown multiplier",
-          "+125% Coherence retention efficiency",
-          "+100% Nutrition intake efficiency",
-          "+25 Complexity capacity",
-          "+20 Skill capacity"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "This strange model of protocol droid is incredibly common throughout the Republic Navy, though very few droid operations managers can seem to explain how it is they got there. Investigations into their origins have pointed towards an unannounced donation of the units to the navy by the Systech Corporation, though further inquiries have been inconclusive.",
-      "defName": "guy762_DroidRace_HK50series",
-      "enabled": true,
-      "name": "HK-50 series protocol droid",
-      "price": 55000
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+35.00 Mass",
-          "+0% Flammability",
-          "+100% Pain shock threshold",
-          "+0% Psychic sensitivity",
-          "+100% Toxic resistance",
-          "+100% Toxic environment resistance",
-          "+1000% Immunity gain speed",
-          "+0 Leather amount",
           "+0 Meat amount",
-          "+115% Charging speed",
-          "+$12000 Market value",
-          "+3.00 Move speed",
-          "-225.0F Min comfortable temperature",
-          "+225.0F Max comfortable temperature",
-          "+150% Global learning factor",
-          "+120% Global work speed",
-          "+20.0% Armor - Sharp",
-          "+10.0% Armor - Blunt",
-          "+30.0% Armor - Heat",
-          "+175% Injury healing factor",
-          "+95% Incoming damage multiplier",
-          "+80% Stagger time multiplier",
-          "+90% EMP resistance",
-          "+150% Coherence retention efficiency",
-          "+115% Nutrition intake efficiency",
-          "+30 Complexity capacity",
-          "+20 Skill capacity"
+          "+1.58 Max nutrition",
+          "+80 Carrying capacity",
+          "+100.00 kg Mass carry capacity",
+          "+200.0% Armor - Heat",
+          "+25.0% Armor - Blunt",
+          "+45.0% Armor - Sharp"
         ],
         "mod": "Unknown",
         "karmaType": null
       },
-      "description": "Combining the capabilities of both the 3C and IT utility droid lines, Duwani Mechanical Products' T3-series is a landmark in utility droid technology. Its capabilities are nearly limitless compared to most other droids, though some owners have reported erratic behavior on units that are not frequently memory-wiped. Sale of these units is limited and most are made to-order for high-value buyers, and as such the cost of these units - even used - rivals that of some military assault droids.\n\nBy default, this droid is capable of the following work types:\n\n-Combat\n-Hauling\n-Crafting\n-Constructing\n-Intellectual\n-Firefighting",
-      "defName": "guy762_DroidRace_T3series",
-      "enabled": true,
-      "name": "T3-series utility droid",
-      "price": 20000
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+35.00 Mass",
-          "+0% Flammability",
-          "+100% Pain shock threshold",
-          "+0% Psychic sensitivity",
-          "+100% Toxic resistance",
-          "+100% Toxic environment resistance",
-          "+1000% Immunity gain speed",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+115% Charging speed",
-          "+$9250 Market value",
-          "+3.00 Move speed",
-          "-225.0F Min comfortable temperature",
-          "+225.0F Max comfortable temperature",
-          "+250% Global learning factor",
-          "+120% Global work speed",
-          "+20.0% Armor - Sharp",
-          "+10.0% Armor - Blunt",
-          "+30.0% Armor - Heat",
-          "+175% Injury healing factor",
-          "+100% Incoming damage multiplier",
-          "+80% Stagger time multiplier",
-          "+90% EMP resistance",
-          "+125% Coherence retention efficiency",
-          "+115% Nutrition intake efficiency",
-          "+30 Complexity capacity",
-          "+16 Skill capacity"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Unlike other utility droid models made by Duwani Mechanical Products, the IT series is designed specifically for information processing in laboratory and computer mainframe settings. They are designed to interface with and manage many types of networking systems, and in the wrong hands, make for excellent agents in espionage roles.\n\nBy default, this droid is capable of the following work types:\n\n-Intellectual\n-Firefighting\n-Combat",
-      "defName": "guy762_DroidRace_ITseries",
-      "enabled": true,
-      "name": "IT-series utility droid",
-      "price": 15417
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+150.00 Mass",
-          "+0% Flammability",
-          "+100% Pain shock threshold",
-          "+0% Psychic sensitivity",
-          "+100% Toxic resistance",
-          "+100% Toxic environment resistance",
-          "+1000% Immunity gain speed",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+100% Charging speed",
-          "+$34910 Market value",
-          "+3.00 Move speed",
-          "-270.0F Min comfortable temperature",
-          "+270.0F Max comfortable temperature",
-          "+40% Global learning factor",
-          "+40.0% Armor - Sharp",
-          "+30.0% Armor - Blunt",
-          "+50.0% Armor - Heat",
-          "+75% Injury healing factor",
-          "+80% Aiming time",
-          "+80% Ranged cooldown multiplier",
-          "+50% Stagger time multiplier",
-          "+100% EMP resistance",
-          "+15 Complexity capacity",
-          "+16 Skill capacity",
-          "+100% Coherence retention efficiency",
-          "+100% Nutrition intake efficiency",
-          "+90% Incoming damage multiplier"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "This variant of Czerka's Mark I Assault Droid was developed specifically for the defense of the recently-discovered Star Forge. Its base design was overhauled to the point where mass production would be completely unsustainable without the resources and capabilities of the Star Forge. Many among the Sith (including Revan themself) believed these droids were indestructible, but such theories were dismissed after Revan effortlessly cleaved through them before confronting Darth Malak at the end of the war.\n\nBy default, this droid is capable of the following work types:\n\n-Combat",
-      "defName": "guy762_DroidRace_ADMkI_sf",
-      "enabled": true,
-      "name": "Star Forge Assault Droid",
-      "price": 58183
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+200.00 Mass",
-          "+0% Flammability",
-          "+100% Pain shock threshold",
-          "+0% Psychic sensitivity",
-          "+100% Toxic resistance",
-          "+100% Toxic environment resistance",
-          "+1000% Immunity gain speed",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+75% Charging speed",
-          "+$26270 Market value",
-          "+2.00 Move speed",
-          "-180.0F Min comfortable temperature",
-          "+180.0F Max comfortable temperature",
-          "+20% Global learning factor",
-          "+50.0% Armor - Sharp",
-          "+40.0% Armor - Blunt",
-          "+60.0% Armor - Heat",
-          "+60% Injury healing factor",
-          "+75% Aiming time",
-          "+75% Ranged cooldown multiplier",
-          "+50% Stagger time multiplier",
-          "+80% EMP resistance",
-          "+10 Complexity capacity",
-          "+16 Skill capacity",
-          "+75% Coherence retention efficiency",
-          "+75% Nutrition intake efficiency"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Considered one of the most dangerous war droids in the galaxy, Czerka's Mk.IV-B Assault Droid was developed exclusively for the Sith war effort during the Jedi Civil War, and has armament capabilities rivaling some light tanks. At the war's height, the Star Forge churned out thousands of these units per day, and their deployment on the battlefield was a sure sign of doom for Republic infantry.\n\nBy default, this droid is capable of the following work types:\n\n-Combat",
-      "defName": "guy762_DroidRace_ADMkIV_sith",
-      "enabled": true,
-      "name": "Assault Droid Mk.IV Type B",
-      "price": 43783
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+150.00 Mass",
-          "+0% Flammability",
-          "+100% Pain shock threshold",
-          "+0% Psychic sensitivity",
-          "+100% Toxic resistance",
-          "+100% Toxic environment resistance",
-          "+1000% Immunity gain speed",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+100% Charging speed",
-          "+$33000 Market value",
-          "+5.00 Move speed",
-          "-180.0F Min comfortable temperature",
-          "+180.0F Max comfortable temperature",
-          "+120% Global learning factor",
-          "+40% Global work speed",
-          "+110.00% Social impact",
-          "+40.0% Armor - Sharp",
-          "+30.0% Armor - Blunt",
-          "+50.0% Armor - Heat",
-          "+200% Injury healing factor",
-          "+95% Incoming damage multiplier",
-          "+80% EMP resistance",
-          "+50% Aiming time",
-          "+50% Ranged cooldown multiplier",
-          "+150% Coherence retention efficiency",
-          "+100% Nutrition intake efficiency",
-          "+30 Complexity capacity",
-          "+20 Skill capacity"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "This advanced assassin droid has clearly been designed to mimic the appearance of the humble, harmless HK-50 protocol droid used by the Republic Navy. These units operate throughout the galactic underworld as independent bounty hunters. Their capabilities are poorly understood and they are considered extremely dangerous, and pose an existential threat to the Republic Navy, and more importantly, gentle peace-loving HK-50 units everywhere.\n\nBy default, this droid is capable of the following work types:\n\n-Combat\n-Hunting\n-Crafting\n-Constructing\n-Social\n-Intellectual\n-Firefighting",
-      "defName": "guy762_DroidRace_HK51series",
-      "enabled": true,
-      "name": "HK-51 series assassin droid",
-      "price": 55000
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+200.00 Mass",
-          "+0% Flammability",
-          "+100% Pain shock threshold",
-          "+0% Psychic sensitivity",
-          "+100% Toxic resistance",
-          "+100% Toxic environment resistance",
-          "+1000% Immunity gain speed",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+150% Charging speed",
-          "+$60000 Market value",
-          "+2.00 Move speed",
-          "-90.0F Min comfortable temperature",
-          "+90.0F Max comfortable temperature",
-          "+200% Global learning factor",
-          "+40.0% Armor - Sharp",
-          "+30.0% Armor - Blunt",
-          "+50.0% Armor - Heat",
-          "+200% Injury healing factor",
-          "+95% Incoming damage multiplier",
-          "+90% Stagger time multiplier",
-          "+90% EMP resistance",
-          "+50 Complexity capacity",
-          "+20 Skill capacity",
-          "+300% Coherence retention efficiency",
-          "+150% Nutrition intake efficiency"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Initially developed by Aratech Repulsorlift Company for aid in galactic reconstruction efforts following the Exar Kun war, full production of these advanced intelligence droids was delayed by almost 20 years by subsequent galaxy-wide conflicts with the Mandalorians and Revan's Sith. The computational power of these units is immensely powerful, and in the wrong hands could be devastating to the galaxy at large. Aratech manufactures these droids to-order for the Republic's infrastructure planning department, and each unit is carefully monitored by Republic Intelligence. Concerningly, a number of these units have already gone missing.\n\nBy default, this droid is capable of the following work types:\n\n-Intellectual\n-Firefighting\n-Combat",
-      "defName": "guy762_DroidRace_GOTO",
-      "enabled": true,
-      "name": "G0-T0 superintelligence droid",
-      "price": 100000
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+150.00 Mass",
-          "+0% Flammability",
-          "+100% Pain shock threshold",
-          "+0% Psychic sensitivity",
-          "+100% Toxic resistance",
-          "+100% Toxic environment resistance",
-          "+1000% Immunity gain speed",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+100% Charging speed",
-          "+$33000 Market value",
-          "+5.00 Move speed",
-          "-180.0F Min comfortable temperature",
-          "+180.0F Max comfortable temperature",
-          "+120% Global learning factor",
-          "+40% Global work speed",
-          "+110.00% Social impact",
-          "+40.0% Armor - Sharp",
-          "+30.0% Armor - Blunt",
-          "+50.0% Armor - Heat",
-          "+200% Injury healing factor",
-          "+95% Incoming damage multiplier",
-          "+80% EMP resistance",
-          "+50% Aiming time",
-          "+50% Ranged cooldown multiplier",
-          "+100% Coherence retention efficiency",
-          "+100% Nutrition intake efficiency",
-          "+40 Complexity capacity",
-          "+20 Skill capacity"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "This is a protocol droid of unknown origin. It shares many translation and communications capabilities with some Systech protocol units, though its design is reminiscent of early Czerka Arms combat droids. Its structure appears to be unusually sturdy for a droid of this class, though this unit seemingly has no memory pertaining to its creation.\n\nBy default, this droid is capable of the following work types:\n\n-Combat\n-Hunting\n-Crafting\n-Constructing\n-Social\n-Intellectual\n-Firefighting",
-      "defName": "guy762_DroidRace_HKseries",
-      "enabled": true,
-      "name": "HK-series protocol droid",
-      "price": 55000
+      "description": "This is a creature largely composed of highly ruggedized machinery.",
+      "defName": "BS_UrbMech",
+      "enabled": false,
+      "name": "mech",
+      "price": 4167
     }
   ]
 }

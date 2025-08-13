@@ -3,174 +3,12 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "2.3.1.0"
-  },
-  {
-    "author": "RedMattis",
-    "name": "Big and Small - Framework",
-    "steamId": "2925432336",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "HugsLib",
-    "steamId": "818773962",
-    "version": "11.0.5"
-  },
-  {
-    "author": "Vectorial1024",
-    "name": "Elite Bionics Framework",
-    "steamId": "1665403571",
-    "version": "2.0.0.0"
-  },
-  {
-    "author": "Imranfish",
-    "name": "XML Extensions",
-    "steamId": "2574315206",
-    "version": "1.7.1"
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "m00nl1ght",
-    "name": "Geological Landforms",
-    "steamId": "2773943594",
-    "version": "1.7.3+1b7d7cb57a0a1a5a74476cd6f0775fb8ee67d71c"
-  },
-  {
-    "author": "Oskar Potocki, Taranchuk and Chowder",
-    "name": "Vanilla Traits Expanded",
-    "steamId": "2296404655",
-    "version": "1.4.1.0"
-  },
-  {
-    "author": "void",
-    "name": "Character Editor",
-    "steamId": "1874644848",
-    "version": "1.5.10.0"
-  },
-  {
-    "author": "SmArtKar",
-    "name": "Athena Framework",
-    "steamId": "2903359518",
-    "version": "0.0.0.0"
-  },
-  {
-    "author": "LTS",
-    "name": "Integrated Implants",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Mlie",
-    "name": "Prisoners Dont Have Keys",
-    "steamId": "2595360307",
-    "version": "1.5.2"
-  },
-  {
-    "author": "Killathon",
-    "name": "ABF: Artificial Beings Framework",
-    "steamId": "3284097810",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Killathon",
-    "name": "ABF: Synstructs Core",
-    "steamId": "3288463094",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Krkr",
-    "name": "RocketMan - Performance Mod",
-    "steamId": "2479389928",
-    "version": "0.6.3.2421"
-  },
-  {
-    "author": "Oskar Potocki and XeoNovaDan",
-    "name": "Vanilla Hair Expanded",
-    "steamId": "1888705256",
-    "version": "1.0.3"
-  },
-  {
-    "author": "Syrchalis",
-    "name": "[SYR] Processor Framework",
-    "steamId": "3210544395",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "PeteTimesSix",
-    "name": "Simple sidearms",
-    "steamId": "927155256",
-    "version": "1.4.6.0"
-  },
-  {
-    "author": "Slime-Senpai",
-    "name": "EndlessGrowth",
-    "steamId": "2894401734",
-    "version": "1.5.2.0"
-  },
-  {
-    "author": "Inglix",
-    "name": "Apparel Tainted Only When Corpse Rots",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "legodude17 and Oskar Potocki",
-    "name": "Vanilla Skills Expanded",
-    "steamId": "3400246558",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Roolo",
-    "name": "Search and Destroy (Unofficial Update)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "alite",
-    "name": "EBSG Framework",
-    "steamId": "3112549163",
-    "version": "1.0.9257.38779"
-  },
-  {
-    "author": "Turnovus",
-    "name": "Integrated Genes",
-    "steamId": "2884115974",
-    "version": "1.5.2"
-  },
-  {
-    "author": "kaitorisenkou",
-    "name": "ModularWeapons",
-    "steamId": "2878204522",
-    "version": "1.0.0.0"
+    "version": "2.3.5.0"
   },
   {
     "author": "nry",
     "name": "ToolkitCore",
     "steamId": "3013877477",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Soul, Phaneron and Bradson",
-    "name": "Adaptive Storage Framework",
-    "steamId": "3033901359",
-    "version": "1.1.1"
-  },
-  {
-    "author": "Ogre",
-    "name": "OgreStack",
-    "steamId": "1447140290",
     "version": "1.0.0.0"
   },
   {
@@ -180,14 +18,278 @@
     "version": "2.0.10.0"
   },
   {
+    "author": "RedMattis",
+    "name": "Big and Small - Framework",
+    "steamId": "2925432336",
+    "version": "1.0.0+408ae1f28b59b03036d9c0254192f60f0c4e16b3"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "12.0.0"
+  },
+  {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.6.3.3"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "PeteTimesSix",
+    "name": "Simple sidearms",
+    "steamId": "927155256",
+    "version": "1.4.6.0"
+  },
+  {
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "7.0.5.0-beta+e8d2ab06fe38b0b1f43d53750a3b8ba18d5edcda"
+    "version": "7.0.6.0-RC1+1ca7c6f6287e48f5f245b4c8dee252be6f2eda94"
   },
   {
-    "author": "Reel",
-    "name": "Reel's Expanded Storage",
+    "author": "Dracora",
+    "name": "(RD)BasicThings",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dracora",
+    "name": "(RD)InfiniteSoupCauldron",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dracora",
+    "name": "(RD)LightningBolt",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dracora",
+    "name": "(RD)Megatech",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Facial Animation - WIP",
+    "steamId": "1635901197",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Facial Animation - Experimentals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "Tabula Rasa",
+    "steamId": "1660622094",
+    "version": "1.6.9317.23041"
+  },
+  {
+    "author": "Soul, Phaneron and Bradson",
+    "name": "Adaptive Storage Framework",
+    "steamId": "3033901359",
+    "version": "1.2.4+40787e9e0746aab12c0bcfb376f67bdeaffd6bdd"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Neronix17",
+    "name": "Archotech Genetics",
+    "steamId": "2995858859",
+    "version": "1.6.9299.23410"
+  },
+  {
+    "author": "RedMattis",
+    "name": "Big and Small - Genes & More",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RedMattis",
+    "name": "Big and Small - Races",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AOBA",
+    "name": "Fortified Features Framework",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "m00nl1ght",
+    "name": "Geological Landforms",
+    "steamId": "2773943594",
+    "version": "1.7.10+a697e05eae98b48aa1504eddffa1f623df4add7d"
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Exosuit Framework",
+    "steamId": "3352894993",
+    "version": "1.0.0+67f4a8c0f34d46f633a6cf495043f0d61dc585c9"
+  },
+  {
+    "author": "Barbariank",
+    "name": "Facial Animation - Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Core",
+    "steamId": "2038000893",
+    "version": "2.6.2.0"
+  },
+  {
+    "author": "Smash Phil",
+    "name": "Vehicle Framework",
+    "steamId": "3014915404",
+    "version": "1.0.0+362fa21b197153d9c2e47cdc262e281e5ad3dbc6"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Grenades",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
+    "name": "Vanilla Psycasts Expanded",
+    "steamId": "2842502659",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "legodude17 and Oskar Potocki",
+    "name": "Vanilla Outposts Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma, Bread Mo, Bill Doors, KV4EX and Mortis",
+    "name": "The Dead Man's Switch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "瓦莱丽，RHO-915 and 彼阳玩意",
+    "name": "The Dead Man's Switch-more dozer",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "梨子",
+    "name": "The Dead Man's Switch - Control Spine",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk and Chowder",
+    "name": "Vanilla Traits Expanded",
+    "steamId": "2296404655",
+    "version": "1.4.1.0"
+  },
+  {
+    "author": "AobaKuma",
+    "name": "The Dead Man's Switch - MobileDragoon",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
+    "name": "The Dead Man's Switch - Synthetic",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "G13",
+    "name": "The Dead Man's Switch - Sisters Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "WarspiteEnthusiast",
+    "name": "The Dead Man's Switch - Additional Upgrades",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
+    "name": "The Dead Man's Switch - Motorized",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
+    "name": "The Dead Man's Switch - AncientCorps",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "PolandBall, DwS.4, RHO915 and FLY-SF",
+    "name": "The Dead Man's Switch - Medium Caliber Multi-Purpose AutoCannon Program",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Augmented Vanilla Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Hair pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Security Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Gerrymon",
+    "name": "Medieval Coastal Outfits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal Faction Pack - Federation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal Faction Pack - Feral",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "LTS",
+    "name": "Integrated Implants",
     "steamId": null,
     "version": null
   },
@@ -198,69 +300,15 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
-    "name": "Vanilla Psycasts Expanded",
-    "steamId": "2842502659",
-    "version": "1.1.0.0"
-  },
-  {
-    "author": "guy762, Sovereign and Kaitorisenkou",
-    "name": "Star Wars Xenotypes",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "guy762, MajesticMadman, Kaitorisenkou and lee01richards",
-    "name": "Star Wars KotOR Resources and Materials",
-    "steamId": "3254370945",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "guy762",
-    "name": "Star Wars KotOR Weapons and Armor",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "guy762",
-    "name": "Star Wars KotOR Droids",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "guy762, Lee, Kaitorisenkou and Ranger Rick",
-    "name": "Star Wars KotOR Factions",
+    "author": "Reel",
+    "name": "Reel's Expanded Storage",
     "steamId": null,
     "version": null
   },
   {
     "author": "Dracora",
-    "name": "ΩmegaTech",
+    "name": "(RD)PersonaShovel",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "legodude17 and Oskar Potocki",
-    "name": "Vanilla Outposts Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Neronix17",
-    "name": "Tabula Rasa",
-    "steamId": "1660622094",
-    "version": "1.5.8928.40486"
-  },
-  {
-    "author": "Neronix17",
-    "name": "Archotech Genetics",
-    "steamId": "2995858859",
-    "version": "1.0.8871.34446"
-  },
-  {
-    "author": "Lee",
-    "name": "Star Wars : The Force-Psycast",
-    "steamId": "3100942433",
-    "version": "1.0.0.0"
   }
 ]
