@@ -3,7 +3,7 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "2.3.5.0"
+    "version": "2.4.0.0"
   },
   {
     "author": "nry",
@@ -21,7 +21,7 @@
     "author": "RedMattis",
     "name": "Big and Small - Framework",
     "steamId": "2925432336",
-    "version": "1.0.0+408ae1f28b59b03036d9c0254192f60f0c4e16b3"
+    "version": "1.0.0+50161124d313b084054bb1d4d3d811b9795318f0"
   },
   {
     "author": "UnlimitedHugs",
@@ -55,25 +55,7 @@
   },
   {
     "author": "Dracora",
-    "name": "(RD)BasicThings",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Dracora",
     "name": "(RD)InfiniteSoupCauldron",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Dracora",
-    "name": "(RD)LightningBolt",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Dracora",
-    "name": "(RD)Megatech",
     "steamId": null,
     "version": null
   },
@@ -108,12 +90,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Neronix17",
-    "name": "Archotech Genetics",
-    "steamId": "2995858859",
-    "version": "1.6.9299.23410"
-  },
-  {
     "author": "RedMattis",
     "name": "Big and Small - Genes & More",
     "steamId": null,
@@ -141,7 +117,7 @@
     "author": "AobaKuma",
     "name": "Exosuit Framework",
     "steamId": "3352894993",
-    "version": "1.0.0+67f4a8c0f34d46f633a6cf495043f0d61dc585c9"
+    "version": "1.0.0+5ded985526f519058a1b91d28e06fea543bb3004"
   },
   {
     "author": "Barbariank",
@@ -306,8 +282,128 @@
     "version": null
   },
   {
-    "author": "Dracora",
-    "name": "(RD)PersonaShovel",
+    "author": "Captolamia",
+    "name": "TwitchToolkit - Lootboxes (resurrected) 1.5, 1.6",
+    "steamId": "3239583412",
+    "version": "1.6.0.1"
+  },
+  {
+    "author": "Carny Senpai",
+    "name": "Trait Rarity Colors",
+    "steamId": "1751884355",
+    "version": "1.6.0.0"
+  },
+  {
+    "author": "swemoney",
+    "name": "Toolkit - Channel Points",
+    "steamId": "1916651243",
+    "version": "1.6.0"
+  },
+  {
+    "author": "Bean",
+    "name": "Bean's Turret Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "IcyCheeseCake",
+    "name": "Taste of Vanilla - Bean Turrets",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Prisoners Dont Have Keys",
+    "steamId": "2595360307",
+    "version": "1.6.0"
+  },
+  {
+    "author": "StatistNo1",
+    "name": "EnchantQualityPlus",
+    "steamId": "3531518926",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Inglix",
+    "name": "Apparel Tainted Only When Corpse Rots",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MemeGoddess",
+    "name": "Search and Destroy (Continued)",
+    "steamId": "3232242247",
+    "version": "1.0.0+be1ff242ffd9b61a532cfb790d8ff9714a471ea3"
+  },
+  {
+    "author": "NetzachSloth and Toby",
+    "name": "Better autocasting for Vanilla Psycasts Expanded",
+    "steamId": "3199585285",
+    "version": "6.1.0.1+93a280da45126e46e80f4da80c6694a90e41bb39"
+  },
+  {
+    "author": "Slime-Senpai",
+    "name": "EndlessGrowth",
+    "steamId": "2894401734",
+    "version": "1.5.2.0+61694815f123034bf8a029db2bbc8e693a4d9214"
+  },
+  {
+    "author": "Alopex Callisto Studio",
+    "name": "[ACS]Celestia Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Clashgore, Odzmang, BlackMarket420, Tittymcswaggy, Alite, Abomination, Epsilon, Maxim, ShunTheWitch, Samael, Con, ThatHitmann and JerryTheCultist",
+    "name": "CVN/GrimWorld 40,000 - Ocularis Terribus",
+    "steamId": "3483499637",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Clashgore, Odzmang, BlackMarket420, Tittymcswaggy, Alite, Abomination, Epsilon, Maxim, Shun The Witch, Samael and Con",
+    "name": "GrimWorld 40,000 - Core Imperialis",
+    "steamId": "3018671708",
+    "version": "1.0.0+fc782c6dabb1cb9e3d92fd70266cc7da3fe5a08f"
+  },
+  {
+    "author": "Clashgore, Odzmang, BlackMarket420, Tittymcswaggy, Alite, Abomination, Epsilon, Maxim, Shun The Witch, Samael and Con",
+    "name": "GrimWorld 40,000 - Hammer of the Imperium",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Clashgore, Eridanus, Jerry The Cultist, BlackMarket420, Abomination, Shun The Witch and Sophia Orr",
+    "name": "GrimWorld 40,000 - Dead Men",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Clashgore, Odzmang, BlackMarket420, Tittymcswaggy, Alite, Abomination, Epsilon, Maxim, Samael, Con and Eridanus",
+    "name": "Grimworld 40,000 - Angels of Death",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Clashgore, Alite, DogDough, Gerrymon, Sandwish and Razzberry",
+    "name": "GrimWorld 40,000 - Aspectus Imperialis",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Clashgore, Eridanus, Jerry The Cultist, BlackMarket420, Abomination, Shun The Witch and Sophia Orr",
+    "name": "GrimWorld 40,000 - Regiments of Renown",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Clashgore, Tittymcswaggy, Alite, Abomination, sk4p3g04t and Sandwish",
+    "name": "GrimWorld 40,000 - Talons of the Emperor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Clashgore, Abomination, ThatHitmann, Tittymcswaggy, Samael and Con",
+    "name": "Grimworld 40,000 - Scattered Sons",
     "steamId": null,
     "version": null
   }

@@ -4171,12 +4171,6 @@
 		"defname": "DMS_AerialAutocannon"
 	},
 	{
-		"abr": "aetherconcentrator",
-		"price": 70000,
-		"category": "Special",
-		"defname": "AetherConcentrator"
-	},
-	{
 		"abr": "alkalicoatimplant",
 		"price": 858,
 		"category": "Bionic",
@@ -4253,12 +4247,6 @@
 		"price": 4667,
 		"category": "Archotech",
 		"defname": "BS_IndestructibelApparel"
-	},
-	{
-		"abr": "archotechbio-unit",
-		"price": 25000,
-		"category": "Artifacts",
-		"defname": "ArchoGenes_BioUnit"
 	},
 	{
 		"abr": "archotechear",
@@ -4427,12 +4415,6 @@
 		"price": 282,
 		"category": "Ranged weapons",
 		"defname": "Gun_BeamGraser"
-	},
-	{
-		"abr": "beerfountain",
-		"price": 4167,
-		"category": "Special",
-		"defname": "BeerFountain"
 	},
 	{
 		"abr": "beret",
@@ -4799,12 +4781,6 @@
 		"price": 350,
 		"category": "Ranged weapons",
 		"defname": "Bow_Compound"
-	},
-	{
-		"abr": "concentratedaether",
-		"price": 167,
-		"category": "Mythic",
-		"defname": "ConcentratedAether"
 	},
 	{
 		"abr": "concussionbaton",
@@ -5869,12 +5845,6 @@
 		"defname": "LactoStimulator"
 	},
 	{
-		"abr": "lightningbolt",
-		"price": 300000,
-		"category": "Ranged weapons",
-		"defname": "LightningBolt"
-	},
-	{
 		"abr": "lightweightframe",
 		"price": 1083,
 		"category": "Automatroid mods",
@@ -6271,180 +6241,6 @@
 		"defname": "Apparel_MedicH"
 	},
 	{
-		"abr": "mega-analyzer",
-		"price": 14475,
-		"category": "Megatech",
-		"defname": "MegaAnalyzer"
-	},
-	{
-		"abr": "megatecharm",
-		"price": 16667,
-		"category": "Megatech",
-		"defname": "MegatechArm"
-	},
-	{
-		"abr": "megatecharmnaniteinjector",
-		"price": 23333,
-		"category": "Megatech",
-		"defname": "MegatechArmNaniteInjector"
-	},
-	{
-		"abr": "megatechbattery",
-		"price": 10667,
-		"category": "Megatech",
-		"defname": "MegatechBattery"
-	},
-	{
-		"abr": "megatechbio-regulator",
-		"price": 23333,
-		"category": "Megatech",
-		"defname": "MegatechBioRegulator"
-	},
-	{
-		"abr": "megatechbio-regulatornaniteinjector",
-		"price": 30000,
-		"category": "Megatech",
-		"defname": "MegatechBioRegulatorNaniteInjector"
-	},
-	{
-		"abr": "megatechdermalaugmentnaniteinjector",
-		"price": 30000,
-		"category": "Megatech",
-		"defname": "MegatechDermalNaniteInjector"
-	},
-	{
-		"abr": "megatechdermalaugmentation",
-		"price": 23333,
-		"category": "Megatech",
-		"defname": "MegatechDermalAugment"
-	},
-	{
-		"abr": "megatecheye",
-		"price": 15000,
-		"category": "Megatech",
-		"defname": "MegatechEye"
-	},
-	{
-		"abr": "megatecheyenaniteinjector",
-		"price": 20000,
-		"category": "Megatech",
-		"defname": "MegatechEyeNaniteInjector"
-	},
-	{
-		"abr": "megatechheart",
-		"price": 20000,
-		"category": "Megatech",
-		"defname": "MegatechHeart"
-	},
-	{
-		"abr": "megatechheartnaniteinjector",
-		"price": 26667,
-		"category": "Megatech",
-		"defname": "MegatechHeartNaniteInjector"
-	},
-	{
-		"abr": "megatechinvisibilitymatrix",
-		"price": 26667,
-		"category": "Megatech",
-		"defname": "MegatechInvisibilityMatrix"
-	},
-	{
-		"abr": "megatechinvisibilitymatrixinjector",
-		"price": 33333,
-		"category": "Megatech",
-		"defname": "MegatechInvisMatrixInjector"
-	},
-	{
-		"abr": "megatechleg",
-		"price": 16667,
-		"category": "Megatech",
-		"defname": "MegatechLeg"
-	},
-	{
-		"abr": "megatechlegnaniteinjector",
-		"price": 25000,
-		"category": "Megatech",
-		"defname": "MegatechLegNaniteInjector"
-	},
-	{
-		"abr": "megatechlung",
-		"price": 16667,
-		"category": "Megatech",
-		"defname": "MegatechLung"
-	},
-	{
-		"abr": "megatechlungnaniteinjector",
-		"price": 23333,
-		"category": "Megatech",
-		"defname": "MegatechLungNaniteInjector"
-	},
-	{
-		"abr": "megatechneuralcannon",
-		"price": 30000,
-		"category": "Megatech",
-		"defname": "MegatechNeuralCannon"
-	},
-	{
-		"abr": "megatechneuralcannoninjector",
-		"price": 36667,
-		"category": "Megatech",
-		"defname": "MegatechNeuralCannonInjector"
-	},
-	{
-		"abr": "megatechneuralcatalystinjector",
-		"price": 30000,
-		"category": "Megatech",
-		"defname": "MegatechNeuralCatalystInjector"
-	},
-	{
-		"abr": "megatechneuralcatalyzer",
-		"price": 23333,
-		"category": "Megatech",
-		"defname": "MegatechNeuralCatalyzer"
-	},
-	{
-		"abr": "megatechpelvis",
-		"price": 18333,
-		"category": "Megatech",
-		"defname": "MegatechPelvis"
-	},
-	{
-		"abr": "megatechpelvisnaniteinjector",
-		"price": 25000,
-		"category": "Megatech",
-		"defname": "MegatechPelvisNaniteInjector"
-	},
-	{
-		"abr": "megatechpowercell",
-		"price": 14667,
-		"category": "Megatech",
-		"defname": "MegatechPowerCell"
-	},
-	{
-		"abr": "megatechspine",
-		"price": 20000,
-		"category": "Megatech",
-		"defname": "MegatechSpine"
-	},
-	{
-		"abr": "megatechspinenaniteinjector",
-		"price": 26667,
-		"category": "Megatech",
-		"defname": "MegatechSpineNaniteInjector"
-	},
-	{
-		"abr": "megatechstomach",
-		"price": 16667,
-		"category": "Megatech",
-		"defname": "MegatechStomach"
-	},
-	{
-		"abr": "megatechstomachnaniteinjector",
-		"price": 23333,
-		"category": "Megatech",
-		"defname": "MegatechStomachNaniteInjector"
-	},
-	{
 		"abr": "memorydatabank",
 		"price": 1975,
 		"category": "Bionic",
@@ -6661,22 +6457,10 @@
 		"defname": "InfiniteSoupCauldron"
 	},
 	{
-		"abr": "mythiccrucible",
-		"price": 17833,
-		"category": "Production",
-		"defname": "MythicCrucible"
-	},
-	{
 		"abr": "nerveshredderclaw",
 		"price": 383,
 		"category": "Ghoul",
 		"defname": "NerveShredderClaw"
-	},
-	{
-		"abr": "neuralforcefieldintegrator",
-		"price": 8000,
-		"category": "Bionic",
-		"defname": "ForcefieldIntegrator"
 	},
 	{
 		"abr": "neuralheatsink",
@@ -8203,12 +7987,6 @@
 		"defname": "DMS_Module_SmokeLauncher"
 	},
 	{
-		"abr": "smokeleafpartypack",
-		"price": 167,
-		"category": "Armor",
-		"defname": "Apparel_PackSmokeleaf"
-	},
-	{
 		"abr": "snake-person",
 		"price": 2917,
 		"category": "Animal",
@@ -8465,12 +8243,6 @@
 		"price": 2500,
 		"category": "Techprints",
 		"defname": "Techprint_DMS_MobileDragoonAdvanced"
-	},
-	{
-		"abr": "techprint(megatechdiscovery)",
-		"price": 20000,
-		"category": "Techprints",
-		"defname": "Techprint_MegatechDiscovery"
 	},
 	{
 		"abr": "techprint(mobiledragoon)",
@@ -9025,17 +8797,4319 @@
 		"defname": "ReelStorageWeaponRack"
 	},
 	{
-		"abr": "personapowershovel",
-		"price": 6000,
-		"category": "Persona weapons",
-		"defname": "MeleeWeapon_PowerShovelBladelink"
+		"abr": "androidfuelrefinery",
+		"price": 185,
+		"category": "Production",
+		"defname": "BS_AndroidFuelRefinery"
 	},
 	{
-		"abr": "powershovel",
+		"abr": "heavyturret",
+		"price": 1067,
+		"category": "Security",
+		"defname": "BTP_HeavyTurret_Base"
+	},
+	{
+		"abr": "missilelauncher",
+		"price": 592,
+		"category": "Security",
+		"defname": "BTP_MissileLauncher_Base"
+	},
+	{
+		"abr": "winerack",
+		"price": 72,
+		"category": "Furniture",
+		"defname": "ReelStorageWineRack"
+	},
+	{
+		"abr": "alligator",
+		"price": 583,
+		"category": "Animals",
+		"defname": "Alligator"
+	},
+	{
+		"abr": "alligatoregg(fert.)",
+		"price": 33,
+		"category": "Eggs (fert.)",
+		"defname": "EggAlligatorFertilized"
+	},
+	{
+		"abr": "alligatoregg(unfert.)",
+		"price": 28,
+		"category": "Eggs (unfert.)",
+		"defname": "EggAlligatorUnfertilized"
+	},
+	{
+		"abr": "alligatormeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Alligator"
+	},
+	{
+		"abr": "alphathrumbohorn",
+		"price": 5000,
+		"category": "Misc",
+		"defname": "AlphaThrumboHorn"
+	},
+	{
+		"abr": "alphathrumbomeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AlphaThrumbo"
+	},
+	{
+		"abr": "ancientminingcharge",
+		"price": 18,
+		"category": "Misc",
+		"defname": "AncientMiningCharge"
+	},
+	{
+		"abr": "archeanseed",
+		"price": 1083,
+		"category": "Misc",
+		"defname": "ArcheanSeed"
+	},
+	{
+		"abr": "armadillo",
+		"price": 167,
+		"category": "Animals",
+		"defname": "Armadillo"
+	},
+	{
+		"abr": "armadilloleather",
+		"price": 5,
+		"category": "Leathers",
+		"defname": "Leather_Armadillo"
+	},
+	{
+		"abr": "armadillomeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Armadillo"
+	},
+	{
+		"abr": "badger",
+		"price": 167,
+		"category": "Animals",
+		"defname": "Badger"
+	},
+	{
+		"abr": "badgermeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Badger"
+	},
+	{
+		"abr": "bass",
+		"price": 11,
+		"category": "Fish",
+		"defname": "Fish_Bass"
+	},
+	{
+		"abr": "beamrepeater",
+		"price": 2058,
+		"category": "Ranged weapons",
+		"defname": "Gun_BeamRepeater"
+	},
+	{
+		"abr": "bloodwarmer",
+		"price": 183,
+		"category": "Ghoul",
+		"defname": "BloodWarmer"
+	},
+	{
+		"abr": "bluebird",
+		"price": 50,
+		"category": "Animals",
+		"defname": "Bluebird"
+	},
+	{
+		"abr": "bluebirdegg(fert.)",
+		"price": 18,
+		"category": "Eggs (fert.)",
+		"defname": "EggBluebirdFertilized"
+	},
+	{
+		"abr": "bluebirdegg(unfert.)",
+		"price": 12,
+		"category": "Eggs (unfert.)",
+		"defname": "EggBluebirdUnfertilized"
+	},
+	{
+		"abr": "bluefish",
+		"price": 11,
+		"category": "Fish",
+		"defname": "Fish_Bluefish"
+	},
+	{
+		"abr": "boghound",
+		"price": 367,
+		"category": "Animals",
+		"defname": "BogHound"
+	},
+	{
+		"abr": "boghoundmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_BogHound"
+	},
+	{
+		"abr": "bullfrog",
+		"price": 100,
+		"category": "Animals",
+		"defname": "Bullfrog"
+	},
+	{
+		"abr": "bullfrogmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Bullfrog"
+	},
+	{
+		"abr": "catfish",
+		"price": 43,
+		"category": "Fish",
+		"defname": "Fish_Catfish"
+	},
+	{
+		"abr": "cerebrexnode",
+		"price": 8333,
+		"category": "Utility",
+		"defname": "Apparel_CerebrexNode"
+	},
+	{
+		"abr": "cod",
+		"price": 11,
+		"category": "Fish",
+		"defname": "Fish_Cod"
+	},
+	{
+		"abr": "colossustoad",
+		"price": 367,
+		"category": "Animals",
+		"defname": "ColossusToad"
+	},
+	{
+		"abr": "colossustoadmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_ColossusToad"
+	},
+	{
+		"abr": "crow",
+		"price": 50,
+		"category": "Animals",
+		"defname": "Crow"
+	},
+	{
+		"abr": "crowegg(fert.)",
+		"price": 18,
+		"category": "Eggs (fert.)",
+		"defname": "EggCrowFertilized"
+	},
+	{
+		"abr": "crowegg(unfert.)",
+		"price": 12,
+		"category": "Eggs (unfert.)",
+		"defname": "EggCrowUnfertilized"
+	},
+	{
+		"abr": "dogfish",
+		"price": 21,
+		"category": "Fish",
+		"defname": "Fish_Dogfish"
+	},
+	{
+		"abr": "flamingo",
+		"price": 200,
+		"category": "Animals",
+		"defname": "Flamingo"
+	},
+	{
+		"abr": "flamingoegg(fert.)",
+		"price": 43,
+		"category": "Eggs (fert.)",
+		"defname": "EggFlamingoFertilized"
+	},
+	{
+		"abr": "flamingoegg(unfert.)",
+		"price": 12,
+		"category": "Eggs (unfert.)",
+		"defname": "EggFlamingoUnfertilized"
+	},
+	{
+		"abr": "flounder",
+		"price": 37,
+		"category": "Fish",
+		"defname": "Fish_Flounder"
+	},
+	{
+		"abr": "frostfish",
+		"price": 57,
+		"category": "Fish",
+		"defname": "Fish_Frostfish"
+	},
+	{
+		"abr": "fueloptimizer",
+		"price": 2583,
+		"category": "Misc",
+		"defname": "FuelOptimizer"
+	},
+	{
+		"abr": "gau19/ashouldermount",
+		"price": 2983,
+		"category": "Right shoulder module",
+		"defname": "DMS_Module_TurretPackGAU"
+	},
+	{
+		"abr": "gorilla",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "Gorilla"
+	},
+	{
+		"abr": "gorillameat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Gorilla"
+	},
+	{
+		"abr": "grasercarbine",
 		"price": 1692,
+		"category": "Ranged weapons",
+		"defname": "Gun_RSBeamCarbine"
+	},
+	{
+		"abr": "graserjezail",
+		"price": 1100,
+		"category": "Ranged weapons",
+		"defname": "Gun_RSBeamSniper"
+	},
+	{
+		"abr": "graserpistol",
+		"price": 1042,
+		"category": "Ranged weapons",
+		"defname": "Gun_RSBeamPistol"
+	},
+	{
+		"abr": "gravengine",
+		"price": 3333,
+		"category": "Misc",
+		"defname": "GravEngine"
+	},
+	{
+		"abr": "gravfieldextender",
+		"price": 2683,
+		"category": "Misc",
+		"defname": "GravFieldExtender"
+	},
+	{
+		"abr": "gravcore",
+		"price": 2083,
+		"category": "Manufactured",
+		"defname": "Gravcore"
+	},
+	{
+		"abr": "gravcorepowercell",
+		"price": 3300,
+		"category": "Misc",
+		"defname": "GravcorePowerCell"
+	},
+	{
+		"abr": "gravlitepanel",
+		"price": 7,
+		"category": "Raw resources",
+		"defname": "GravlitePanel"
+	},
+	{
+		"abr": "gravshipshieldgenerator",
+		"price": 3833,
+		"category": "Misc",
+		"defname": "GravshipShieldGenerator"
+	},
+	{
+		"abr": "greatwolf",
+		"price": 833,
+		"category": "Animals",
+		"defname": "Wolf_Great"
+	},
+	{
+		"abr": "greatwolfmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Wolf_Great"
+	},
+	{
+		"abr": "guppy",
+		"price": 42,
+		"category": "Fish",
+		"defname": "Fish_Guppy"
+	},
+	{
+		"abr": "hermitcrab",
+		"price": 100,
+		"category": "Animals",
+		"defname": "HermitCrab"
+	},
+	{
+		"abr": "hermitcrabmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_HermitCrab"
+	},
+	{
+		"abr": "heron",
+		"price": 200,
+		"category": "Animals",
+		"defname": "Heron"
+	},
+	{
+		"abr": "heronegg(fert.)",
+		"price": 30,
+		"category": "Eggs (fert.)",
+		"defname": "EggHeronFertilized"
+	},
+	{
+		"abr": "heronegg(unfert.)",
+		"price": 12,
+		"category": "Eggs (unfert.)",
+		"defname": "EggHeronUnfertilized"
+	},
+	{
+		"abr": "hippo",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "Hippo"
+	},
+	{
+		"abr": "hippoleather",
+		"price": 6,
+		"category": "Leathers",
+		"defname": "Leather_Hippo"
+	},
+	{
+		"abr": "hippomeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Hippo"
+	},
+	{
+		"abr": "hivequeen",
+		"price": 3333,
+		"category": "Animals",
+		"defname": "HiveQueen"
+	},
+	{
+		"abr": "hunterpack",
+		"price": 508,
+		"category": "Utility",
+		"defname": "Apparel_PackHunter"
+	},
+	{
+		"abr": "huntertrap",
+		"price": 302,
+		"category": "Security",
+		"defname": "HunterDroneTrap"
+	},
+	{
+		"abr": "kidvacsuit",
+		"price": 575,
+		"category": "Armor",
+		"defname": "Apparel_VacsuitChildren"
+	},
+	{
+		"abr": "kordshouldermount",
+		"price": 2417,
+		"category": "Right shoulder module",
+		"defname": "DMS_Module_TurretPackHeavy"
+	},
+	{
+		"abr": "largethruster",
+		"price": 1267,
+		"category": "Misc",
+		"defname": "LargeThruster"
+	},
+	{
+		"abr": "larva",
+		"price": 58,
+		"category": "Animals",
+		"defname": "Larva"
+	},
+	{
+		"abr": "lavasnail",
+		"price": 300,
+		"category": "Animals",
+		"defname": "LavaSnail"
+	},
+	{
+		"abr": "lavasnailmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_LavaSnail"
+	},
+	{
+		"abr": "lmgshouldermount",
+		"price": 2083,
+		"category": "Right shoulder module",
+		"defname": "DMS_Module_TurretPackLight"
+	},
+	{
+		"abr": "locust",
+		"price": 200,
+		"category": "Animals",
+		"defname": "Locust"
+	},
+	{
+		"abr": "macaw",
+		"price": 150,
+		"category": "Animals",
+		"defname": "Macaw"
+	},
+	{
+		"abr": "macawegg(fert.)",
+		"price": 18,
+		"category": "Eggs (fert.)",
+		"defname": "EggMacawFertilized"
+	},
+	{
+		"abr": "macawegg(unfert.)",
+		"price": 12,
+		"category": "Eggs (unfert.)",
+		"defname": "EggMacawUnfertilized"
+	},
+	{
+		"abr": "machinecabinet",
+		"price": 1425,
+		"category": "Misc",
+		"defname": "DMS_MachineCabinet"
+	},
+	{
+		"abr": "map",
+		"price": 300,
+		"category": "Books",
+		"defname": "Map"
+	},
+	{
+		"abr": "marlin",
+		"price": 47,
+		"category": "Fish",
+		"defname": "Fish_Marlin"
+	},
+	{
+		"abr": "mastodon",
+		"price": 1233,
+		"category": "Animals",
+		"defname": "Mastodon"
+	},
+	{
+		"abr": "mastodonleather",
+		"price": 5,
+		"category": "Leathers",
+		"defname": "Leather_Mastodon"
+	},
+	{
+		"abr": "mastodonmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Mastodon"
+	},
+	{
+		"abr": "mastodontusk",
+		"price": 200,
+		"category": "Misc",
+		"defname": "MastodonTusk"
+	},
+	{
+		"abr": "mastodonwool",
+		"price": 4,
+		"category": "Wools",
+		"defname": "WoolMastodon"
+	},
+	{
+		"abr": "megavole",
+		"price": 417,
+		"category": "Animals",
+		"defname": "Megavole"
+	},
+	{
+		"abr": "megavolemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Megavole"
+	},
+	{
+		"abr": "mink",
+		"price": 267,
+		"category": "Animals",
+		"defname": "Mink"
+	},
+	{
+		"abr": "minkfur",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Mink"
+	},
+	{
+		"abr": "minkmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Mink"
+	},
+	{
+		"abr": "monitorlizard",
+		"price": 292,
+		"category": "Animals",
+		"defname": "MonitorLizard"
+	},
+	{
+		"abr": "monitorlizardegg(fert.)",
+		"price": 43,
+		"category": "Eggs (fert.)",
+		"defname": "EggMonitorLizardFertilized"
+	},
+	{
+		"abr": "monitorlizardegg(unfert.)",
+		"price": 15,
+		"category": "Eggs (unfert.)",
+		"defname": "EggMonitorLizardUnfertilized"
+	},
+	{
+		"abr": "monitorlizardmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_MonitorLizard"
+	},
+	{
+		"abr": "moose",
+		"price": 625,
+		"category": "Animals",
+		"defname": "Moose"
+	},
+	{
+		"abr": "moosemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Moose"
+	},
+	{
+		"abr": "muskox",
+		"price": 617,
+		"category": "Animals",
+		"defname": "Muskox"
+	},
+	{
+		"abr": "muskoxmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Muskox"
+	},
+	{
+		"abr": "muskoxwool",
+		"price": 4,
+		"category": "Wools",
+		"defname": "WoolMuskox"
+	},
+	{
+		"abr": "obsidian",
+		"price": 8,
+		"category": "Raw resources",
+		"defname": "Obsidian"
+	},
+	{
+		"abr": "otter",
+		"price": 100,
+		"category": "Animals",
+		"defname": "Otter"
+	},
+	{
+		"abr": "ottermeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Otter"
+	},
+	{
+		"abr": "oxygenpump",
+		"price": 333,
+		"category": "Misc",
+		"defname": "OxygenPump"
+	},
+	{
+		"abr": "panda",
+		"price": 667,
+		"category": "Animals",
+		"defname": "Panda"
+	},
+	{
+		"abr": "pandameat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Panda"
+	},
+	{
+		"abr": "peacock",
+		"price": 300,
+		"category": "Animals",
+		"defname": "Peacock"
+	},
+	{
+		"abr": "peacockegg(fert.)",
+		"price": 43,
+		"category": "Eggs (fert.)",
+		"defname": "EggPeacockFertilized"
+	},
+	{
+		"abr": "peacockegg(unfert.)",
+		"price": 12,
+		"category": "Eggs (unfert.)",
+		"defname": "EggPeacockUnfertilized"
+	},
+	{
+		"abr": "penguin",
+		"price": 250,
+		"category": "Animals",
+		"defname": "Penguin"
+	},
+	{
+		"abr": "penguinegg(fert.)",
+		"price": 42,
+		"category": "Eggs (fert.)",
+		"defname": "EggPenguinFertilized"
+	},
+	{
+		"abr": "penguinegg(unfert.)",
+		"price": 12,
+		"category": "Eggs (unfert.)",
+		"defname": "EggPenguinUnfertilized"
+	},
+	{
+		"abr": "pilotassistant",
+		"price": 975,
+		"category": "Bionic",
+		"defname": "PilotAssistant"
+	},
+	{
+		"abr": "pilotconsole",
+		"price": 617,
+		"category": "Misc",
+		"defname": "PilotConsole"
+	},
+	{
+		"abr": "pilotsubpersonacore",
+		"price": 1625,
+		"category": "Misc",
+		"defname": "PilotSubpersonaCore"
+	},
+	{
+		"abr": "piranha",
+		"price": 67,
+		"category": "Fish",
+		"defname": "Fish_Piranha"
+	},
+	{
+		"abr": "porcupine",
+		"price": 58,
+		"category": "Animals",
+		"defname": "Porcupine"
+	},
+	{
+		"abr": "porcupinemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Porcupine"
+	},
+	{
+		"abr": "prairiedog",
+		"price": 50,
+		"category": "Animals",
+		"defname": "PrairieDog"
+	},
+	{
+		"abr": "prairiedogmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_PrairieDog"
+	},
+	{
+		"abr": "psilocap",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "Drug_Psilocap"
+	},
+	{
+		"abr": "quail",
+		"price": 50,
+		"category": "Animals",
+		"defname": "Quail"
+	},
+	{
+		"abr": "quailegg(fert.)",
+		"price": 18,
+		"category": "Eggs (fert.)",
+		"defname": "EggQuailFertilized"
+	},
+	{
+		"abr": "quailegg(unfert.)",
+		"price": 12,
+		"category": "Eggs (unfert.)",
+		"defname": "EggQuailUnfertilized"
+	},
+	{
+		"abr": "salmon",
+		"price": 11,
+		"category": "Fish",
+		"defname": "Fish_Salmon"
+	},
+	{
+		"abr": "scattergraser",
+		"price": 1633,
+		"category": "Ranged weapons",
+		"defname": "Gun_RSBeamShotgun"
+	},
+	{
+		"abr": "scimitarcat",
+		"price": 833,
+		"category": "Animals",
+		"defname": "Cat_Scimitar"
+	},
+	{
+		"abr": "scimitarcatmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Cat_Scimitar"
+	},
+	{
+		"abr": "sealion",
+		"price": 533,
+		"category": "Animals",
+		"defname": "SeaLion"
+	},
+	{
+		"abr": "sealionmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_SeaLion"
+	},
+	{
+		"abr": "seaturtle",
+		"price": 417,
+		"category": "Animals",
+		"defname": "SeaTurtle"
+	},
+	{
+		"abr": "seaturtleegg(fert.)",
+		"price": 33,
+		"category": "Eggs (fert.)",
+		"defname": "EggSeaTurtleFertilized"
+	},
+	{
+		"abr": "seaturtleegg(unfert.)",
+		"price": 15,
+		"category": "Eggs (unfert.)",
+		"defname": "EggSeaTurtleUnfertilized"
+	},
+	{
+		"abr": "seaturtlemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_SeaTurtle"
+	},
+	{
+		"abr": "seal",
+		"price": 483,
+		"category": "Animals",
+		"defname": "Seal"
+	},
+	{
+		"abr": "sealmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Seal"
+	},
+	{
+		"abr": "sealskin",
+		"price": 7,
+		"category": "Leathers",
+		"defname": "Leather_Sealskin"
+	},
+	{
+		"abr": "sentiencecatalyst",
+		"price": 667,
+		"category": "Drugs",
+		"defname": "SentienceCatalyst"
+	},
+	{
+		"abr": "shuttleengine",
+		"price": 4167,
+		"category": "Manufactured",
+		"defname": "ShuttleEngine"
+	},
+	{
+		"abr": "signaljammer",
+		"price": 4767,
+		"category": "Misc",
+		"defname": "SignalJammer"
+	},
+	{
+		"abr": "smallthruster",
+		"price": 842,
+		"category": "Misc",
+		"defname": "SmallThruster"
+	},
+	{
+		"abr": "sparrow",
+		"price": 50,
+		"category": "Animals",
+		"defname": "Sparrow"
+	},
+	{
+		"abr": "sparrowegg(fert.)",
+		"price": 18,
+		"category": "Eggs (fert.)",
+		"defname": "EggSparrowFertilized"
+	},
+	{
+		"abr": "sparrowegg(unfert.)",
+		"price": 12,
+		"category": "Eggs (unfert.)",
+		"defname": "EggSparrowUnfertilized"
+	},
+	{
+		"abr": "statue",
+		"price": 342,
+		"category": "Art",
+		"defname": "Statue"
+	},
+	{
+		"abr": "stonecrab",
+		"price": 133,
+		"category": "Animals",
+		"defname": "StoneCrab"
+	},
+	{
+		"abr": "stonecrabmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_StoneCrab"
+	},
+	{
+		"abr": "swan",
+		"price": 333,
+		"category": "Animals",
+		"defname": "Swan"
+	},
+	{
+		"abr": "swanegg(fert.)",
+		"price": 25,
+		"category": "Eggs (fert.)",
+		"defname": "EggSwanFertilized"
+	},
+	{
+		"abr": "swanegg(unfert.)",
+		"price": 12,
+		"category": "Eggs (unfert.)",
+		"defname": "EggSwanUnfertilized"
+	},
+	{
+		"abr": "thrumbomane",
+		"price": 33,
+		"category": "Leathers",
+		"defname": "Leather_AlphaThrumbo"
+	},
+	{
+		"abr": "tiger",
+		"price": 750,
+		"category": "Animals",
+		"defname": "Tiger"
+	},
+	{
+		"abr": "tigermeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Tiger"
+	},
+	{
+		"abr": "tilapia",
+		"price": 11,
+		"category": "Fish",
+		"defname": "Fish_Tilapia"
+	},
+	{
+		"abr": "toxfish",
+		"price": 2,
+		"category": "Fish",
+		"defname": "Fish_Toxfish"
+	},
+	{
+		"abr": "tuna",
+		"price": 53,
+		"category": "Fish",
+		"defname": "Fish_Tuna"
+	},
+	{
+		"abr": "uniqueassaultrifle",
+		"price": 800,
+		"category": "Unique weapons",
+		"defname": "Gun_AssaultRifle_Unique"
+	},
+	{
+		"abr": "uniquebattlerifle",
+		"price": 917,
+		"category": "Unique weapons",
+		"defname": "Gun_RSBattleRifle_Unique"
+	},
+	{
+		"abr": "uniquebeamrepeater",
+		"price": 2058,
+		"category": "Unique weapons",
+		"defname": "Gun_BeamRepeater_Unique"
+	},
+	{
+		"abr": "uniquebolt-actionrifle",
+		"price": 425,
+		"category": "Unique weapons",
+		"defname": "Gun_BoltActionRifle_Unique"
+	},
+	{
+		"abr": "uniquecarbine",
+		"price": 783,
+		"category": "Unique weapons",
+		"defname": "Gun_RSCarbine_Unique"
+	},
+	{
+		"abr": "uniquechainshotgun",
+		"price": 675,
+		"category": "Unique weapons",
+		"defname": "Gun_ChainShotgun_Unique"
+	},
+	{
+		"abr": "uniquechargelance",
+		"price": 2258,
+		"category": "Unique weapons",
+		"defname": "Gun_ChargeLance_Unique"
+	},
+	{
+		"abr": "uniquechargerifle",
+		"price": 1683,
+		"category": "Unique weapons",
+		"defname": "Gun_ChargeRifle_Unique"
+	},
+	{
+		"abr": "uniquegrazercarbine",
+		"price": 1692,
+		"category": "Unique weapons",
+		"defname": "Gun_RSBeamCarbine_Unique"
+	},
+	{
+		"abr": "uniquegreatbow",
+		"price": 174,
+		"category": "Unique weapons",
+		"defname": "Bow_Great_Unique"
+	},
+	{
+		"abr": "uniqueheavypistol",
+		"price": 375,
+		"category": "Unique weapons",
+		"defname": "Gun_PistolHeavyRevolver_Unique"
+	},
+	{
+		"abr": "uniqueheavysmg",
+		"price": 592,
+		"category": "Unique weapons",
+		"defname": "Gun_HeavySMG_Unique"
+	},
+	{
+		"abr": "uniquehellcatrifle",
+		"price": 825,
+		"category": "Unique weapons",
+		"defname": "Gun_HellcatRifle_Unique"
+	},
+	{
+		"abr": "uniquelmg",
+		"price": 708,
+		"category": "Unique weapons",
+		"defname": "Gun_LMG_Unique"
+	},
+	{
+		"abr": "uniqueminigun",
+		"price": 1933,
+		"category": "Unique weapons",
+		"defname": "Gun_Minigun_Unique"
+	},
+	{
+		"abr": "uniquerevolver",
+		"price": 226,
+		"category": "Unique weapons",
+		"defname": "Gun_Revolver_Unique"
+	},
+	{
+		"abr": "uniquesniperrifle",
+		"price": 883,
+		"category": "Unique weapons",
+		"defname": "Gun_SniperRifle_Unique"
+	},
+	{
+		"abr": "vacstoneblocks",
+		"price": 3,
+		"category": "Stone blocks",
+		"defname": "BlocksVacstone"
+	},
+	{
+		"abr": "vacsuit",
+		"price": 1033,
+		"category": "Armor",
+		"defname": "Apparel_Vacsuit"
+	},
+	{
+		"abr": "vacsuithelmet",
+		"price": 323,
+		"category": "Headgear",
+		"defname": "Apparel_VacsuitHelmet"
+	},
+	{
+		"abr": "vulture",
+		"price": 200,
+		"category": "Animals",
+		"defname": "Vulture"
+	},
+	{
+		"abr": "vultureegg(fert.)",
+		"price": 27,
+		"category": "Eggs (fert.)",
+		"defname": "EggVultureFertilized"
+	},
+	{
+		"abr": "vultureegg(unfert.)",
+		"price": 12,
+		"category": "Eggs (unfert.)",
+		"defname": "EggVultureUnfertilized"
+	},
+	{
+		"abr": "walrus",
+		"price": 500,
+		"category": "Animals",
+		"defname": "Walrus"
+	},
+	{
+		"abr": "walrusmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Walrus"
+	},
+	{
+		"abr": "wasptrap",
+		"price": 133,
+		"category": "Security",
+		"defname": "WaspDroneTrap"
+	},
+	{
+		"abr": "wolverine",
+		"price": 250,
+		"category": "Animals",
+		"defname": "Wolverine"
+	},
+	{
+		"abr": "wolverinemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Wolverine"
+	},
+	{
+		"abr": "thedawn",
+		"price": 3333,
+		"category": "Celestia melee weapons",
+		"defname": "CelesRelicSword"
+	},
+	{
+		"abr": "0.787calautocannonammo(nonce)",
+		"price": 1,
+		"category": "Misc",
+		"defname": "GW_AutocannonammoNonCE"
+	},
+	{
+		"abr": "0.998calheavybolterammo(nonce)",
+		"price": 1,
+		"category": "Misc",
+		"defname": "GW_HeavyBolterNonCE"
+	},
+	{
+		"abr": "120mmbattlecannonshell(nonce)",
+		"price": 1,
+		"category": "Misc",
+		"defname": "GW_BattleCannonShellNonCE"
+	},
+	{
+		"abr": "120mmbattlecannonshell(nonce)",
+		"price": 1,
+		"category": "Misc",
+		"defname": "GW_VanquisherCannonShellNonCE"
+	},
+	{
+		"abr": "132mmapshell",
+		"price": 417,
+		"category": "Earthshaker shells",
+		"defname": "GW_HOI_132mm_AP"
+	},
+	{
+		"abr": "132mmhigh-explosiveshell",
+		"price": 417,
+		"category": "Earthshaker shells",
+		"defname": "GW_HOI_132mm_HighExplosive"
+	},
+	{
+		"abr": "132mmincendiaryshell",
+		"price": 417,
+		"category": "Earthshaker shells",
+		"defname": "GW_HOI_132mm_Incendiary"
+	},
+	{
+		"abr": "132mmsmokeshell",
+		"price": 417,
+		"category": "Earthshaker shells",
+		"defname": "GW_HOI_132mm_Smoke"
+	},
+	{
+		"abr": "250mmbattlecannonammo(nonce)",
+		"price": 50,
+		"category": "Misc",
+		"defname": "GW_BanePrimaryCannonShellNonCE"
+	},
+	{
+		"abr": "380mmdemolishercannonshell(nonce)",
+		"price": 25,
+		"category": "Misc",
+		"defname": "GW_DemolisherCannonShellNonCE"
+	},
+	{
+		"abr": "abyssiarace",
+		"price": 3750,
+		"category": "Animal",
+		"defname": "Celes_Abyssia_Race"
+	},
+	{
+		"abr": "abyssiaracemeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_Celes_Abyssia_Race"
+	},
+	{
+		"abr": "accatranmeltagun",
+		"price": 2500,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_ROR_Gun_MeltaGun"
+	},
+	{
+		"abr": "accatranmkiiplasmagun",
+		"price": 2500,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_ROR_Gun_PlasmaGun"
+	},
+	{
+		"abr": "accatranmkiv",
+		"price": 833,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_ROR_Gun_Accatranfive"
+	},
+	{
+		"abr": "adamantium",
+		"price": 18,
+		"category": "Raw resources",
+		"defname": "HP_Adamantium"
+	},
+	{
+		"abr": "adrathicdestructor",
+		"price": 6667,
+		"category": "Ranged weapons",
+		"defname": "GW_TotE_Adrathic_Destructor"
+	},
+	{
+		"abr": "adrathicspear",
+		"price": 3333,
 		"category": "Melee weapons",
-		"defname": "MeleeWeapon_PowerShovel"
+		"defname": "GW_TotE_AdrathicSpear"
+	},
+	{
+		"abr": "adrathicspear(ranged)",
+		"price": 5833,
+		"category": "Ranged weapons",
+		"defname": "GW_TotE_AdrathicSpearR"
+	},
+	{
+		"abr": "advancedmedkit",
+		"price": 37,
+		"category": "Medicine",
+		"defname": "AdvancedMedkit"
+	},
+	{
+		"abr": "agripinaamkii",
+		"price": 725,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_Gun_Agripinaamkii"
+	},
+	{
+		"abr": "allarusterminatorarmor",
+		"price": 11667,
+		"category": "Armor",
+		"defname": "GW_TotE_AllarusArmor"
+	},
+	{
+		"abr": "allarusterminatorhelmet",
+		"price": 2000,
+		"category": "Headgear",
+		"defname": "GW_TotE_AllarusHelmet"
+	},
+	{
+		"abr": "allarusterminatorshoulderpads",
+		"price": 1333,
+		"category": "Shoulder pads",
+		"defname": "GW_TotE_AllarusShoulder"
+	},
+	{
+		"abr": "aquilabackpack",
+		"price": 583,
+		"category": "Grimworld backpacks",
+		"defname": "GW_SM_AquillaBackpack"
+	},
+	{
+		"abr": "aquilahelmet",
+		"price": 1000,
+		"category": "Headgear",
+		"defname": "GW_SM_AquillaHelmet_Simple"
+	},
+	{
+		"abr": "aquilahelmet(laurels)",
+		"price": 1000,
+		"category": "Headgear",
+		"defname": "GW_SM_AquillaHelmet_Laurels"
+	},
+	{
+		"abr": "aquilahelmet(skull)",
+		"price": 1000,
+		"category": "Headgear",
+		"defname": "GW_SM_AquillaHelmet_Skull"
+	},
+	{
+		"abr": "aquilahelmet(studs)",
+		"price": 1000,
+		"category": "Headgear",
+		"defname": "GW_SM_AquillaHelmet_Studs"
+	},
+	{
+		"abr": "aquilapowerarmor",
+		"price": 2833,
+		"category": "Armor",
+		"defname": "GW_SM_AquillaArmor"
+	},
+	{
+		"abr": "aquilashoulderpads(a)",
+		"price": 667,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_AquillaShoulderPads_TypeA"
+	},
+	{
+		"abr": "aquilashoulderpads(b)",
+		"price": 667,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_AquillaShoulderPads_TypeB"
+	},
+	{
+		"abr": "aquilashoulderpads(c)",
+		"price": 667,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_AquillaShoulderPads_TypeC"
+	},
+	{
+		"abr": "armoroffate",
+		"price": 10000,
+		"category": "Armor",
+		"defname": "GW_SM_GuillimanArmor"
+	},
+	{
+		"abr": "armoroffatebackpack",
+		"price": 2500,
+		"category": "Armor",
+		"defname": "GW_SM_GuillimanBackpack"
+	},
+	{
+		"abr": "armoroffate'shelmet",
+		"price": 2667,
+		"category": "Headgear",
+		"defname": "GW_SM_GuillimanHelmet"
+	},
+	{
+		"abr": "armoroffate'sshoulders",
+		"price": 2333,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_GuillimanShoulderPads"
+	},
+	{
+		"abr": "assaultcannon",
+		"price": 3000,
+		"category": "Ranged weapons",
+		"defname": "GW_AOD_Gun_AssualtCannon"
+	},
+	{
+		"abr": "assaultjump-pack",
+		"price": 583,
+		"category": "Grimworld backpacks",
+		"defname": "GW_SM_AssaultJumpPack"
+	},
+	{
+		"abr": "astartesbike",
+		"price": 7000,
+		"category": "Animal",
+		"defname": "GW_AstartesBike"
+	},
+	{
+		"abr": "astartesbolter",
+		"price": 2000,
+		"category": "Ranged weapons",
+		"defname": "GW_AOD_Bolter_Gun_Bolter"
+	},
+	{
+		"abr": "astartesbolterturret",
+		"price": 5450,
+		"category": "Security",
+		"defname": "GW_SM_Building_HeavyBolter"
+	},
+	{
+		"abr": "astarteschainsword",
+		"price": 667,
+		"category": "Melee weapons",
+		"defname": "GW_AOD_Chainsword"
+	},
+	{
+		"abr": "astartescombatknife",
+		"price": 500,
+		"category": "Melee weapons",
+		"defname": "GW_AOD_CombatKnife"
+	},
+	{
+		"abr": "astarteslascannonturret",
+		"price": 5450,
+		"category": "Security",
+		"defname": "GW_SM_Building_Lascannon"
+	},
+	{
+		"abr": "astartesmeltagun",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "GW_AOD_MeltaGun"
+	},
+	{
+		"abr": "astartesmissilelauncher",
+		"price": 4167,
+		"category": "Ranged weapons",
+		"defname": "GW_AOD_RocketLauncher"
+	},
+	{
+		"abr": "astartespatternshotgun",
+		"price": 1500,
+		"category": "Ranged weapons",
+		"defname": "GW_AOD_AstartesShotgun"
+	},
+	{
+		"abr": "astartesplasmacannon",
+		"price": 2167,
+		"category": "Ranged weapons",
+		"defname": "GW_AOD_Gun_AstartesPlasmaCannon"
+	},
+	{
+		"abr": "astartesplasmapistol",
+		"price": 1167,
+		"category": "Ranged weapons",
+		"defname": "GW_AOD_PlasmaPistol"
+	},
+	{
+		"abr": "astartespowerfist",
+		"price": 1167,
+		"category": "Melee weapons",
+		"defname": "GW_AOD_Powerfist"
+	},
+	{
+		"abr": "astartespowersword",
+		"price": 1200,
+		"category": "Melee weapons",
+		"defname": "GW_AOD_Powersword"
+	},
+	{
+		"abr": "astartesrelicpowersword",
+		"price": 1333,
+		"category": "Melee weapons",
+		"defname": "GW_AOD_Relic_Powersword"
+	},
+	{
+		"abr": "astramilitarumbike",
+		"price": 7000,
+		"category": "Animal",
+		"defname": "GW_AstraMilitarumBike"
+	},
+	{
+		"abr": "astraeus",
+		"price": 25000,
+		"category": "Animal",
+		"defname": "GW_SpiteTank"
+	},
+	{
+		"abr": "auramite",
+		"price": 42,
+		"category": "Raw resources",
+		"defname": "HP_Auramite"
+	},
+	{
+		"abr": "baneblade",
+		"price": 23667,
+		"category": "Animal",
+		"defname": "GW_Baneblade"
+	},
+	{
+		"abr": "battlelinebackpack",
+		"price": 650,
+		"category": "Misc",
+		"defname": "GW_HOI_BattlelineBackpack"
+	},
+	{
+		"abr": "bio-enzymegels",
+		"price": 20,
+		"category": "Celestia manufactured",
+		"defname": "Celes_BioGel"
+	},
+	{
+		"abr": "bioniccelestiaear",
+		"price": 1325,
+		"category": "Bionic",
+		"defname": "Celes_BionicEar"
+	},
+	{
+		"abr": "bladechampionarmor",
+		"price": 7000,
+		"category": "Armor",
+		"defname": "GW_TotE_BladeOfChamp"
+	},
+	{
+		"abr": "bladechampionhelmet",
+		"price": 1667,
+		"category": "Headgear",
+		"defname": "GW_TotE_BladeChampHelmet"
+	},
+	{
+		"abr": "boltcaliver",
+		"price": 3333,
+		"category": "Ranged weapons",
+		"defname": "GW_TotE_Bolt_Caliver"
+	},
+	{
+		"abr": "boltpistol(astartes)",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "GW_AOD_Gun_BoltPistol"
+	},
+	{
+		"abr": "boltpistolcerespattern",
+		"price": 1333,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_Gun_BoltPistol"
+	},
+	{
+		"abr": "bolterlockepattern",
+		"price": 2000,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_Gun_Bolter"
+	},
+	{
+		"abr": "brain",
+		"price": 1500,
+		"category": "Natural",
+		"defname": "Brain"
+	},
+	{
+		"abr": "cadiancastellanarmor",
+		"price": 2083,
+		"category": "Armor",
+		"defname": "GW_HOI_CadianCommanderArmor"
+	},
+	{
+		"abr": "cadiancastellanhelmet",
+		"price": 667,
+		"category": "Headgear",
+		"defname": "GW_HOI_Cadian_CastellenHelmet"
+	},
+	{
+		"abr": "cadiancombatwebbing",
+		"price": 567,
+		"category": "Apparel",
+		"defname": "GW_HOI_CadianCombatWebbing"
+	},
+	{
+		"abr": "cadiancommissarbreastplate",
+		"price": 567,
+		"category": "Apparel",
+		"defname": "GW_HOI_CommissarMiddle"
+	},
+	{
+		"abr": "cadiancommissargorget",
+		"price": 36,
+		"category": "Utility",
+		"defname": "GW_HOI_Cadian_CommissarGorget"
+	},
+	{
+		"abr": "cadiancommissarovercoat",
+		"price": 250,
+		"category": "Apparel",
+		"defname": "GW_HOI_CommissarOuter"
+	},
+	{
+		"abr": "cadiancommissaruniform",
+		"price": 333,
+		"category": "Apparel",
+		"defname": "GW_HOI_CommissarUniform"
+	},
+	{
+		"abr": "cadiancrewarmor",
+		"price": 1983,
+		"category": "Armor",
+		"defname": "GW_HOI_Cadian_CrewArmor"
+	},
+	{
+		"abr": "cadiancrewcap",
+		"price": 200,
+		"category": "Headgear",
+		"defname": "GW_HOI_Cadian_Crewcap"
+	},
+	{
+		"abr": "cadiancrewhelmet",
+		"price": 667,
+		"category": "Headgear",
+		"defname": "GW_HOI_Cadian_CrewHelmet"
+	},
+	{
+		"abr": "cadiancrushercap",
+		"price": 250,
+		"category": "Headgear",
+		"defname": "GW_HOI_Cadian_CrusherCap"
+	},
+	{
+		"abr": "cadianfatigues",
+		"price": 250,
+		"category": "Apparel",
+		"defname": "GW_HOI_Cadian_Fatigues"
+	},
+	{
+		"abr": "cadianfatigues(green)",
+		"price": 250,
+		"category": "Apparel",
+		"defname": "GW_HOI_Cadian_FatiguesGreen"
+	},
+	{
+		"abr": "cadianfieldcap",
+		"price": 200,
+		"category": "Headgear",
+		"defname": "GW_HOI_Cadian_Fieldcap"
+	},
+	{
+		"abr": "cadianflakarmor",
+		"price": 1983,
+		"category": "Armor",
+		"defname": "GW_HOI_Cadian_FlakArmor"
+	},
+	{
+		"abr": "cadianhelmet",
+		"price": 667,
+		"category": "Headgear",
+		"defname": "GW_HOI_Cadian_Helmet"
+	},
+	{
+		"abr": "cadianjumpsuit",
+		"price": 250,
+		"category": "Apparel",
+		"defname": "GW_HOI_Cadian_CrewJumpsuit"
+	},
+	{
+		"abr": "cadianofficerarmor",
+		"price": 2083,
+		"category": "Armor",
+		"defname": "GW_HOI_CadianOfficerArmor"
+	},
+	{
+		"abr": "cadianofficercap",
+		"price": 83,
+		"category": "Headgear",
+		"defname": "GW_HOI_CadianOfficerCap"
+	},
+	{
+		"abr": "cadianofficeruniform",
+		"price": 283,
+		"category": "Apparel",
+		"defname": "GW_HOI_CadianCommanderFatigues"
+	},
+	{
+		"abr": "cadianpsykerjacket",
+		"price": 292,
+		"category": "Apparel",
+		"defname": "GW_HOI_CadianPsykerJacket"
+	},
+	{
+		"abr": "cadianwhiteshieldshelmet",
+		"price": 667,
+		"category": "Headgear",
+		"defname": "GW_HOI_Cadian_WhiteShieldHelmet"
+	},
+	{
+		"abr": "caladius",
+		"price": 25000,
+		"category": "Animal",
+		"defname": "GW_CalastrusTank"
+	},
+	{
+		"abr": "castellanaxe",
+		"price": 5000,
+		"category": "Melee weapons",
+		"defname": "GW_TotE_CastellanAxe"
+	},
+	{
+		"abr": "castellanaxe(ranged)",
+		"price": 3208,
+		"category": "Ranged weapons",
+		"defname": "GW_TotE_CastellanAxeR"
+	},
+	{
+		"abr": "castellanplate",
+		"price": 8000,
+		"category": "Armor",
+		"defname": "GW_TotE_CastellanArmor"
+	},
+	{
+		"abr": "castellanplatehelmet",
+		"price": 2500,
+		"category": "Headgear",
+		"defname": "GW_TotE_CastellanPlateHelmet"
+	},
+	{
+		"abr": "castellanplateshoulderpads",
+		"price": 1667,
+		"category": "Shoulder pads",
+		"defname": "GW_TotE_CastellanPlateShoulder"
+	},
+	{
+		"abr": "catachanarmor",
+		"price": 1167,
+		"category": "Armor",
+		"defname": "GW_HOI_ROR_CatachanArmor"
+	},
+	{
+		"abr": "catachanbandana",
+		"price": 167,
+		"category": "Headgear",
+		"defname": "GW_HOI_ROR_CatachanBandana"
+	},
+	{
+		"abr": "catachanbandana(fullwrap)",
+		"price": 167,
+		"category": "Headgear",
+		"defname": "GW_HOI_ROR_CatachanBandanaFull"
+	},
+	{
+		"abr": "catachanfang",
+		"price": 333,
+		"category": "Melee weapons",
+		"defname": "GW_AM_MeleeWeapon_CatachanFang"
+	},
+	{
+		"abr": "catachanfatigues",
+		"price": 233,
+		"category": "Apparel",
+		"defname": "GW_HOI_ROR_CatachanFatigues"
+	},
+	{
+		"abr": "catachanvest",
+		"price": 200,
+		"category": "Apparel",
+		"defname": "GW_HOI_ROR_CatachanOuter"
+	},
+	{
+		"abr": "celes_militaryhat",
+		"price": 433,
+		"category": "Celestia hat",
+		"defname": "Celes_MilitaryHat"
+	},
+	{
+		"abr": "celes_servantcoat",
+		"price": 321,
+		"category": "Misc",
+		"defname": "Celes_ServantCoat"
+	},
+	{
+		"abr": "celes_tacticalhelmet",
+		"price": 950,
+		"category": "Celestia hat",
+		"defname": "Celes_TacticalHelmet"
+	},
+	{
+		"abr": "celesnanomachinecrystal",
+		"price": 200,
+		"category": "Manufactured",
+		"defname": "Celes_NanoMachineCrystal"
+	},
+	{
+		"abr": "celestiacivilianmechlinkrestrictionhacker",
+		"price": 833,
+		"category": "Mechtech",
+		"defname": "Celes_MechlinkAuthorization"
+	},
+	{
+		"abr": "celestiacivilianuniform",
+		"price": 172,
+		"category": "Celestia daily apparel",
+		"defname": "Celes_CivilianUniform"
+	},
+	{
+		"abr": "celestiaclassicassaultrifle",
+		"price": 1467,
+		"category": "Celestia ranged weapons",
+		"defname": "Celes_Mid_SAssault"
+	},
+	{
+		"abr": "celestiaclassicautomaticshotgun",
+		"price": 1467,
+		"category": "Celestia ranged weapons",
+		"defname": "Celes_Mid_ShotGun"
+	},
+	{
+		"abr": "celestiaclassicdmr",
+		"price": 1767,
+		"category": "Celestia ranged weapons",
+		"defname": "Celes_Mid_DMR"
+	},
+	{
+		"abr": "celestiaclassicsniperrifle",
+		"price": 2300,
+		"category": "Celestia ranged weapons",
+		"defname": "Celes_Mid_SR"
+	},
+	{
+		"abr": "celestiadustproofcoat",
+		"price": 321,
+		"category": "Celestia daily apparel",
+		"defname": "Celes_SummerCoat"
+	},
+	{
+		"abr": "celestiaemergencymedicine",
+		"price": 100,
+		"category": "Medicine",
+		"defname": "MedicineCeles"
+	},
+	{
+		"abr": "celestiaexplorecoat",
+		"price": 533,
+		"category": "Celestia daily apparel",
+		"defname": "Celes_ExploreCoat"
+	},
+	{
+		"abr": "celestiaexplorevest",
+		"price": 442,
+		"category": "Celestia daily apparel",
+		"defname": "Celes_ExploreVest"
+	},
+	{
+		"abr": "celestiahigh-techcomponent",
+		"price": 500,
+		"category": "Manufactured",
+		"defname": "Celes_SpaceWeapenComponent"
+	},
+	{
+		"abr": "celestiaindustrialchips",
+		"price": 250,
+		"category": "Manufactured",
+		"defname": "Celes_IndustrialChips"
+	},
+	{
+		"abr": "celestiakitchenapron",
+		"price": 111,
+		"category": "Celestia daily apparel",
+		"defname": "Celes_KitchenApron"
+	},
+	{
+		"abr": "celestialabcoat",
+		"price": 287,
+		"category": "Celestia daily apparel",
+		"defname": "Celes_LabCoat"
+	},
+	{
+		"abr": "celestiamilitarycoat",
+		"price": 750,
+		"category": "Celestia military apparel",
+		"defname": "Celes_MilitaryCoat"
+	},
+	{
+		"abr": "celestiamilitaryuniform",
+		"price": 600,
+		"category": "Celestia military apparel",
+		"defname": "Celes_MilitaryUniform"
+	},
+	{
+		"abr": "celestiamre",
+		"price": 40,
+		"category": "Meals",
+		"defname": "CelesMRE"
+	},
+	{
+		"abr": "celestiamultifunctionaltab",
+		"price": 492,
+		"category": "Production",
+		"defname": "Celes_MultifunctionalTabA"
+	},
+	{
+		"abr": "celestiamultifunctionaltab",
+		"price": 492,
+		"category": "Production",
+		"defname": "Celes_MultifunctionalTabB"
+	},
+	{
+		"abr": "celestiaparka",
+		"price": 327,
+		"category": "Celestia daily apparel",
+		"defname": "Celes_WinterCoat"
+	},
+	{
+		"abr": "celestiapioneerartillerystriketargeter",
+		"price": 2000,
+		"category": "Utility",
+		"defname": "CelesArtilleryTargeter"
+	},
+	{
+		"abr": "celestiapioneerbolterrifle",
+		"price": 792,
+		"category": "Celestia ranged weapons",
+		"defname": "Celes_Early_Rifle"
+	},
+	{
+		"abr": "celestiapioneerrevolver",
+		"price": 508,
+		"category": "Celestia ranged weapons",
+		"defname": "Celes_Early_Revolver"
+	},
+	{
+		"abr": "celestiapioneersemi-autorifle",
+		"price": 742,
+		"category": "Celestia ranged weapons",
+		"defname": "Celes_Early_SemiRifle"
+	},
+	{
+		"abr": "celestiapioneersemi-autoshotgun",
+		"price": 733,
+		"category": "Celestia ranged weapons",
+		"defname": "Celes_Early_ShotGun"
+	},
+	{
+		"abr": "celestiapioneeringdagger",
+		"price": 202,
+		"category": "Celestia melee weapons",
+		"defname": "CelesDagger"
+	},
+	{
+		"abr": "celestiapioneeringhatchet",
+		"price": 184,
+		"category": "Celestia melee weapons",
+		"defname": "Celes_Hatchet"
+	},
+	{
+		"abr": "celestiapioneeringiceaxe",
+		"price": 248,
+		"category": "Celestia melee weapons",
+		"defname": "Celes_IceAxe"
+	},
+	{
+		"abr": "celestiapioneeringsaber",
+		"price": 450,
+		"category": "Celestia melee weapons",
+		"defname": "CelesSaberIndustrial"
+	},
+	{
+		"abr": "celestiaprimordialrobe",
+		"price": 209,
+		"category": "Celestia daily apparel",
+		"defname": "Celes_Tribal"
+	},
+	{
+		"abr": "celestiarace",
+		"price": 3750,
+		"category": "Animal",
+		"defname": "Celes_Race"
+	},
+	{
+		"abr": "celestiaracemeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_Celes_Race"
+	},
+	{
+		"abr": "celestiasentinelsadirapowerarmour",
+		"price": 4492,
+		"category": "Celestia military apparel",
+		"defname": "Celes_LightPowerArmour"
+	},
+	{
+		"abr": "celestiasentinelsadirapowerarmour",
+		"price": 4492,
+		"category": "Celestia military apparel",
+		"defname": "Celes_MidPowerArmour"
+	},
+	{
+		"abr": "celestiasinglet",
+		"price": 126,
+		"category": "Celestia daily apparel",
+		"defname": "Celes_SummerVest"
+	},
+	{
+		"abr": "celestiastandardassaultrifle",
+		"price": 2708,
+		"category": "Celestia ranged weapons",
+		"defname": "Celes_Spacer_Rifle"
+	},
+	{
+		"abr": "celestiastandardmonodagger",
+		"price": 1083,
+		"category": "Celestia melee weapons",
+		"defname": "CelesMonoDagger"
+	},
+	{
+		"abr": "celestiastandardmonosaber",
+		"price": 2467,
+		"category": "Celestia melee weapons",
+		"defname": "CelesSaberSpacer"
+	},
+	{
+		"abr": "celestiastandardsniperrifle",
+		"price": 3650,
+		"category": "Celestia ranged weapons",
+		"defname": "Celes_Spacer_SniperRifle"
+	},
+	{
+		"abr": "celestiastandardsubmachinegun",
+		"price": 1217,
+		"category": "Celestia ranged weapons",
+		"defname": "Celes_Spacer_SMG"
+	},
+	{
+		"abr": "celestiatacticalvest",
+		"price": 400,
+		"category": "Celestia military apparel",
+		"defname": "Celes_TacticalVest"
+	},
+	{
+		"abr": "celestiatailoringtab",
+		"price": 492,
+		"category": "Production",
+		"defname": "Celes_TailoringTab"
+	},
+	{
+		"abr": "celestiatrenchcoat",
+		"price": 321,
+		"category": "Celestia daily apparel",
+		"defname": "Celes_TrenchCoat"
+	},
+	{
+		"abr": "celestiaturtlenecksweater",
+		"price": 166,
+		"category": "Celestia daily apparel",
+		"defname": "Celes_WinterSweater"
+	},
+	{
+		"abr": "celestianstatue",
+		"price": 275,
+		"category": "Art",
+		"defname": "GW40k_1x1StatuesSisterMace"
+	},
+	{
+		"abr": "ceramite",
+		"price": 83,
+		"category": "Raw resources",
+		"defname": "HP_Ceramite"
+	},
+	{
+		"abr": "chainswordcadiamkiv",
+		"price": 433,
+		"category": "Melee weapons",
+		"defname": "GW_HOI_Melee_Chainsword"
+	},
+	{
+		"abr": "chimealloy",
+		"price": 7,
+		"category": "Raw resources",
+		"defname": "CelesAlloy"
+	},
+	{
+		"abr": "chimerachassis",
+		"price": 7000,
+		"category": "Animal",
+		"defname": "GW_Chimera"
+	},
+	{
+		"abr": "closedinterceptorhelmet",
+		"price": 833,
+		"category": "Headgear",
+		"defname": "GW_SM_GravisHelmet_ClosedInterceptor"
+	},
+	{
+		"abr": "cogitator",
+		"price": 16308,
+		"category": "Production",
+		"defname": "GW_Cogitator"
+	},
+	{
+		"abr": "combatknife",
+		"price": 250,
+		"category": "Melee weapons",
+		"defname": "GW_HOI_Melee_CombatKnife"
+	},
+	{
+		"abr": "combatshield(a)",
+		"price": 1083,
+		"category": "Grimworld shields",
+		"defname": "GW_SM_CombatShieldA"
+	},
+	{
+		"abr": "combatshield(b)",
+		"price": 1083,
+		"category": "Grimworld shields",
+		"defname": "GW_SM_CombatShieldB"
+	},
+	{
+		"abr": "combatshield(c)",
+		"price": 1083,
+		"category": "Grimworld shields",
+		"defname": "GW_SM_CombatShieldC"
+	},
+	{
+		"abr": "combatshield(d)",
+		"price": 1083,
+		"category": "Grimworld shields",
+		"defname": "GW_SM_CombatShieldD"
+	},
+	{
+		"abr": "combatstims",
+		"price": 67,
+		"category": "Drugs",
+		"defname": "GW_CombatStims"
+	},
+	{
+		"abr": "commissarcap",
+		"price": 83,
+		"category": "Headgear",
+		"defname": "GW_HOI_CommissarCap"
+	},
+	{
+		"abr": "commissargorget",
+		"price": 42,
+		"category": "Misc",
+		"defname": "GW_HOI_CommissarAttachment"
+	},
+	{
+		"abr": "commondoublebed",
+		"price": 292,
+		"category": "Furniture",
+		"defname": "GW_IF_CommonDouble"
+	},
+	{
+		"abr": "commonsinglebed",
+		"price": 155,
+		"category": "Furniture",
+		"defname": "GW_IF_CommonSingle"
+	},
+	{
+		"abr": "constantinvaldorstatue",
+		"price": 1800,
+		"category": "Art",
+		"defname": "GW40k_4x4StatuesVald"
+	},
+	{
+		"abr": "corpsestarch",
+		"price": 2,
+		"category": "Foods",
+		"defname": "CorpseStarch"
+	},
+	{
+		"abr": "corvusbackpack",
+		"price": 583,
+		"category": "Grimworld backpacks",
+		"defname": "GW_SM_CorvusBackpack"
+	},
+	{
+		"abr": "corvushelmet",
+		"price": 1000,
+		"category": "Headgear",
+		"defname": "GW_SM_CorvusHelmet_Simple"
+	},
+	{
+		"abr": "corvushelmet(laurels)",
+		"price": 1000,
+		"category": "Headgear",
+		"defname": "GW_SM_CorvusHelmet_Laurels"
+	},
+	{
+		"abr": "corvushelmet(skull)",
+		"price": 1000,
+		"category": "Headgear",
+		"defname": "GW_SM_CorvusHelmet_Skull"
+	},
+	{
+		"abr": "corvuspowerarmor",
+		"price": 2833,
+		"category": "Armor",
+		"defname": "GW_SM_CorvusArmor"
+	},
+	{
+		"abr": "corvusshoulderpads(a)",
+		"price": 667,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_CorvusShoulderPads_TypeA"
+	},
+	{
+		"abr": "corvusshoulderpads(b)",
+		"price": 667,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_CorvusShoulderPads_TypeB"
+	},
+	{
+		"abr": "corvusshoulderpads(c)",
+		"price": 667,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_CorvusShoulderPads_TypeC"
+	},
+	{
+		"abr": "corvusshoulderpads(d)",
+		"price": 667,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_CorvusShoulderPads_TypeD"
+	},
+	{
+		"abr": "cps-1combatpsychicstimulants",
+		"price": 267,
+		"category": "Drugs",
+		"defname": "Celes_CPS1M"
+	},
+	{
+		"abr": "crystalcapsule",
+		"price": 20,
+		"category": "Celestia nano product",
+		"defname": "Celes_RawCrystalOrchid"
+	},
+	{
+		"abr": "crystallinecorpse",
+		"price": 20,
+		"category": "Chunks",
+		"defname": "Celes_NanoCrystallisedCorpse"
+	},
+	{
+		"abr": "cs-12combathemostat",
+		"price": 67,
+		"category": "Drugs",
+		"defname": "Celes_CS12M"
+	},
+	{
+		"abr": "cs-6combatstimulants",
+		"price": 100,
+		"category": "Drugs",
+		"defname": "Celes_CS6M"
+	},
+	{
+		"abr": "custodesshieldhosthelmet",
+		"price": 1667,
+		"category": "Headgear",
+		"defname": "GW_TotE_CustodesGuardHelmet"
+	},
+	{
+		"abr": "custodesshieldhostshoulderpads",
+		"price": 1167,
+		"category": "Shoulder pads",
+		"defname": "GW_TotE_CustodesGuardShoulder"
+	},
+	{
+		"abr": "custodeswardenhelmet",
+		"price": 1667,
+		"category": "Headgear",
+		"defname": "GW_TotE_CustodesWardenHelmet"
+	},
+	{
+		"abr": "custodeswardenshoulderpads",
+		"price": 1167,
+		"category": "Shoulder pads",
+		"defname": "GW_TotE_CustodesWardenShoulder"
+	},
+	{
+		"abr": "custodianshieldhostarmor",
+		"price": 7000,
+		"category": "Armor",
+		"defname": "GW_TotE_CustodesGuardArmor"
+	},
+	{
+		"abr": "custodianwardenarmor",
+		"price": 7000,
+		"category": "Armor",
+		"defname": "GW_TotE_CustodesWardenArmor"
+	},
+	{
+		"abr": "darkangelhelmet(a)",
+		"price": 1000,
+		"category": "Headgear",
+		"defname": "GW_CM_DAngelHelmet_A"
+	},
+	{
+		"abr": "darkangelhelmet(b)",
+		"price": 1000,
+		"category": "Headgear",
+		"defname": "GW_CM_DAngelHelmet_B"
+	},
+	{
+		"abr": "darkangelhelmet(c)",
+		"price": 1000,
+		"category": "Headgear",
+		"defname": "GW_CM_DAngelHelmet_C"
+	},
+	{
+		"abr": "darkangelhelmet(d)",
+		"price": 1000,
+		"category": "Headgear",
+		"defname": "GW_CM_DAngelHelmet_D"
+	},
+	{
+		"abr": "darkangelshoulderpads(a)",
+		"price": 667,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_DarkAngelsShoulderPadsModelA_DA"
+	},
+	{
+		"abr": "darkangelshoulderpads(b)",
+		"price": 667,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_DarkAngelsShoulderPadsModelB_DA"
+	},
+	{
+		"abr": "darkangelshoulderpads(c)",
+		"price": 667,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_DarkAngelsShoulderPadsModelC_DA"
+	},
+	{
+		"abr": "dawneaglejetbike",
+		"price": 11667,
+		"category": "Animal",
+		"defname": "GW_DawnEagleBike"
+	},
+	{
+		"abr": "deathkorpscommissarhelmet",
+		"price": 1167,
+		"category": "Headgear",
+		"defname": "GW_HOI_DM_KriegCommissarHelmet"
+	},
+	{
+		"abr": "deathkorpsengineerarmor",
+		"price": 1167,
+		"category": "Apparel",
+		"defname": "GW_HOI_DM_KriegEngineerMiddle"
+	},
+	{
+		"abr": "deathkorpsengineerhelmet",
+		"price": 833,
+		"category": "Headgear",
+		"defname": "GW_HOI_DM_KriegEngineerHelmet"
+	},
+	{
+		"abr": "deathkorpsgrenadierarmor",
+		"price": 1417,
+		"category": "Armor",
+		"defname": "GW_HOI_DM_KriegGrenadierArmor"
+	},
+	{
+		"abr": "deathkorpsgrenadierhelmet",
+		"price": 1000,
+		"category": "Headgear",
+		"defname": "GW_HOI_DM_KriegGrenadierHelmet"
+	},
+	{
+		"abr": "deathkorpshelmet",
+		"price": 667,
+		"category": "Headgear",
+		"defname": "GW_HOI_DM_KriegGuardHelmet"
+	},
+	{
+		"abr": "deathkorpsofficerarmor",
+		"price": 1500,
+		"category": "Armor",
+		"defname": "GW_HOI_DM_KriegOfficerArmor"
+	},
+	{
+		"abr": "deathkorpsofficerhelmet",
+		"price": 1250,
+		"category": "Headgear",
+		"defname": "GW_HOI_DM_KriegOfficerHelmet"
+	},
+	{
+		"abr": "deathkorpsofficeruniform",
+		"price": 300,
+		"category": "Apparel",
+		"defname": "GW_HOI_DM_KriegOfficerUniform"
+	},
+	{
+		"abr": "deathkorpsuniform",
+		"price": 250,
+		"category": "Apparel",
+		"defname": "GW_HOI_DM_KriegUniform"
+	},
+	{
+		"abr": "deathkorpswebbing",
+		"price": 833,
+		"category": "Utility",
+		"defname": "GW_HOI_DM_KriegBelt"
+	},
+	{
+		"abr": "deathwatchpatternshotgun",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "GW_AOD_DeathwatchShotgun"
+	},
+	{
+		"abr": "desertfatigues",
+		"price": 250,
+		"category": "Apparel",
+		"defname": "GW_HOI_ROR_TDR_DesertFatigues"
+	},
+	{
+		"abr": "droppod",
+		"price": 8333,
+		"category": "Animal",
+		"defname": "GW_DropPod"
+	},
+	{
+		"abr": "dust-mechsilk",
+		"price": 13,
+		"category": "Textiles",
+		"defname": "CelesAdvanceCloth"
+	},
+	{
+		"abr": "earthshakercannon",
+		"price": 2808,
+		"category": "Security",
+		"defname": "GW_HOI_Turret_Earthshaker"
+	},
+	{
+		"abr": "elysianflakarmor",
+		"price": 1958,
+		"category": "Armor",
+		"defname": "GW_HOI_ROR_Elysian_Armor"
+	},
+	{
+		"abr": "elysianhelmet",
+		"price": 917,
+		"category": "Headgear",
+		"defname": "GW_HOI_ROR_Elysian_Helmet"
+	},
+	{
+		"abr": "elysianhelmet(open)",
+		"price": 583,
+		"category": "Headgear",
+		"defname": "GW_HOI_ROR_ElysianHelmetOpen"
+	},
+	{
+		"abr": "elysianjetpack",
+		"price": 1000,
+		"category": "Misc",
+		"defname": "GW_HOI_ROR_Elysian_Jetpack"
+	},
+	{
+		"abr": "emperor'sshield",
+		"price": 3333,
+		"category": "Grimworld shields",
+		"defname": "GM_SS_ShieldLionsW"
+	},
+	{
+		"abr": "emperor'ssword",
+		"price": 6667,
+		"category": "Melee weapons",
+		"defname": "GW_SM_Melee_FlameSword"
+	},
+	{
+		"abr": "enginseerbackpack",
+		"price": 500,
+		"category": "Misc",
+		"defname": "GW_HOI_EngineseererBackpack"
+	},
+	{
+		"abr": "enginseerhood",
+		"price": 250,
+		"category": "Headgear",
+		"defname": "GW_HOI_EngineseererHood"
+	},
+	{
+		"abr": "enginseermask",
+		"price": 292,
+		"category": "Headgear",
+		"defname": "GW_HOI_EngineseererMask"
+	},
+	{
+		"abr": "enginseerrobe",
+		"price": 333,
+		"category": "Apparel",
+		"defname": "GW_HOI_Engineseerer"
+	},
+	{
+		"abr": "evisceratortigrusmkii",
+		"price": 583,
+		"category": "Melee weapons",
+		"defname": "GW_HOI_Melee_Eviscerator"
+	},
+	{
+		"abr": "executionergreatblade",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "GW_TotE_SoSSword"
+	},
+	{
+		"abr": "executorboltrifle",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "GW_AOD_Executor_Bolt_Rifle"
+	},
+	{
+		"abr": "executorheavybolter",
+		"price": 2667,
+		"category": "Ranged weapons",
+		"defname": "GW_AOD_HeavyBolter"
+	},
+	{
+		"abr": "eyeoftheemperorarmor",
+		"price": 7000,
+		"category": "Armor",
+		"defname": "GW_TotE_EyeOfTheEmperor"
+	},
+	{
+		"abr": "eyeoftheemperorhelmet",
+		"price": 1667,
+		"category": "Headgear",
+		"defname": "GW_TotE_EyeOfTheEmperorHelmet"
+	},
+	{
+		"abr": "eyeoftheemperorshoulderpads",
+		"price": 1167,
+		"category": "Shoulder pads",
+		"defname": "GW_TotE_EyeoftheEmperorShoulder"
+	},
+	{
+		"abr": "fakecelestiaear",
+		"price": 433,
+		"category": "Prosthetic",
+		"defname": "Celes_FakeEar"
+	},
+	{
+		"abr": "fealty",
+		"price": 6667,
+		"category": "Melee weapons",
+		"defname": "GW_SS_LionSword"
+	},
+	{
+		"abr": "fenrisianale",
+		"price": 42,
+		"category": "Drugs",
+		"defname": "GW_FenrisianAle"
+	},
+	{
+		"abr": "fibrovest",
+		"price": 417,
+		"category": "Apparel",
+		"defname": "GW_SM_FibroVest"
+	},
+	{
+		"abr": "fieldmedkit",
+		"price": 20,
+		"category": "Medicine",
+		"defname": "FieldMedkit"
+	},
+	{
+		"abr": "flagbearerstatue",
+		"price": 275,
+		"category": "Art",
+		"defname": "GW40k_Statues_1x1Flag"
+	},
+	{
+		"abr": "flamercadianpattern",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_Gun_Flamer"
+	},
+	{
+		"abr": "gravisbackpack",
+		"price": 667,
+		"category": "Grimworld backpacks",
+		"defname": "GW_SM_GravisBackpack"
+	},
+	{
+		"abr": "gravishelmet",
+		"price": 833,
+		"category": "Headgear",
+		"defname": "GW_SM_GravisHelmet_Simple"
+	},
+	{
+		"abr": "gravishelmet(laurels)",
+		"price": 833,
+		"category": "Headgear",
+		"defname": "GW_SM_GravisHelmet_Laurels"
+	},
+	{
+		"abr": "gravishelmet(skull)",
+		"price": 833,
+		"category": "Headgear",
+		"defname": "GW_SM_GravisHelmet_Skull"
+	},
+	{
+		"abr": "gravispowerarmor(a)",
+		"price": 3833,
+		"category": "Armor",
+		"defname": "GW_SM_GravisArmor"
+	},
+	{
+		"abr": "gravispowerarmor(b)",
+		"price": 3833,
+		"category": "Armor",
+		"defname": "GW_SM_GravisArmorNeckPlate"
+	},
+	{
+		"abr": "gravisshoulderpads(a)",
+		"price": 750,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_GravisShoulderPads_TypeA"
+	},
+	{
+		"abr": "gravisshoulderpads(b)",
+		"price": 750,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_GravisShoulderPads_TypeB"
+	},
+	{
+		"abr": "gravisshoulderpads(c)",
+		"price": 750,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_GravisShoulderPads_TypeC"
+	},
+	{
+		"abr": "gravisshoulderpads(d)",
+		"price": 750,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_GravisShoulderPads_TypeD"
+	},
+	{
+		"abr": "gravisshoulderpads(e)",
+		"price": 750,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_GravisShoulderPads_TypeE"
+	},
+	{
+		"abr": "gravitoncannon",
+		"price": 3833,
+		"category": "Ranged weapons",
+		"defname": "GW_AOD_Gun_GravCannon"
+	},
+	{
+		"abr": "gravitonpistol",
+		"price": 1500,
+		"category": "Ranged weapons",
+		"defname": "GW_SM_Gun_GravPistol"
+	},
+	{
+		"abr": "gravitonrifle",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "GW_SM_Gun_GravRifle"
+	},
+	{
+		"abr": "guardianspear",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "GW_TotE_GuardianSpear"
+	},
+	{
+		"abr": "guardianspear(ranged)",
+		"price": 7808,
+		"category": "Ranged weapons",
+		"defname": "GW_TotE_GuardianSpearR"
+	},
+	{
+		"abr": "handflamer",
+		"price": 833,
+		"category": "Ranged weapons",
+		"defname": "GW_SM_Gun_Burner"
+	},
+	{
+		"abr": "heavyboltpistol",
+		"price": 1833,
+		"category": "Ranged weapons",
+		"defname": "GW_AOD_HeavyBoltPistol"
+	},
+	{
+		"abr": "heavybolterturret",
+		"price": 1975,
+		"category": "Security",
+		"defname": "GW_HOI_Building_HeavyBolter"
+	},
+	{
+		"abr": "heavyflamer",
+		"price": 2167,
+		"category": "Ranged weapons",
+		"defname": "GW_AOD_Gun_HeavyFlamer"
+	},
+	{
+		"abr": "heavystubber",
+		"price": 1142,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_Gun_Heavystubber"
+	},
+	{
+		"abr": "hellguncadianpattern",
+		"price": 350,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_Gun_Kantraeldefender"
+	},
+	{
+		"abr": "hellguncadianpattern",
+		"price": 1083,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_Gun_Hellgun"
+	},
+	{
+		"abr": "hiveworldautopistol",
+		"price": 467,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_Gun_Hiveworldautopistol"
+	},
+	{
+		"abr": "ias-2immunoagoniststimulants",
+		"price": 50,
+		"category": "Drugs",
+		"defname": "Celes_IAS2M"
+	},
+	{
+		"abr": "imperialchair",
+		"price": 198,
+		"category": "Furniture",
+		"defname": "GW_IF_Chair"
+	},
+	{
+		"abr": "imperialpsythrone",
+		"price": 15233,
+		"category": "Furniture",
+		"defname": "GWGT_GoldenThrone"
+	},
+	{
+		"abr": "imperialregentarmor",
+		"price": 10000,
+		"category": "Armor",
+		"defname": "GW_SM_ChapterMasterArmor"
+	},
+	{
+		"abr": "imperialregentbackpack",
+		"price": 52283,
+		"category": "Armor",
+		"defname": "GW_SM_ChapterMasterBackpack"
+	},
+	{
+		"abr": "imperialregenthelmet",
+		"price": 2667,
+		"category": "Headgear",
+		"defname": "GW_SM_ChapterMasterHelmet"
+	},
+	{
+		"abr": "imperialregentshoulderpads",
+		"price": 30792,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_ChapterMasterShoulderPads"
+	},
+	{
+		"abr": "imperialroyalchair",
+		"price": 198,
+		"category": "Furniture",
+		"defname": "GW_IF_Royal_Chair"
+	},
+	{
+		"abr": "imperialroyaltable(2x1)",
+		"price": 933,
+		"category": "Furniture",
+		"defname": "GW_IF_Royal_2x1c"
+	},
+	{
+		"abr": "imperialroyaltable(2x2)",
+		"price": 1008,
+		"category": "Furniture",
+		"defname": "GW_IF_Royal_2x2c"
+	},
+	{
+		"abr": "imperialroyaltable(2x4)",
+		"price": 1008,
+		"category": "Furniture",
+		"defname": "GW_IF_Royal_2x4c"
+	},
+	{
+		"abr": "imperialroyaltable(3x3)",
+		"price": 1008,
+		"category": "Furniture",
+		"defname": "GW_IF_Royal_3x3c"
+	},
+	{
+		"abr": "imperialrug(3x6)",
+		"price": 583,
+		"category": "Furniture",
+		"defname": "GW_IF_3x6MundaneRug"
+	},
+	{
+		"abr": "imperialrug(4x4)",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "GW_IF_4x4MundaneRug"
+	},
+	{
+		"abr": "imperialrug(4x6)",
+		"price": 767,
+		"category": "Furniture",
+		"defname": "GW_IF_4x6MundaneRug"
+	},
+	{
+		"abr": "imperialrug(8x8)",
+		"price": 2050,
+		"category": "Furniture",
+		"defname": "GW_IF_8x8MundaneRug"
+	},
+	{
+		"abr": "imperialtableroyal(1x1)",
+		"price": 1008,
+		"category": "Furniture",
+		"defname": "GW_IF_Royal_1x1c"
+	},
+	{
+		"abr": "imperialtoolcabinet",
+		"price": 750,
+		"category": "Misc",
+		"defname": "GW_VehicleToolCabinet"
+	},
+	{
+		"abr": "imperialwardenarmor",
+		"price": 10000,
+		"category": "Armor",
+		"defname": "GW_SM_ImperialWardenrArmor"
+	},
+	{
+		"abr": "imperialwardenbackpack",
+		"price": 2500,
+		"category": "Armor",
+		"defname": "GW_SM_ImperialWardenrBackpack"
+	},
+	{
+		"abr": "imperialwardenhelmet",
+		"price": 2667,
+		"category": "Headgear",
+		"defname": "GW_SM_ImperialWardenHelmet"
+	},
+	{
+		"abr": "imperialwardenhood",
+		"price": 2667,
+		"category": "Headgear",
+		"defname": "GW_SM_ImperialWardenHood"
+	},
+	{
+		"abr": "imperialwardenhoodedhelmet",
+		"price": 2667,
+		"category": "Headgear",
+		"defname": "GW_SM_ImperialWardenHooded"
+	},
+	{
+		"abr": "imperialwardenshield",
+		"price": 29867,
+		"category": "Grimworld shields",
+		"defname": "GM_SS_ShieldLionsC"
+	},
+	{
+		"abr": "imperialwardenshoulders",
+		"price": 30792,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_ImperialWardenrShoulderPads"
+	},
+	{
+		"abr": "incendiumfirepike",
+		"price": 667,
+		"category": "Ranged weapons",
+		"defname": "GW_TotE_Firepike"
+	},
+	{
+		"abr": "infernogun",
+		"price": 1167,
+		"category": "Ranged weapons",
+		"defname": "GW_AOD_InfernoPistol"
+	},
+	{
+		"abr": "interceptorhelmet",
+		"price": 833,
+		"category": "Headgear",
+		"defname": "GW_SM_GravisHelmet_Interceptor"
+	},
+	{
+		"abr": "janitorstatue",
+		"price": 275,
+		"category": "Art",
+		"defname": "GW40k_Statues_1x1Janitor"
+	},
+	{
+		"abr": "jetengine",
+		"price": 1333,
+		"category": "Vehicle parts",
+		"defname": "GW_JetEngine"
+	},
+	{
+		"abr": "karskinbackpack",
+		"price": 500,
+		"category": "Misc",
+		"defname": "GW_HOI_KarskinPowerBackpack"
+	},
+	{
+		"abr": "karskincarapacearmor",
+		"price": 2500,
+		"category": "Armor",
+		"defname": "GW_HOI_CadianKasrkin_FlakArmor"
+	},
+	{
+		"abr": "karskinmedicaebackpack",
+		"price": 500,
+		"category": "Misc",
+		"defname": "GW_HOI_KarskinMedicalBackpack"
+	},
+	{
+		"abr": "karskinvox-casterbackpack",
+		"price": 1100,
+		"category": "Misc",
+		"defname": "GW_HOI_KarskinVoxBackpack"
+	},
+	{
+		"abr": "kasrkinheavyarmor",
+		"price": 2500,
+		"category": "Armor",
+		"defname": "GW_HOI_CadianKasrkin_HeavyArmor"
+	},
+	{
+		"abr": "kasrkinhelmet",
+		"price": 917,
+		"category": "Headgear",
+		"defname": "GW_HOI_CadianKasrkin_Helmet"
+	},
+	{
+		"abr": "kineticdestroyer",
+		"price": 3667,
+		"category": "Ranged weapons",
+		"defname": "GW_TotE_Kinetic_Destructor"
+	},
+	{
+		"abr": "krakgrenade",
+		"price": 442,
+		"category": "Grenades",
+		"defname": "GW_GrenadeKrak"
+	},
+	{
+		"abr": "kriegcommissarcoat",
+		"price": 417,
+		"category": "Apparel",
+		"defname": "GW_HOI_DM_KriegCommissarOuter"
+	},
+	{
+		"abr": "kriegcommissaruniform",
+		"price": 333,
+		"category": "Apparel",
+		"defname": "GW_HOI_DM_CommissarUniform"
+	},
+	{
+		"abr": "kriegofficercoat",
+		"price": 500,
+		"category": "Apparel",
+		"defname": "GW_HOI_DM_KriegOfficerOuter"
+	},
+	{
+		"abr": "kriegpatternlauncher(frag)",
+		"price": 583,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_DM_GrenadeLauncher"
+	},
+	{
+		"abr": "landraider",
+		"price": 7000,
+		"category": "Animal",
+		"defname": "GW_LandRaider"
+	},
+	{
+		"abr": "largebackpack",
+		"price": 750,
+		"category": "Misc",
+		"defname": "GW_HOI_LargeBackpack"
+	},
+	{
+		"abr": "lascannonbatterypack(nonce)",
+		"price": 1,
+		"category": "Misc",
+		"defname": "GW_LascannonammoNonCE"
+	},
+	{
+		"abr": "lasgunkantraelm36pattern",
+		"price": 667,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_Gun_Kantrael"
+	},
+	{
+		"abr": "las-lock",
+		"price": 475,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_ROR_Gun_lasLock"
+	},
+	{
+		"abr": "lemanruss",
+		"price": 7000,
+		"category": "Animal",
+		"defname": "GW_HOI_LemanRuss"
+	},
+	{
+		"abr": "lensedterminatorhelmet",
+		"price": 1250,
+		"category": "Headgear",
+		"defname": "GW_SM_TerminatorHelmet_Lensed"
+	},
+	{
+		"abr": "lionel'jonsonstatue",
+		"price": 1800,
+		"category": "Art",
+		"defname": "GW40k_4x4StatuesLion"
+	},
+	{
+		"abr": "lion'sarmor",
+		"price": 10000,
+		"category": "Armor",
+		"defname": "GW_SM_LionArmor"
+	},
+	{
+		"abr": "lion'sbackpack",
+		"price": 2500,
+		"category": "Armor",
+		"defname": "GW_SM_LionArmorBackpack"
+	},
+	{
+		"abr": "lion'shelmet",
+		"price": 2667,
+		"category": "Headgear",
+		"defname": "GW_SM_LionArmorHelmet"
+	},
+	{
+		"abr": "lion'shood",
+		"price": 2667,
+		"category": "Headgear",
+		"defname": "GW_SM_LionArmorHood"
+	},
+	{
+		"abr": "lion'shoodedhelmet",
+		"price": 2667,
+		"category": "Headgear",
+		"defname": "GW_SM_LionArmorHooded"
+	},
+	{
+		"abr": "lion'sshoulders",
+		"price": 2333,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_LionArmorShoulderPads"
+	},
+	{
+		"abr": "long-lascadianpattern",
+		"price": 1083,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_Gun_Longlas"
+	},
+	{
+		"abr": "luciferblackarmor",
+		"price": 3000,
+		"category": "Armor",
+		"defname": "GW_HOI_ROR_LuciferBlack_Armor"
+	},
+	{
+		"abr": "luciferblackbolter",
+		"price": 5258,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_Gun_LuciferBolter"
+	},
+	{
+		"abr": "luciferblackhellgun",
+		"price": 2300,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_Gun_LuciferHellgun"
+	},
+	{
+		"abr": "luciferblackhellpistol",
+		"price": 992,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_Gun_LuciferPistol"
+	},
+	{
+		"abr": "luciferblackhelmet(a)",
+		"price": 2500,
+		"category": "Headgear",
+		"defname": "GW_HOI_ROR_LuciferBlackSkull"
+	},
+	{
+		"abr": "luciferblackhelmet(b)",
+		"price": 2500,
+		"category": "Headgear",
+		"defname": "GW_HOI_ROR_LuciferBlackAlt"
+	},
+	{
+		"abr": "luciferblackmask",
+		"price": 2500,
+		"category": "Headgear",
+		"defname": "GW_HOI_ROR_LuciferBlackMask"
+	},
+	{
+		"abr": "luciuslasgun",
+		"price": 750,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_DM_Gun_Lucius"
+	},
+	{
+		"abr": "luciusmk22shotgun",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_DM_Gun_LuciusShotgun"
+	},
+	{
+		"abr": "luciusxivhellgun",
+		"price": 1133,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_DM_Gun_LuciusHellgun"
+	},
+	{
+		"abr": "luciusxivlasgun",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_DM_Gun_LuciusXIV"
+	},
+	{
+		"abr": "magisteriumvexilla",
+		"price": 5000,
+		"category": "Melee weapons",
+		"defname": "GW_TotE_Vexilla"
+	},
+	{
+		"abr": "magneticreconnectionaccelerator",
+		"price": 5617,
+		"category": "Celestia ranged weapons",
+		"defname": "Celes_Spacer_Launcher"
+	},
+	{
+		"abr": "mannableautocannonturret",
+		"price": 1975,
+		"category": "Security",
+		"defname": "GW_HOI_Building_Autocannon"
+	},
+	{
+		"abr": "mannablelascannonturret",
+		"price": 2600,
+		"category": "Security",
+		"defname": "GW_HOI_Building_Lascannon"
+	},
+	{
+		"abr": "marauder",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "MarauderBomberpawn"
+	},
+	{
+		"abr": "marinecaptainstatue",
+		"price": 517,
+		"category": "Art",
+		"defname": "GW40k_2x2Statues"
+	},
+	{
+		"abr": "marinechaplainstatue",
+		"price": 742,
+		"category": "Art",
+		"defname": "GW40k_3x3Statues"
+	},
+	{
+		"abr": "marsinfernopistol",
+		"price": 5158,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_InfernoPistol"
+	},
+	{
+		"abr": "marsmkvplasmagun",
+		"price": 3000,
+		"category": "Ranged weapons",
+		"defname": "GW_AOD_PlasmaGun"
+	},
+	{
+		"abr": "maximusbackpack",
+		"price": 583,
+		"category": "Grimworld backpacks",
+		"defname": "GW_SM_MaximusBackpack"
+	},
+	{
+		"abr": "maximushelmet",
+		"price": 1000,
+		"category": "Headgear",
+		"defname": "GW_SM_MaximusHelmet_Simple"
+	},
+	{
+		"abr": "maximushelmet(laurels)",
+		"price": 1000,
+		"category": "Headgear",
+		"defname": "GW_SM_MaximusHelmet_Laurels"
+	},
+	{
+		"abr": "maximushelmet(skull)",
+		"price": 1000,
+		"category": "Headgear",
+		"defname": "GW_SM_MaximusHelmet_Skull"
+	},
+	{
+		"abr": "maximushelmet(studs)",
+		"price": 1000,
+		"category": "Headgear",
+		"defname": "GW_SM_MaximusHelmet_Studs"
+	},
+	{
+		"abr": "maximuspowerarmor",
+		"price": 2833,
+		"category": "Armor",
+		"defname": "GW_SM_MaximusArmor"
+	},
+	{
+		"abr": "maximusshoulderpads(a)",
+		"price": 667,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_MaximusShoulderPads_TypeA"
+	},
+	{
+		"abr": "maximusshoulderpads(b)",
+		"price": 667,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_MaximusShoulderPads_TypeB"
+	},
+	{
+		"abr": "maximusshoulderpads(c)",
+		"price": 667,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_MaximusShoulderPads_TypeC"
+	},
+	{
+		"abr": "medicaebackpack",
+		"price": 500,
+		"category": "Misc",
+		"defname": "GW_HOI_MedicalBackpack"
+	},
+	{
+		"abr": "medicaebed",
+		"price": 167,
+		"category": "Furniture",
+		"defname": "GW_IF_MedicaeBed"
+	},
+	{
+		"abr": "meltabomb",
+		"price": 442,
+		"category": "Grenades",
+		"defname": "GW_GrenadeMelta"
+	},
+	{
+		"abr": "meltaguncadianpattern",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_Gun_MeltaGun"
+	},
+	{
+		"abr": "militarumpowersword",
+		"price": 1500,
+		"category": "Melee weapons",
+		"defname": "GW_HOI_Melee_PowerSword"
+	},
+	{
+		"abr": "militarumshotgun",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_Shotgun"
+	},
+	{
+		"abr": "misericordia",
+		"price": 3667,
+		"category": "Melee weapons",
+		"defname": "GW_TotE_Misericordia"
+	},
+	{
+		"abr": "missilelauncherfurypattern",
+		"price": 3167,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_Gun_MissileLauncher"
+	},
+	{
+		"abr": "mk4lascarbine",
+		"price": 750,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_ROR_Gun_Lascarbinefour"
+	},
+	{
+		"abr": "mordianhat",
+		"price": 150,
+		"category": "Headgear",
+		"defname": "GW_HOI_ROR_MordianHat"
+	},
+	{
+		"abr": "mordianuniform",
+		"price": 250,
+		"category": "Apparel",
+		"defname": "GW_HOI_ROR_Mordian_Uniform"
+	},
+	{
+		"abr": "multi-melta",
+		"price": 2167,
+		"category": "Ranged weapons",
+		"defname": "GW_AOD_Multimelta"
+	},
+	{
+		"abr": "nightlordhelmet(a)",
+		"price": 1000,
+		"category": "Headgear",
+		"defname": "GW_SM_AquillaHelmet_Winged"
+	},
+	{
+		"abr": "nightlordhelmet(b)",
+		"price": 1000,
+		"category": "Headgear",
+		"defname": "GW_SM_TacticusHelmet_Winged"
+	},
+	{
+		"abr": "nightlordhelmet(c)",
+		"price": 833,
+		"category": "Headgear",
+		"defname": "GW_SM_GravisHelmet_Winged"
+	},
+	{
+		"abr": "nightlordshoulderpads(a)",
+		"price": 667,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_TacticusShoulderPads_NightLord"
+	},
+	{
+		"abr": "nightlordshoulderpads(b)",
+		"price": 750,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_GravisShoulderPads_NightLord"
+	},
+	{
+		"abr": "nobledoublebed",
+		"price": 1417,
+		"category": "Furniture",
+		"defname": "GW_IF_RoyalDouble"
+	},
+	{
+		"abr": "noblesinglebed",
+		"price": 1283,
+		"category": "Furniture",
+		"defname": "GW_IF_RoyalSingle"
+	},
+	{
+		"abr": "ns-90nervousstimulants",
+		"price": 60,
+		"category": "Drugs",
+		"defname": "Celes_NS90M"
+	},
+	{
+		"abr": "officergorget",
+		"price": 36,
+		"category": "Utility",
+		"defname": "GW_HOI_Cadian_OfficerGorget"
+	},
+	{
+		"abr": "officerstatue",
+		"price": 275,
+		"category": "Art",
+		"defname": "GW40k_1x1StatuesOfficer"
+	},
+	{
+		"abr": "ogrynpowermaul",
+		"price": 2442,
+		"category": "Melee weapons",
+		"defname": "GW_HOI_Melee_PowerMaul"
+	},
+	{
+		"abr": "ogrynshield",
+		"price": 417,
+		"category": "Grimworld shields",
+		"defname": "GM_HotE_ShieldOgryn"
+	},
+	{
+		"abr": "omnissiahaxe",
+		"price": 733,
+		"category": "Melee weapons",
+		"defname": "GW_HOI_Melee_OmniAxe"
+	},
+	{
+		"abr": "oriongunship",
+		"price": 13333,
+		"category": "Animal",
+		"defname": "OrionGunshippawn"
+	},
+	{
+		"abr": "orlockautogun",
+		"price": 633,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_Gun_OrlockAutogun"
+	},
+	{
+		"abr": "overlordgunship",
+		"price": 2558,
+		"category": "Animal",
+		"defname": "OverlordGunshippawn"
+	},
+	{
+		"abr": "phobosbackpack",
+		"price": 467,
+		"category": "Grimworld backpacks",
+		"defname": "GW_SM_PhobosBackpack"
+	},
+	{
+		"abr": "phoboshelmet",
+		"price": 667,
+		"category": "Headgear",
+		"defname": "GW_SM_PhobosHelmet_Simple"
+	},
+	{
+		"abr": "phoboshelmet(reinforced)",
+		"price": 667,
+		"category": "Headgear",
+		"defname": "GW_SM_PhobosHelmet_Reinforced"
+	},
+	{
+		"abr": "phoboshelmet(skull)",
+		"price": 667,
+		"category": "Headgear",
+		"defname": "GW_SM_PhobosHelmet_Skull"
+	},
+	{
+		"abr": "phobospowerarmor",
+		"price": 2167,
+		"category": "Armor",
+		"defname": "GW_SM_PhobosArmor"
+	},
+	{
+		"abr": "phobosshoulderpads(a)",
+		"price": 500,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_PhobosShoulderPads_TypeA"
+	},
+	{
+		"abr": "phobosshoulderpads(b)",
+		"price": 500,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_PhobosShoulderPads_TypeB"
+	},
+	{
+		"abr": "phobosshoulderpads(c)",
+		"price": 500,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_PhobosShoulderPads_TypeC"
+	},
+	{
+		"abr": "pioneerkey",
+		"price": 1333,
+		"category": "Manufactured",
+		"defname": "CelesKeyCard"
+	},
+	{
+		"abr": "plascrete",
+		"price": 3,
+		"category": "Manufactured",
+		"defname": "GW_Plascrete"
+	},
+	{
+		"abr": "plasmacharge",
+		"price": 164,
+		"category": "Security",
+		"defname": "Trap_plasmaMine"
+	},
+	{
+		"abr": "plasmagunm35magnacorepattern",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_Gun_PlasmaGun"
+	},
+	{
+		"abr": "plasmaincinerator",
+		"price": 5717,
+		"category": "Ranged weapons",
+		"defname": "GW_AOD_Plasma_Incinerator"
+	},
+	{
+		"abr": "plasmapistolmagnacorepattern",
+		"price": 1333,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_PlasmaPistol"
+	},
+	{
+		"abr": "plasmacannoncartridges(nonce)",
+		"price": 1,
+		"category": "Misc",
+		"defname": "GW_HeavyPlasmaNonCE"
+	},
+	{
+		"abr": "powerfistmilitariummkiib",
+		"price": 1667,
+		"category": "Melee weapons",
+		"defname": "GW_HOI_Melee_PowerFist"
+	},
+	{
+		"abr": "powerglaive",
+		"price": 383,
+		"category": "Melee weapons",
+		"defname": "GW_HOI_ROR_Melee_PowerGlaive"
+	},
+	{
+		"abr": "powersabre",
+		"price": 400,
+		"category": "Melee weapons",
+		"defname": "GW_HOI_ROR_Melee_PowerSaber"
+	},
+	{
+		"abr": "praesidiumshield",
+		"price": 1500,
+		"category": "Grimworld shields",
+		"defname": "GM_TotE_ShieldPraesidium"
+	},
+	{
+		"abr": "priesthat",
+		"price": 221,
+		"category": "Headgear",
+		"defname": "GW_HOI_PriestHat"
+	},
+	{
+		"abr": "priesthood",
+		"price": 150,
+		"category": "Headgear",
+		"defname": "GW_HOI_PriestHood"
+	},
+	{
+		"abr": "priesthood(down)",
+		"price": 150,
+		"category": "Headgear",
+		"defname": "GW_HOI_PriestHoodDown"
+	},
+	{
+		"abr": "priestrobe",
+		"price": 250,
+		"category": "Armor",
+		"defname": "GW_AM_PriestGear"
+	},
+	{
+		"abr": "prieststatue",
+		"price": 275,
+		"category": "Art",
+		"defname": "GW40k_1x1StatuesHoodGuy"
+	},
+	{
+		"abr": "primarisshield",
+		"price": 1083,
+		"category": "Grimworld shields",
+		"defname": "GW_SM_PrimarisShield"
+	},
+	{
+		"abr": "prisonerbed",
+		"price": 155,
+		"category": "Furniture",
+		"defname": "GW_IF_PrisonerSingle"
+	},
+	{
+		"abr": "propagatecan",
+		"price": 2500,
+		"category": "Production",
+		"defname": "Celes_PropagateTerminal"
+	},
+	{
+		"abr": "propagateradiator",
+		"price": 642,
+		"category": "Production",
+		"defname": "Celes_PropagateRadiator"
+	},
+	{
+		"abr": "pyreblaster",
+		"price": 1500,
+		"category": "Ranged weapons",
+		"defname": "GW_SM_Gun_Flamer"
+	},
+	{
+		"abr": "pyrithitespear",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "GW_TotE_MeltaSpear"
+	},
+	{
+		"abr": "pyrithitespear(ranged)",
+		"price": 10975,
+		"category": "Ranged weapons",
+		"defname": "GW_TotE_MeltaSpearR"
+	},
+	{
+		"abr": "radioactivehigh-energyplasmaemitter",
+		"price": 5617,
+		"category": "Celestia ranged weapons",
+		"defname": "Celes_Spacer_HMG"
+	},
+	{
+		"abr": "reaperautocannon",
+		"price": 3333,
+		"category": "Ranged weapons",
+		"defname": "GW_AOD_Gun_ReaperCannon"
+	},
+	{
+		"abr": "reiverbackpack",
+		"price": 467,
+		"category": "Grimworld backpacks",
+		"defname": "GW_SM_ReiverBackpack"
+	},
+	{
+		"abr": "reiverhelmet",
+		"price": 667,
+		"category": "Headgear",
+		"defname": "GW_SM_ReiverHelmet_Simple"
+	},
+	{
+		"abr": "reiverhelmet(skull)",
+		"price": 667,
+		"category": "Headgear",
+		"defname": "GW_SM_ReiverHelmet_Skull"
+	},
+	{
+		"abr": "reiverhelmet(studs)",
+		"price": 667,
+		"category": "Headgear",
+		"defname": "GW_SM_ReiverHelmet_Studs"
+	},
+	{
+		"abr": "reiverpowerarmor",
+		"price": 2167,
+		"category": "Armor",
+		"defname": "GW_SM_ReiverArmor"
+	},
+	{
+		"abr": "reivershoulderpads(a)",
+		"price": 500,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_ReiverShoulderPads_TypeA"
+	},
+	{
+		"abr": "reivershoulderpads(b)",
+		"price": 500,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_ReiverShoulderPads_TypeB"
+	},
+	{
+		"abr": "reivershoulderpads(c)",
+		"price": 500,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_ReiverShoulderPads_TypeC"
+	},
+	{
+		"abr": "reivershoulderpads(d)",
+		"price": 500,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_ReiverShoulderPads_TypeD"
+	},
+	{
+		"abr": "relicchainsword",
+		"price": 1000,
+		"category": "Melee weapons",
+		"defname": "GW_AOD_Relic_Chainsword"
+	},
+	{
+		"abr": "reliccomponent",
+		"price": 5833,
+		"category": "Manufactured",
+		"defname": "GW_ComponentRelic"
+	},
+	{
+		"abr": "relicmedkit",
+		"price": 200,
+		"category": "Medicine",
+		"defname": "RelicMedkit"
+	},
+	{
+		"abr": "repairtable",
+		"price": 758,
+		"category": "Production",
+		"defname": "GW_RepairBench"
+	},
+	{
+		"abr": "rhinochassis",
+		"price": 3667,
+		"category": "Animal",
+		"defname": "GW_AOD_PredatorRhino"
+	},
+	{
+		"abr": "rippergun",
+		"price": 750,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_Gun_Rippergun"
+	},
+	{
+		"abr": "robouteguillimanstatue",
+		"price": 1800,
+		"category": "Art",
+		"defname": "GW40k_4x4StatuesGuil"
+	},
+	{
+		"abr": "rockcrete",
+		"price": 2,
+		"category": "Manufactured",
+		"defname": "GW_Rockcrete"
+	},
+	{
+		"abr": "royalimperialrug(3x6)",
+		"price": 1200,
+		"category": "Furniture",
+		"defname": "GW_IF_3x6RoyalRug"
+	},
+	{
+		"abr": "royalimperialrug(4x4)",
+		"price": 1050,
+		"category": "Furniture",
+		"defname": "GW_IF_4x4RoyalRug"
+	},
+	{
+		"abr": "royalimperialrug(4x6)",
+		"price": 1575,
+		"category": "Furniture",
+		"defname": "GW_IF_4x6RoyalRug"
+	},
+	{
+		"abr": "royalimperialrug(8x8)",
+		"price": 4192,
+		"category": "Furniture",
+		"defname": "GW_IF_8x8RoyalRug"
+	},
+	{
+		"abr": "rs-1experimentalstimulants",
+		"price": 200,
+		"category": "Drugs",
+		"defname": "Celes_RS1M"
+	},
+	{
+		"abr": "sagittarumhelmet",
+		"price": 2500,
+		"category": "Headgear",
+		"defname": "GW_TotE_SagittarumHelmet"
+	},
+	{
+		"abr": "salamanderhelmet",
+		"price": 1000,
+		"category": "Headgear",
+		"defname": "GW_SM_SalamanderHelmet"
+	},
+	{
+		"abr": "salamandershield",
+		"price": 392,
+		"category": "Grimworld shields",
+		"defname": "GW_SM_SalamanderShield"
+	},
+	{
+		"abr": "salamandershoulderpads(a)",
+		"price": 667,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_TacticusShoulderPads_Salamander"
+	},
+	{
+		"abr": "sanctifiedkantraelmg",
+		"price": 2000,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_Gun_Kantraelsanctified"
+	},
+	{
+		"abr": "sanctifiedmk4lascarbine",
+		"price": 2000,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_ROR_Gun_Lascarbinefoursanctified"
+	},
+	{
+		"abr": "sanctifiedvossmki",
+		"price": 2000,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_Gun_VossPatternsanctified"
+	},
+	{
+		"abr": "sanctionedpsykerhelmet",
+		"price": 750,
+		"category": "Headgear",
+		"defname": "GW_HOI_CadianPsyker_Helmet"
+	},
+	{
+		"abr": "s-captainshield",
+		"price": 1583,
+		"category": "Grimworld shields",
+		"defname": "GM_TotE_ShieldSCaptain"
+	},
+	{
+		"abr": "scionomnimask",
+		"price": 500,
+		"category": "Headgear",
+		"defname": "GW_HOI_ROR_TempestusScion_Mask"
+	},
+	{
+		"abr": "scoutarmor",
+		"price": 1500,
+		"category": "Armor",
+		"defname": "GW_SM_Scout"
+	},
+	{
+		"abr": "scoutcape",
+		"price": 367,
+		"category": "Armor",
+		"defname": "GW_SM_ScoutCape"
+	},
+	{
+		"abr": "scouthelmet(a)",
+		"price": 250,
+		"category": "Headgear",
+		"defname": "GW_SM_ScoutHelmet_A"
+	},
+	{
+		"abr": "scouthelmet(b)",
+		"price": 250,
+		"category": "Headgear",
+		"defname": "GW_SM_ScoutHelmet_B"
+	},
+	{
+		"abr": "scouthelmet(c)",
+		"price": 250,
+		"category": "Headgear",
+		"defname": "GW_SM_ScoutHelmet_C"
+	},
+	{
+		"abr": "scouthelmet(d)",
+		"price": 250,
+		"category": "Headgear",
+		"defname": "GW_SM_ScoutHelmet_D"
+	},
+	{
+		"abr": "scouthelmet(e)",
+		"price": 250,
+		"category": "Headgear",
+		"defname": "GW_SM_ScoutHelmet_E"
+	},
+	{
+		"abr": "scouthood(a)",
+		"price": 200,
+		"category": "Headgear",
+		"defname": "GW_SM_ScoutHood_A"
+	},
+	{
+		"abr": "scouthood(b)",
+		"price": 200,
+		"category": "Headgear",
+		"defname": "GW_SM_ScoutHood_B"
+	},
+	{
+		"abr": "scouthood(c)",
+		"price": 200,
+		"category": "Headgear",
+		"defname": "GW_SM_ScoutHood_C"
+	},
+	{
+		"abr": "scouthood(d)",
+		"price": 200,
+		"category": "Headgear",
+		"defname": "GW_SM_ScoutHood_D"
+	},
+	{
+		"abr": "scoutshoulderpads(a)",
+		"price": 300,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_ScoutShoulderPads_TypeA"
+	},
+	{
+		"abr": "scoutshoulderpads(b)",
+		"price": 300,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_ScoutShoulderPads_TypeB"
+	},
+	{
+		"abr": "scoutshoulderpads(c)",
+		"price": 300,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_ScoutShoulderPads_TypeC"
+	},
+	{
+		"abr": "self-explanatorytechnologycore(dust-mechtechnicalinterpretation)",
+		"price": 833,
+		"category": "Manufactured",
+		"defname": "Celes_STC_MainTech_III"
+	},
+	{
+		"abr": "self-replicatingcrystals",
+		"price": 20,
+		"category": "Celestia nano product",
+		"defname": "CelesNanoMachine"
+	},
+	{
+		"abr": "sentinelblade",
+		"price": 15083,
+		"category": "Melee weapons",
+		"defname": "GW_TotE_Sentinel_Blade"
+	},
+	{
+		"abr": "shieldcaptainhelmet",
+		"price": 40708,
+		"category": "Headgear",
+		"defname": "GW_TotE_ShieldCaptianHelmet"
+	},
+	{
+		"abr": "shieldcaptainshoulderpads",
+		"price": 55900,
+		"category": "Shoulder pads",
+		"defname": "GW_TotE_ShieldCaptainShoulder"
+	},
+	{
+		"abr": "sisterofbattlestatue",
+		"price": 275,
+		"category": "Art",
+		"defname": "GW40k_Statues_1x1Sister"
+	},
+	{
+		"abr": "sisterofsilencearmor",
+		"price": 8000,
+		"category": "Armor",
+		"defname": "GW_TotE_SisterOfSilence"
+	},
+	{
+		"abr": "sisterofsilencehelmet(a)",
+		"price": 2500,
+		"category": "Headgear",
+		"defname": "GW_TotE_SoSHelmetA"
+	},
+	{
+		"abr": "sisterofsilencehelmet(b)",
+		"price": 2500,
+		"category": "Headgear",
+		"defname": "GW_TotE_SoSHelmetB"
+	},
+	{
+		"abr": "sisterofsilenceshoulderpads",
+		"price": 1667,
+		"category": "Shoulder pads",
+		"defname": "GW_TotE_SoSShoulder"
+	},
+	{
+		"abr": "smallbackpack",
+		"price": 417,
+		"category": "Misc",
+		"defname": "GW_HOI_SmallBackpack"
+	},
+	{
+		"abr": "stcfragment",
+		"price": 10000,
+		"category": "Manufactured",
+		"defname": "GW_STC_Fragment"
+	},
+	{
+		"abr": "steellegiongasmask",
+		"price": 211,
+		"category": "Headgear",
+		"defname": "GW_AM_SL_GasMask"
+	},
+	{
+		"abr": "steellegionuniform",
+		"price": 333,
+		"category": "Apparel",
+		"defname": "GW_HOI_ROR_SteelLeg_Uniform"
+	},
+	{
+		"abr": "stormshield(a)",
+		"price": 1083,
+		"category": "Grimworld shields",
+		"defname": "GW_SM_StormShieldA"
+	},
+	{
+		"abr": "stormshield(b)",
+		"price": 1083,
+		"category": "Grimworld shields",
+		"defname": "GW_SM_StormShieldB"
+	},
+	{
+		"abr": "stormshield(c)",
+		"price": 1083,
+		"category": "Grimworld shields",
+		"defname": "GW_SM_StormShieldC"
+	},
+	{
+		"abr": "stormshield(d)",
+		"price": 1083,
+		"category": "Grimworld shields",
+		"defname": "GW_SM_StormShieldD"
+	},
+	{
+		"abr": "stormhammer",
+		"price": 23667,
+		"category": "Animal",
+		"defname": "GW_Stormhammer"
+	},
+	{
+		"abr": "stormhawk",
+		"price": 13333,
+		"category": "Animal",
+		"defname": "stormHawkpawn"
+	},
+	{
+		"abr": "stormlordthunderhammer",
+		"price": 1000,
+		"category": "Melee weapons",
+		"defname": "GW_AOD_ThunderHammer"
+	},
+	{
+		"abr": "stormtalon",
+		"price": 13333,
+		"category": "Animal",
+		"defname": "Stormtalonpawn"
+	},
+	{
+		"abr": "supportermonumentcenter",
+		"price": 18,
+		"category": "Furniture",
+		"defname": "GW_FancyObelisk"
+	},
+	{
+		"abr": "supporter'smonument",
+		"price": 18,
+		"category": "Furniture",
+		"defname": "GW_OrdinaryObelisk"
+	},
+	{
+		"abr": "table(1x1)",
+		"price": 98,
+		"category": "Furniture",
+		"defname": "GW_IF_1x1c"
+	},
+	{
+		"abr": "table(2x1)",
+		"price": 98,
+		"category": "Furniture",
+		"defname": "GW_IF_2x1c"
+	},
+	{
+		"abr": "table(2x2)",
+		"price": 176,
+		"category": "Furniture",
+		"defname": "GW_IF_2x2c"
+	},
+	{
+		"abr": "table(2x4)",
+		"price": 176,
+		"category": "Furniture",
+		"defname": "GW_IF_2x4c"
+	},
+	{
+		"abr": "table(3x3)",
+		"price": 176,
+		"category": "Furniture",
+		"defname": "GW_IF_3x3c"
+	},
+	{
+		"abr": "tacticusbackpack",
+		"price": 583,
+		"category": "Grimworld backpacks",
+		"defname": "GW_SM_TacticusBackpack"
+	},
+	{
+		"abr": "tacticushelmet",
+		"price": 1000,
+		"category": "Headgear",
+		"defname": "GW_SM_TacticusHelmet_Simple"
+	},
+	{
+		"abr": "tacticushelmet(laurels)",
+		"price": 1000,
+		"category": "Headgear",
+		"defname": "GW_SM_TacticusHelmet_Laurels"
+	},
+	{
+		"abr": "tacticushelmet(skull)",
+		"price": 1000,
+		"category": "Headgear",
+		"defname": "GW_SM_TacticusHelmet_Skull"
+	},
+	{
+		"abr": "tacticuspowerarmor",
+		"price": 2833,
+		"category": "Armor",
+		"defname": "GW_SM_TacticusArmor"
+	},
+	{
+		"abr": "tacticusshoulderpads(a)",
+		"price": 667,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_TacticusShoulderPads_TypeA"
+	},
+	{
+		"abr": "tacticusshoulderpads(b)",
+		"price": 667,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_TacticusShoulderPads_TypeB"
+	},
+	{
+		"abr": "tacticusshoulderpads(c)",
+		"price": 667,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_TacticusShoulderPads_TypeC"
+	},
+	{
+		"abr": "tacticusshoulderpads(d)",
+		"price": 667,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_TacticusShoulderPads_TypeD"
+	},
+	{
+		"abr": "tallarndesertgear",
+		"price": 1500,
+		"category": "Armor",
+		"defname": "GW_HOI_ROR_TDR_DesertGear"
+	},
+	{
+		"abr": "tallarndesertgoggles",
+		"price": 38,
+		"category": "Headgear",
+		"defname": "GW_AM_TDR_Goggles"
+	},
+	{
+		"abr": "tallarngoggledheadwrap",
+		"price": 145,
+		"category": "Headgear",
+		"defname": "GW_AM_TDR_GogglesHeadwrap"
+	},
+	{
+		"abr": "tallarnheadwrap",
+		"price": 111,
+		"category": "Headgear",
+		"defname": "GW_AM_TDR_Headwrap"
+	},
+	{
+		"abr": "tallarnofficerheadwrap",
+		"price": 145,
+		"category": "Headgear",
+		"defname": "GW_AM_TDR_OfficerHeadwrap"
+	},
+	{
+		"abr": "tanithcloak",
+		"price": 160,
+		"category": "Apparel",
+		"defname": "GW_HOI_ROR_Tanith1stCloak"
+	},
+	{
+		"abr": "tanithghilliesuit",
+		"price": 183,
+		"category": "Apparel",
+		"defname": "GW_HOI_ROR_Tanith1stGhili"
+	},
+	{
+		"abr": "tanithhood",
+		"price": 125,
+		"category": "Headgear",
+		"defname": "GW_HOI_ROR_Tanith1stHood"
+	},
+	{
+		"abr": "tanithmonocular",
+		"price": 158,
+		"category": "Headgear",
+		"defname": "GW_HOI_ROR_Tanith1stGoggle"
+	},
+	{
+		"abr": "tanithuniform",
+		"price": 250,
+		"category": "Apparel",
+		"defname": "GW_AM_Tanith1stArmor"
+	},
+	{
+		"abr": "tankeragripinaamkii",
+		"price": 617,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_Gun_Agripinaamkiitanker"
+	},
+	{
+		"abr": "tarantulabolterturret",
+		"price": 2150,
+		"category": "Security",
+		"defname": "GW_HOI_Building_TarantulaHeavyBolter"
+	},
+	{
+		"abr": "tarantulalascannonturret",
+		"price": 2508,
+		"category": "Security",
+		"defname": "GW_HOI_Building_TarantulaLascannon"
+	},
+	{
+		"abr": "taurox",
+		"price": 3733,
+		"category": "Animal",
+		"defname": "GW_Taurox"
+	},
+	{
+		"abr": "tempestusscionberet",
+		"price": 250,
+		"category": "Headgear",
+		"defname": "GW_HOI_ROR_TempestusScion_Beret"
+	},
+	{
+		"abr": "tempestusscioncarapace",
+		"price": 2833,
+		"category": "Armor",
+		"defname": "GW_HOI_TempestusScion_CarapaceArmor"
+	},
+	{
+		"abr": "tempestusscionfatigues",
+		"price": 333,
+		"category": "Apparel",
+		"defname": "ODZ_40k_IM_TempestusScion_Fatigues"
+	},
+	{
+		"abr": "tempestusscionhelmet",
+		"price": 2667,
+		"category": "Headgear",
+		"defname": "GW_HOI_ROR_TempestusScion_Helmet"
+	},
+	{
+		"abr": "terminatorhelmet",
+		"price": 1250,
+		"category": "Headgear",
+		"defname": "GW_SM_TerminatorHelmet_Simple"
+	},
+	{
+		"abr": "terminatorplasmacannon",
+		"price": 6867,
+		"category": "Ranged weapons",
+		"defname": "GW_AOD_Gun_PlasmaCannon"
+	},
+	{
+		"abr": "terminatorpowerarmor",
+		"price": 4500,
+		"category": "Armor",
+		"defname": "GW_SM_IndomitusTerminatorArmor"
+	},
+	{
+		"abr": "terminatorpowerfist",
+		"price": 1833,
+		"category": "Melee weapons",
+		"defname": "GW_AOD_TermPowerFist"
+	},
+	{
+		"abr": "terminatorpowersword",
+		"price": 167,
+		"category": "Melee weapons",
+		"defname": "GW_AOD_TermSword"
+	},
+	{
+		"abr": "terminatorshoulderpads(a)",
+		"price": 917,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_TerminatorShoulderPads_TypeA"
+	},
+	{
+		"abr": "terminatorshoulderpads(b)",
+		"price": 917,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_TerminatorShoulderPads_TypeB"
+	},
+	{
+		"abr": "terminatorshoulderpads(c)",
+		"price": 917,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_TerminatorShoulderPads_TypeC"
+	},
+	{
+		"abr": "terminatorthunderhammer",
+		"price": 1000,
+		"category": "Melee weapons",
+		"defname": "GW_AOD_Term_Thunder1hHammer"
+	},
+	{
+		"abr": "thedust-mechmanifold",
+		"price": 20,
+		"category": "Celestia nano product",
+		"defname": "CelesNanoManifold"
+	},
+	{
+		"abr": "trenchshovel",
+		"price": 267,
+		"category": "Melee weapons",
+		"defname": "GW_HOI_DM_MeleeWeapon_TrenchShovel"
+	},
+	{
+		"abr": "ultrapatternsniperrifle",
+		"price": 2000,
+		"category": "Ranged weapons",
+		"defname": "GW_AOD_SniperRifle"
+	},
+	{
+		"abr": "ultramarineshoulderpads(a)",
+		"price": 667,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_UltramarineShoulderPadsModelA"
+	},
+	{
+		"abr": "ultramarineshoulderpads(b)",
+		"price": 667,
+		"category": "Shoulder pads",
+		"defname": "GW_SM_UltramarineShoulderPadsModelB"
+	},
+	{
+		"abr": "ultramarineshelmet(a)",
+		"price": 1000,
+		"category": "Headgear",
+		"defname": "GW_CM_UMHelmet_A"
+	},
+	{
+		"abr": "ultramarineshelmet(b)",
+		"price": 1000,
+		"category": "Headgear",
+		"defname": "GW_CM_UMngelHelmet_B"
+	},
+	{
+		"abr": "ultramarineshelmet(c)",
+		"price": 1000,
+		"category": "Headgear",
+		"defname": "GW_CM_UMngelHelmet_C"
+	},
+	{
+		"abr": "ultramarineshelmet(d)",
+		"price": 1000,
+		"category": "Headgear",
+		"defname": "GW_CM_UMngelHelmet_D"
+	},
+	{
+		"abr": "ultramarineshelmet(e)",
+		"price": 1000,
+		"category": "Headgear",
+		"defname": "GW_CM_UMngelHelmet_E"
+	},
+	{
+		"abr": "umbrastormbolter",
+		"price": 3000,
+		"category": "Ranged weapons",
+		"defname": "GW_AOD_Gun_StormBolter"
+	},
+	{
+		"abr": "unresolvedself-explanatorytechnologycore",
+		"price": 833,
+		"category": "Manufactured",
+		"defname": "Celes_STCLock"
+	},
+	{
+		"abr": "valhallanflakarmor",
+		"price": 1667,
+		"category": "Armor",
+		"defname": "GW_HOI_ROR_Valhallan_Armor"
+	},
+	{
+		"abr": "valhallangarrisoncap",
+		"price": 158,
+		"category": "Headgear",
+		"defname": "GW_AM_Valhallan_GarrisonCap"
 	}
 	],
-	"total": 1507
+	"total": 2223
 }
