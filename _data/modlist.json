@@ -3,7 +3,7 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "2.4.0.0"
+    "version": "2.4.1.0"
   },
   {
     "author": "nry",
@@ -21,7 +21,7 @@
     "author": "RedMattis",
     "name": "Big and Small - Framework",
     "steamId": "2925432336",
-    "version": "1.0.0+50161124d313b084054bb1d4d3d811b9795318f0"
+    "version": "1.0.0+a66f5a6349bdde10576ba3e474364af9c167eb23"
   },
   {
     "author": "UnlimitedHugs",
@@ -117,7 +117,7 @@
     "author": "AobaKuma",
     "name": "Exosuit Framework",
     "steamId": "3352894993",
-    "version": "1.0.0+5ded985526f519058a1b91d28e06fea543bb3004"
+    "version": "1.0.0+144c4c2d2064cab63704c7a69920a558756d89af"
   },
   {
     "author": "Barbariank",
@@ -333,13 +333,13 @@
     "author": "MemeGoddess",
     "name": "Search and Destroy (Continued)",
     "steamId": "3232242247",
-    "version": "1.0.0+be1ff242ffd9b61a532cfb790d8ff9714a471ea3"
+    "version": "1.0.0+24e588176646ead840143da894cfa4f803e5d0bf"
   },
   {
     "author": "NetzachSloth and Toby",
     "name": "Better autocasting for Vanilla Psycasts Expanded",
     "steamId": "3199585285",
-    "version": "6.1.0.1+93a280da45126e46e80f4da80c6694a90e41bb39"
+    "version": "6.1.1.0+b5880a8b6baf7097ab72cfe43d170c2bf6a02b36"
   },
   {
     "author": "Slime-Senpai",
@@ -404,6 +404,78 @@
   {
     "author": "Clashgore, Abomination, ThatHitmann, Tittymcswaggy, Samael and Con",
     "name": "Grimworld 40,000 - Scattered Sons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Core",
+    "steamId": "3092884094",
+    "version": "1.6.0.25926"
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM - WH40k Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM Warhammer 40k Adepta Sororitas Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM Warhammer 40k Adeptus Astartes Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM Warhammer 40k Aeldari Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM Warhammer 40k Armors of the Imperium",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM Warhammer 40k Chaos Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM Warhammer 40k Chaos Cult",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM Warhammer 40k Necron Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM Warhammer 40k Orks Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "emitbreaker",
+    "name": "MIM Warhammer 40k Genestealer Cult Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dracora",
+    "name": "(RD)BasicThings",
     "steamId": null,
     "version": null
   }

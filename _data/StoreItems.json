@@ -9980,7 +9980,7 @@
 	},
 	{
 		"abr": "abyssiarace",
-		"price": 3750,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Celes_Abyssia_Race"
 	},
@@ -10369,22 +10369,10 @@
 		"defname": "GW_HOI_Cadian_CrewArmor"
 	},
 	{
-		"abr": "cadiancrewcap",
-		"price": 200,
-		"category": "Headgear",
-		"defname": "GW_HOI_Cadian_Crewcap"
-	},
-	{
 		"abr": "cadiancrewhelmet",
 		"price": 667,
 		"category": "Headgear",
 		"defname": "GW_HOI_Cadian_CrewHelmet"
-	},
-	{
-		"abr": "cadiancrushercap",
-		"price": 250,
-		"category": "Headgear",
-		"defname": "GW_HOI_Cadian_CrusherCap"
 	},
 	{
 		"abr": "cadianfatigues",
@@ -10611,13 +10599,13 @@
 	{
 		"abr": "celestiahigh-techcomponent",
 		"price": 500,
-		"category": "Manufactured",
+		"category": "Celestia manufactured",
 		"defname": "Celes_SpaceWeapenComponent"
 	},
 	{
 		"abr": "celestiaindustrialchips",
 		"price": 250,
-		"category": "Manufactured",
+		"category": "Celestia manufactured",
 		"defname": "Celes_IndustrialChips"
 	},
 	{
@@ -10730,7 +10718,7 @@
 	},
 	{
 		"abr": "celestiarace",
-		"price": 3750,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Celes_Race"
 	},
@@ -10897,12 +10885,6 @@
 		"defname": "GW_HOI_CommissarCap"
 	},
 	{
-		"abr": "commissargorget",
-		"price": 42,
-		"category": "Misc",
-		"defname": "GW_HOI_CommissarAttachment"
-	},
-	{
 		"abr": "commondoublebed",
 		"price": 292,
 		"category": "Furniture",
@@ -10983,7 +10965,7 @@
 	{
 		"abr": "cps-1combatpsychicstimulants",
 		"price": 267,
-		"category": "Drugs",
+		"category": "Celestia drugs",
 		"defname": "Celes_CPS1M"
 	},
 	{
@@ -11001,13 +10983,13 @@
 	{
 		"abr": "cs-12combathemostat",
 		"price": 67,
-		"category": "Drugs",
+		"category": "Celestia drugs",
 		"defname": "Celes_CS12M"
 	},
 	{
 		"abr": "cs-6combatstimulants",
 		"price": 100,
-		"category": "Drugs",
+		"category": "Celestia drugs",
 		"defname": "Celes_CS6M"
 	},
 	{
@@ -11481,7 +11463,7 @@
 	{
 		"abr": "ias-2immunoagoniststimulants",
 		"price": 50,
-		"category": "Drugs",
+		"category": "Celestia drugs",
 		"defname": "Celes_IAS2M"
 	},
 	{
@@ -12111,7 +12093,7 @@
 	{
 		"abr": "ns-90nervousstimulants",
 		"price": 60,
-		"category": "Drugs",
+		"category": "Celestia drugs",
 		"defname": "Celes_NS90M"
 	},
 	{
@@ -12125,18 +12107,6 @@
 		"price": 275,
 		"category": "Art",
 		"defname": "GW40k_1x1StatuesOfficer"
-	},
-	{
-		"abr": "ogrynpowermaul",
-		"price": 2442,
-		"category": "Melee weapons",
-		"defname": "GW_HOI_Melee_PowerMaul"
-	},
-	{
-		"abr": "ogrynshield",
-		"price": 417,
-		"category": "Grimworld shields",
-		"defname": "GM_HotE_ShieldOgryn"
 	},
 	{
 		"abr": "omnissiahaxe",
@@ -12445,12 +12415,6 @@
 		"defname": "GW_AOD_PredatorRhino"
 	},
 	{
-		"abr": "rippergun",
-		"price": 750,
-		"category": "Ranged weapons",
-		"defname": "GW_HOI_Gun_Rippergun"
-	},
-	{
 		"abr": "robouteguillimanstatue",
 		"price": 1800,
 		"category": "Art",
@@ -12489,7 +12453,7 @@
 	{
 		"abr": "rs-1experimentalstimulants",
 		"price": 200,
-		"category": "Drugs",
+		"category": "Celestia drugs",
 		"defname": "Celes_RS1M"
 	},
 	{
@@ -12515,12 +12479,6 @@
 		"price": 667,
 		"category": "Shoulder pads",
 		"defname": "GW_SM_TacticusShoulderPads_Salamander"
-	},
-	{
-		"abr": "sanctifiedkantraelmg",
-		"price": 2000,
-		"category": "Ranged weapons",
-		"defname": "GW_HOI_Gun_Kantraelsanctified"
 	},
 	{
 		"abr": "sanctifiedmk4lascarbine",
@@ -13109,7 +13067,3697 @@
 		"price": 158,
 		"category": "Headgear",
 		"defname": "GW_AM_Valhallan_GarrisonCap"
-	}
+	},
+	{
+		"abr": "valhallangreatcoat",
+		"price": 267,
+		"category": "Apparel",
+		"defname": "GW_HOI_ROR_Valhallan_GreatCoat"
+	},
+	{
+		"abr": "valhallanofficercap",
+		"price": 200,
+		"category": "Headgear",
+		"defname": "GW_AM_Valhallan_OfficerCap"
+	},
+	{
+		"abr": "valhallanofficergreatcoat",
+		"price": 333,
+		"category": "Apparel",
+		"defname": "GW_HOI_ROR_Valhallan_OfficerGreatCoat"
+	},
+	{
+		"abr": "valhallanofficerushanka",
+		"price": 183,
+		"category": "Headgear",
+		"defname": "GW_AM_Valhallan_OfficerUshanka"
+	},
+	{
+		"abr": "valhallanushanka",
+		"price": 150,
+		"category": "Headgear",
+		"defname": "GW_AM_Valhallan_Ushanka"
+	},
+	{
+		"abr": "valkyrie",
+		"price": 2558,
+		"category": "Animal",
+		"defname": "Valkyriepawn"
+	},
+	{
+		"abr": "vanatarijumppack",
+		"price": 14225,
+		"category": "Armor",
+		"defname": "GW_TotE_VenatariBackpack"
+	},
+	{
+		"abr": "vaultsword",
+		"price": 5000,
+		"category": "Melee weapons",
+		"defname": "GW_TotE_Vaultsword"
+	},
+	{
+		"abr": "vehiclecannon",
+		"price": 667,
+		"category": "Vehicle parts",
+		"defname": "GW_VehicleCannon"
+	},
+	{
+		"abr": "vehicleengine",
+		"price": 833,
+		"category": "Vehicle parts",
+		"defname": "GW_VehicleEngine"
+	},
+	{
+		"abr": "vehicleexhaust",
+		"price": 167,
+		"category": "Vehicle parts",
+		"defname": "GW_VehicleExhaust"
+	},
+	{
+		"abr": "vehiclesideturret",
+		"price": 500,
+		"category": "Vehicle parts",
+		"defname": "GW_VehicleSideTurret"
+	},
+	{
+		"abr": "vehiclesuspension",
+		"price": 183,
+		"category": "Vehicle parts",
+		"defname": "GW_VehicleSuspension"
+	},
+	{
+		"abr": "vehicletracks",
+		"price": 333,
+		"category": "Vehicle parts",
+		"defname": "GW_VehicleTracks"
+	},
+	{
+		"abr": "vehiclewheel",
+		"price": 150,
+		"category": "Vehicle parts",
+		"defname": "GW_VehicleWheel"
+	},
+	{
+		"abr": "venatarimask",
+		"price": 34975,
+		"category": "Headgear",
+		"defname": "GW_TotE_VenatariHelmet"
+	},
+	{
+		"abr": "volkiteblaster",
+		"price": 16667,
+		"category": "Ranged weapons",
+		"defname": "GW_SS_VolkBlast"
+	},
+	{
+		"abr": "volkitecaliver",
+		"price": 16667,
+		"category": "Ranged weapons",
+		"defname": "GW_SS_VolkCaliver"
+	},
+	{
+		"abr": "volkiteculverin",
+		"price": 16667,
+		"category": "Ranged weapons",
+		"defname": "GW_SS_VolkCulverin"
+	},
+	{
+		"abr": "volkiteserpenta",
+		"price": 16667,
+		"category": "Ranged weapons",
+		"defname": "GW_SM_VolkSerpenta"
+	},
+	{
+		"abr": "vossmki",
+		"price": 708,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_ROR_Gun_VossPattern"
+	},
+	{
+		"abr": "vosspatternlauncher(emp)",
+		"price": 817,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_Gun_EMPLauncher"
+	},
+	{
+		"abr": "vosspatternlauncher(frag)",
+		"price": 583,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_Gun_FragLauncher"
+	},
+	{
+		"abr": "vosspatternlauncher(smoke)",
+		"price": 758,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_Gun_SmokeLauncher"
+	},
+	{
+		"abr": "vosspatternlauncher(stun)",
+		"price": 758,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_Gun_StunLauncher"
+	},
+	{
+		"abr": "vosspatternlauncher(tox)",
+		"price": 758,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_Gun_ToxLauncher"
+	},
+	{
+		"abr": "vostroyanfirstbornheadgear",
+		"price": 1167,
+		"category": "Headgear",
+		"defname": "GW_AM_VostoyanFirstbornHeadgear"
+	},
+	{
+		"abr": "vostroyanfirstbornuniform",
+		"price": 1000,
+		"category": "Apparel",
+		"defname": "GW_HOI_ROR_VostoyanFirstborn_Uniform"
+	},
+	{
+		"abr": "vox-casterbackpack",
+		"price": 1100,
+		"category": "Misc",
+		"defname": "GW_HOI_VoxBackpack"
+	},
+	{
+		"abr": "vratinebolter",
+		"price": 2000,
+		"category": "Ranged weapons",
+		"defname": "GW_TotE_SOSBolter"
+	},
+	{
+		"abr": "walllamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "GW_IF_WallLamp"
+	},
+	{
+		"abr": "warhammertable",
+		"price": 533,
+		"category": "Furniture",
+		"defname": "GW_WarhammerTable"
+	},
+	{
+		"abr": "watcher'saxe",
+		"price": 5000,
+		"category": "Melee weapons",
+		"defname": "GW_TotE_WatchersAxe"
+	},
+	{
+		"abr": "watcher'saxe(ranged)",
+		"price": 3208,
+		"category": "Ranged weapons",
+		"defname": "GW_TotE_WatchersAxeR"
+	},
+	{
+		"abr": "absolvorboltpistol(dw)",
+		"price": 2650,
+		"category": "Deathwatch ranged weapons",
+		"defname": "EMSM_DWAbsolvorBoltPistol_Apothecary"
+	},
+	{
+		"abr": "absolvorboltpistol,apothecary(aa)",
+		"price": 2650,
+		"category": "Adeptus astartes ranged weapons",
+		"defname": "EMSM_AbsolvorBoltPistol_Apothecary"
+	},
+	{
+		"abr": "absolvorboltpistol,chaplain(aa)",
+		"price": 2650,
+		"category": "Adeptus astartes ranged weapons",
+		"defname": "EMSM_AbsolvorBoltPistol_Chaplain"
+	},
+	{
+		"abr": "adeptusministorumsculpture",
+		"price": 275,
+		"category": "Art",
+		"defname": "EMAS_SculptureSmallMinistorum"
+	},
+	{
+		"abr": "aeldarileather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_EMAE_Aeldari"
+	},
+	{
+		"abr": "aeldarimeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_EMAE_Aeldari"
+	},
+	{
+		"abr": "amulet,veteran(aa)",
+		"price": 1058,
+		"category": "Adeptus astartes wargears",
+		"defname": "EMSM_Wargear_Veteran"
+	},
+	{
+		"abr": "anointedhalberd(as)",
+		"price": 2817,
+		"category": "Adepta sororitas melee weapons",
+		"defname": "EMAS_AnointedHalberd"
+	},
+	{
+		"abr": "arbitratorarmor(ig)",
+		"price": 2742,
+		"category": "Astra militarum armor",
+		"defname": "EMIG_ArbitratorArmor"
+	},
+	{
+		"abr": "arbitratorhelmet(ig)",
+		"price": 1442,
+		"category": "Astra militarum headgear",
+		"defname": "EMIG_ArbitratorHelmet"
+	},
+	{
+		"abr": "arbitratoruniform(ig)",
+		"price": 187,
+		"category": "Astra militarum apparel",
+		"defname": "EMIG_ArbitratorFatigue"
+	},
+	{
+		"abr": "'ard'at(ok)",
+		"price": 575,
+		"category": "MIM WH40k headgear",
+		"defname": "EMOK_FlakElmet"
+	},
+	{
+		"abr": "'ard'at,dakka(ok)",
+		"price": 575,
+		"category": "MIM WH40k headgear",
+		"defname": "EMOK_FlakElmet_Dakka"
+	},
+	{
+		"abr": "'ard'at,skull(ok)",
+		"price": 575,
+		"category": "MIM WH40k headgear",
+		"defname": "EMOK_FlakElmet_Skull"
+	},
+	{
+		"abr": "armorupgrade,blessing(khorne)",
+		"price": 1342,
+		"category": "Chaos armor",
+		"defname": "EMCH_FlakArmorKhorneGifted"
+	},
+	{
+		"abr": "armorupgrade,blessing(nurgle)",
+		"price": 1250,
+		"category": "Chaos armor",
+		"defname": "EMCH_FlakArmorNurgleGifted"
+	},
+	{
+		"abr": "armorupgrade,blessing(slaanesh)",
+		"price": 1158,
+		"category": "Chaos armor",
+		"defname": "EMCH_FlakArmorSlaaneshGifted"
+	},
+	{
+		"abr": "armorupgrade,blessing(tzeentch)",
+		"price": 1433,
+		"category": "Chaos armor",
+		"defname": "EMCH_FlakArmorTzeentchGifted"
+	},
+	{
+		"abr": "armorupgrade,plate(khorne)",
+		"price": 975,
+		"category": "Chaos armor",
+		"defname": "EMCH_FlakArmorKhorneAP"
+	},
+	{
+		"abr": "armorupgrade,plate(nurgle)",
+		"price": 883,
+		"category": "Chaos armor",
+		"defname": "EMCH_FlakArmorNurgleAP"
+	},
+	{
+		"abr": "armorupgrade,plate(slaanesh)",
+		"price": 792,
+		"category": "Chaos armor",
+		"defname": "EMCH_FlakArmorSlaaneshAP"
+	},
+	{
+		"abr": "armorupgrade,plate(tzeentch)",
+		"price": 1067,
+		"category": "Chaos armor",
+		"defname": "EMCH_FlakArmorTzeentchAP"
+	},
+	{
+		"abr": "armorupgrade,plate(undivided)",
+		"price": 242,
+		"category": "Chaos armor",
+		"defname": "EMCH_FlakArmorAP"
+	},
+	{
+		"abr": "artificer-craftedstormbolter(as)",
+		"price": 4733,
+		"category": "Adepta sororitas ranged weapons",
+		"defname": "EMAS_StormBolter"
+	},
+	{
+		"abr": "assaultbolter(aa)",
+		"price": 3150,
+		"category": "Adeptus astartes ranged weapons",
+		"defname": "EMSM_AssaultBolter"
+	},
+	{
+		"abr": "assaultbolter(dw)",
+		"price": 3150,
+		"category": "Deathwatch ranged weapons",
+		"defname": "EMSM_DWAssaultBolter"
+	},
+	{
+		"abr": "assaultcannon(aa)",
+		"price": 8483,
+		"category": "Adeptus astartes ranged weapons",
+		"defname": "EMSM_AssaultCannon"
+	},
+	{
+		"abr": "assaultplasmaincinerator(aa)",
+		"price": 4683,
+		"category": "Adeptus astartes ranged weapons",
+		"defname": "EMSM_AssaultPlasmaIncinerator"
+	},
+	{
+		"abr": "astarteschainsword(aa)",
+		"price": 992,
+		"category": "Adeptus astartes melee weapons",
+		"defname": "EMSM_ChainSword"
+	},
+	{
+		"abr": "astarteschainsword(cm)",
+		"price": 992,
+		"category": "Chaos melee weapons",
+		"defname": "EMCM_ChainSword"
+	},
+	{
+		"abr": "astartesgrenadelauncher(aa)",
+		"price": 1108,
+		"category": "Adeptus astartes ranged weapons",
+		"defname": "EMSM_GrenadeLauncher"
+	},
+	{
+		"abr": "astartesshotgun(aa)",
+		"price": 783,
+		"category": "Adeptus astartes ranged weapons",
+		"defname": "EMSM_Shotgun"
+	},
+	{
+		"abr": "asuryani",
+		"price": 5000,
+		"category": "Animal",
+		"defname": "EMAE_AsuryaniVanillaRace"
+	},
+	{
+		"abr": "auto-flamer(aa)",
+		"price": 3150,
+		"category": "Adeptus astartes ranged weapons",
+		"defname": "EMSM_AutoFlamer"
+	},
+	{
+		"abr": "auto-flamer(dw)",
+		"price": 5025,
+		"category": "Deathwatch ranged weapons",
+		"defname": "EMSM_DWAutoFlamer"
+	},
+	{
+		"abr": "autopistol(as)",
+		"price": 367,
+		"category": "Adepta sororitas ranged weapons",
+		"defname": "EMAS_ECAutoPistol"
+	},
+	{
+		"abr": "autopistol(cv)",
+		"price": 367,
+		"category": "MIM WH40k ranged weapons",
+		"defname": "EMWH_CVAutoPistol"
+	},
+	{
+		"abr": "autopistol(gc)",
+		"price": 367,
+		"category": "Genestealer cult ranged weapons",
+		"defname": "EMGC_AutoPistol"
+	},
+	{
+		"abr": "autopistol(ig)",
+		"price": 367,
+		"category": "Astra militarum ranged weapons",
+		"defname": "EMIG_AutoPistol"
+	},
+	{
+		"abr": "autopistol(in)",
+		"price": 367,
+		"category": "Astra militarum ranged weapons",
+		"defname": "EMIN_AutoPistol"
+	},
+	{
+		"abr": "autopistol(tg)",
+		"price": 367,
+		"category": "Chaos ranged weapons",
+		"defname": "EMCH_AutoPistol"
+	},
+	{
+		"abr": "auto-plasma(aa)",
+		"price": 5942,
+		"category": "Adeptus astartes ranged weapons",
+		"defname": "EMSM_AutoPlasma"
+	},
+	{
+		"abr": "auto-plasma(dw)",
+		"price": 5967,
+		"category": "Deathwatch ranged weapons",
+		"defname": "EMSM_DWAutoPlasma"
+	},
+	{
+		"abr": "backpack(ch)",
+		"price": 130,
+		"category": "Chaos wargears",
+		"defname": "EMCH_Backpack"
+	},
+	{
+		"abr": "backpack,astramilitarum(ig)",
+		"price": 130,
+		"category": "Astra militarum wargears",
+		"defname": "EMIG_Backpack_Standard"
+	},
+	{
+		"abr": "backpack,corpseman(ch)",
+		"price": 130,
+		"category": "Chaos wargears",
+		"defname": "EMCH_BackpackCorpseman"
+	},
+	{
+		"abr": "backpack,jakhal(ch)",
+		"price": 197,
+		"category": "Chaos wargears",
+		"defname": "EMCH_BackpackJakhal"
+	},
+	{
+		"abr": "backpack,primarispsyker(ig)",
+		"price": 3800,
+		"category": "Astra militarum wargears",
+		"defname": "EMIG_PrimarisPsykerPack"
+	},
+	{
+		"abr": "backpack,sinistertrophy(ch)",
+		"price": 130,
+		"category": "Chaos wargears",
+		"defname": "EMCH_BackpackTrophy"
+	},
+	{
+		"abr": "battlesistersculpture",
+		"price": 517,
+		"category": "Art",
+		"defname": "EMAS_SculptureLargeBattleSister"
+	},
+	{
+		"abr": "beastsnaggaklaw(ok)",
+		"price": 5250,
+		"category": "Orks melee weapons",
+		"defname": "EMOK_BeastSnaggaKlaw"
+	},
+	{
+		"abr": "beastchoppa(ok)",
+		"price": 2600,
+		"category": "Orks melee weapons",
+		"defname": "EMOK_Beastchoppa"
+	},
+	{
+		"abr": "beerfountain",
+		"price": 4167,
+		"category": "Special",
+		"defname": "BeerFountain"
+	},
+	{
+		"abr": "bigchoppa(ok)",
+		"price": 2150,
+		"category": "Orks melee weapons",
+		"defname": "EMOK_BigChoppa"
+	},
+	{
+		"abr": "bigshoota(ok)",
+		"price": 3150,
+		"category": "Orks ranged weapons",
+		"defname": "EMOK_BigShoota"
+	},
+	{
+		"abr": "blessedblade(as)",
+		"price": 3175,
+		"category": "Adepta sororitas melee weapons",
+		"defname": "EMAS_BlessedBlade"
+	},
+	{
+		"abr": "bodysuit,munitorumservitor(dm)",
+		"price": 383,
+		"category": "MIM WH40k apparel",
+		"defname": "EMIG_ServitorBodysuit"
+	},
+	{
+		"abr": "bodysuit,primarispsyker(ig)",
+		"price": 4692,
+		"category": "Astra militarum apparel",
+		"defname": "EMIG_PrimarisPsykerBodysuit"
+	},
+	{
+		"abr": "bodysuit,servitor(am)",
+		"price": 383,
+		"category": "MIM WH40k apparel",
+		"defname": "EMAM_ServitorBodysuit"
+	},
+	{
+		"abr": "boltpistol(aa)",
+		"price": 2083,
+		"category": "Adeptus astartes ranged weapons",
+		"defname": "EMSM_BoltPistol"
+	},
+	{
+		"abr": "boltpistol(as)",
+		"price": 2083,
+		"category": "Adepta sororitas ranged weapons",
+		"defname": "EMAS_BoltPistol"
+	},
+	{
+		"abr": "boltpistol(cm)",
+		"price": 2083,
+		"category": "Chaos ranged weapons",
+		"defname": "EMCM_CUBoltPistol"
+	},
+	{
+		"abr": "boltpistol(dw)",
+		"price": 2300,
+		"category": "Deathwatch ranged weapons",
+		"defname": "EMSM_DWBoltPistol"
+	},
+	{
+		"abr": "boltpistol(gc)",
+		"price": 2083,
+		"category": "Genestealer cult ranged weapons",
+		"defname": "EMGC_BoltPistol"
+	},
+	{
+		"abr": "boltpistol(ig)",
+		"price": 2083,
+		"category": "Astra militarum ranged weapons",
+		"defname": "EMIG_BoltPistol"
+	},
+	{
+		"abr": "boltpistol(in)",
+		"price": 2083,
+		"category": "Astra militarum ranged weapons",
+		"defname": "EMIN_BoltPistol"
+	},
+	{
+		"abr": "boltrifle(aa)",
+		"price": 3150,
+		"category": "Adeptus astartes ranged weapons",
+		"defname": "EMSM_AutoBoltRifle"
+	},
+	{
+		"abr": "boltrifle(dw)",
+		"price": 3400,
+		"category": "Deathwatch ranged weapons",
+		"defname": "EMSM_DWAutoBoltRifle"
+	},
+	{
+		"abr": "boltgun(aa)",
+		"price": 2717,
+		"category": "Adeptus astartes ranged weapons",
+		"defname": "EMSM_Bolter"
+	},
+	{
+		"abr": "boltgun(as)",
+		"price": 2717,
+		"category": "Adepta sororitas ranged weapons",
+		"defname": "EMAS_Bolter"
+	},
+	{
+		"abr": "boltgun(cm)",
+		"price": 2717,
+		"category": "Chaos ranged weapons",
+		"defname": "EMCM_CUBolter"
+	},
+	{
+		"abr": "boltgun(dw)",
+		"price": 3150,
+		"category": "Deathwatch ranged weapons",
+		"defname": "EMSM_DWBolter"
+	},
+	{
+		"abr": "boltgun(gc)",
+		"price": 2717,
+		"category": "Genestealer cult ranged weapons",
+		"defname": "EMGC_Bolter"
+	},
+	{
+		"abr": "boltgun(ig)",
+		"price": 2717,
+		"category": "Astra militarum ranged weapons",
+		"defname": "EMIG_Bolter"
+	},
+	{
+		"abr": "breacharam(ok)",
+		"price": 2842,
+		"category": "Orks melee weapons",
+		"defname": "EMOK_BreachaRam"
+	},
+	{
+		"abr": "burna(ok)",
+		"price": 3192,
+		"category": "Orks ranged weapons",
+		"defname": "EMOK_Burna"
+	},
+	{
+		"abr": "cadiancrewsoft-helmet",
+		"price": 667,
+		"category": "Headgear",
+		"defname": "GW_HOI_Cadian_CrewHelmetSoft"
+	},
+	{
+		"abr": "cadianflamerwebbing",
+		"price": 500,
+		"category": "Misc",
+		"defname": "GW_HOI_CadianFlamerWebbing"
+	},
+	{
+		"abr": "cadianpowerpackwebbing",
+		"price": 500,
+		"category": "Misc",
+		"defname": "GW_HOI_PowerpackWebbing"
+	},
+	{
+		"abr": "canoptekscarabswarm",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "EMNC_NecronCanoptekScarabSwarmVanillaRace"
+	},
+	{
+		"abr": "canoptekspyder",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "EMNC_NecronCanoptekSpyderVanillaRace"
+	},
+	{
+		"abr": "carapacearmor,munitorumservitor(dm)",
+		"price": 2333,
+		"category": "Imperium armor",
+		"defname": "EMIG_ServitorArmor"
+	},
+	{
+		"abr": "carapacearmor,servitor(am)",
+		"price": 2333,
+		"category": "Imperium armor",
+		"defname": "EMAM_ServitorArmor"
+	},
+	{
+		"abr": "carapacehelmet,servitor(am)",
+		"price": 1033,
+		"category": "MIM WH40k headgear",
+		"defname": "EMAM_ServitorHelmet"
+	},
+	{
+		"abr": "carapacepack,munitorumservitor(dm)",
+		"price": 1083,
+		"category": "Imperium wargears",
+		"defname": "EMIG_ServitorPack"
+	},
+	{
+		"abr": "carapacepack,servitor(am)",
+		"price": 1083,
+		"category": "Imperium wargears",
+		"defname": "EMAM_ServitorPack"
+	},
+	{
+		"abr": "chainfist(aa)",
+		"price": 2883,
+		"category": "Adeptus astartes melee weapons",
+		"defname": "EMSM_ChainFist"
+	},
+	{
+		"abr": "chainfist(cm)",
+		"price": 2883,
+		"category": "Chaos melee weapons",
+		"defname": "EMCM_ChainFist"
+	},
+	{
+		"abr": "chainfist(in)",
+		"price": 2883,
+		"category": "Astra militarum melee weapons",
+		"defname": "EMIN_ChainFist"
+	},
+	{
+		"abr": "chainsword(as)",
+		"price": 833,
+		"category": "Adepta sororitas melee weapons",
+		"defname": "EMAS_ChainSword"
+	},
+	{
+		"abr": "chainsword(gc)",
+		"price": 833,
+		"category": "Genestealer cult melee weapons",
+		"defname": "EMGC_ChainSword"
+	},
+	{
+		"abr": "chainsword(ig)",
+		"price": 633,
+		"category": "Astra militarum melee weapons",
+		"defname": "EMIG_ChainSword"
+	},
+	{
+		"abr": "chainsword(in)",
+		"price": 833,
+		"category": "Astra militarum melee weapons",
+		"defname": "EMIN_ChainSword"
+	},
+	{
+		"abr": "chainsword(tg)",
+		"price": 833,
+		"category": "Chaos melee weapons",
+		"defname": "EMCH_ChainSword"
+	},
+	{
+		"abr": "chaosarmorcraftingtable",
+		"price": 758,
+		"category": "Production",
+		"defname": "EMCH_PowerArmorCustomization"
+	},
+	{
+		"abr": "chestrig,assault(aa)",
+		"price": 1825,
+		"category": "Adeptus astartes armor cosmetics",
+		"defname": "EMSM_AA_PowerArmorChestRigAssault"
+	},
+	{
+		"abr": "chestrig,assault(cm)",
+		"price": 1825,
+		"category": "Chaos armor cosmetics",
+		"defname": "EMCM_CM_PowerArmorChestRigAssault"
+	},
+	{
+		"abr": "chestrig,corvus(aa)",
+		"price": 1825,
+		"category": "Adeptus astartes armor cosmetics",
+		"defname": "EMSM_AA_PowerArmorChestRigMk6Std"
+	},
+	{
+		"abr": "chestrig,corvus(cm)",
+		"price": 1825,
+		"category": "Chaos armor cosmetics",
+		"defname": "EMCM_CM_PowerArmorChestRigMk6Std"
+	},
+	{
+		"abr": "chestrig,heresy(aa)",
+		"price": 1825,
+		"category": "Adeptus astartes armor cosmetics",
+		"defname": "EMSM_AA_PowerArmorChestRigMk5Std"
+	},
+	{
+		"abr": "chestrig,heresy(cm)",
+		"price": 1825,
+		"category": "Chaos armor cosmetics",
+		"defname": "EMCM_CM_PowerArmorChestRigMk5Std"
+	},
+	{
+		"abr": "chestrig,maximus(aa)",
+		"price": 1825,
+		"category": "Adeptus astartes armor cosmetics",
+		"defname": "EMSM_AA_PowerArmorChestRigMk4Std"
+	},
+	{
+		"abr": "chestrig,maximus(cm)",
+		"price": 1825,
+		"category": "Chaos armor cosmetics",
+		"defname": "EMCM_CM_PowerArmorChestRigMk4Std"
+	},
+	{
+		"abr": "choppa(ok)",
+		"price": 992,
+		"category": "Orks melee weapons",
+		"defname": "EMOK_Choppa"
+	},
+	{
+		"abr": "combatbandanna(ig)",
+		"price": 107,
+		"category": "Astra militarum headgear",
+		"defname": "EMIG_CombatBandanna"
+	},
+	{
+		"abr": "combatpants,red(ig)",
+		"price": 350,
+		"category": "Astra militarum apparel",
+		"defname": "EMIG_CombatPants_Red"
+	},
+	{
+		"abr": "combatpants,standard(ig)",
+		"price": 350,
+		"category": "Astra militarum apparel",
+		"defname": "EMIG_CombatPants"
+	},
+	{
+		"abr": "combatsuit(ae)",
+		"price": 517,
+		"category": "Aeldari apparel",
+		"defname": "EMAE_CombatSuit"
+	},
+	{
+		"abr": "combatsuit,cultofkhorne(ch)",
+		"price": 350,
+		"category": "Chaos apparel",
+		"defname": "EMCH_FatigueKhorne"
+	},
+	{
+		"abr": "combatsuit,standard(ig)",
+		"price": 350,
+		"category": "Astra militarum apparel",
+		"defname": "EMIG_CombatSuit"
+	},
+	{
+		"abr": "combatvest(ig)",
+		"price": 293,
+		"category": "Astra militarum apparel",
+		"defname": "EMIG_CombatVest"
+	},
+	{
+		"abr": "combatwebbing,astramilitarum(ig)",
+		"price": 154,
+		"category": "Astra militarum wargears",
+		"defname": "EMIG_CombatWebbing"
+	},
+	{
+		"abr": "combi-bolter(cm)",
+		"price": 4733,
+		"category": "Chaos ranged weapons",
+		"defname": "EMCM_CombiBolter"
+	},
+	{
+		"abr": "combi-flamer(aa)",
+		"price": 4417,
+		"category": "Adeptus astartes ranged weapons",
+		"defname": "EMSM_CombiFlamer"
+	},
+	{
+		"abr": "combi-flamer(cm)",
+		"price": 4417,
+		"category": "Chaos ranged weapons",
+		"defname": "EMCM_CUCombiFlamer"
+	},
+	{
+		"abr": "combi-flamer(dw)",
+		"price": 4750,
+		"category": "Deathwatch ranged weapons",
+		"defname": "EMSM_DWCombiFlamer"
+	},
+	{
+		"abr": "combi-grav(aa)",
+		"price": 6192,
+		"category": "Adeptus astartes ranged weapons",
+		"defname": "EMSM_CombiGrav"
+	},
+	{
+		"abr": "combi-grav(dw)",
+		"price": 6517,
+		"category": "Deathwatch ranged weapons",
+		"defname": "EMSM_DWCombiGrav"
+	},
+	{
+		"abr": "combi-melta(aa)",
+		"price": 6192,
+		"category": "Adeptus astartes ranged weapons",
+		"defname": "EMSM_CombiMelta"
+	},
+	{
+		"abr": "combi-melta(as)",
+		"price": 6192,
+		"category": "Adepta sororitas ranged weapons",
+		"defname": "EMAS_CombiMelta"
+	},
+	{
+		"abr": "combi-melta(cm)",
+		"price": 6192,
+		"category": "Chaos ranged weapons",
+		"defname": "EMCM_CUCombiMelta"
+	},
+	{
+		"abr": "combi-melta(ig)",
+		"price": 6192,
+		"category": "Astra militarum ranged weapons",
+		"defname": "EMIG_CombiMelta"
+	},
+	{
+		"abr": "combi-plasma(aa)",
+		"price": 5608,
+		"category": "Adeptus astartes ranged weapons",
+		"defname": "EMSM_CombiPlasma"
+	},
+	{
+		"abr": "combi-plasma(as)",
+		"price": 5608,
+		"category": "Adepta sororitas ranged weapons",
+		"defname": "EMAS_CombiPlasma"
+	},
+	{
+		"abr": "combi-plasma(cm)",
+		"price": 5608,
+		"category": "Chaos ranged weapons",
+		"defname": "EMCM_CUCombiPlasma"
+	},
+	{
+		"abr": "combi-plasma(dw)",
+		"price": 6017,
+		"category": "Deathwatch ranged weapons",
+		"defname": "EMSM_DWCombiPlasma"
+	},
+	{
+		"abr": "commissararmor(ig)",
+		"price": 2333,
+		"category": "Astra militarum armor",
+		"defname": "EMIG_CommissarArmor"
+	},
+	{
+		"abr": "commissarcap(ig)",
+		"price": 333,
+		"category": "Astra militarum headgear",
+		"defname": "EMIG_CommissarCap"
+	},
+	{
+		"abr": "commissarcoat(ig)",
+		"price": 293,
+		"category": "Astra militarum apparel",
+		"defname": "EMIG_CommissarCoat"
+	},
+	{
+		"abr": "commissarfatigue(ig)",
+		"price": 187,
+		"category": "Astra militarum apparel",
+		"defname": "EMIG_CommissarFatigue"
+	},
+	{
+		"abr": "condemnorboltgun(as)",
+		"price": 3017,
+		"category": "Adepta sororitas ranged weapons",
+		"defname": "EMAS_CondemnorBoltgun"
+	},
+	{
+		"abr": "croziusarcanum(aa)",
+		"price": 3175,
+		"category": "Adeptus astartes melee weapons",
+		"defname": "EMSM_CroziusArcanum"
+	},
+	{
+		"abr": "crusaderarmor(ec)",
+		"price": 2333,
+		"category": "Astra militarum armor",
+		"defname": "EMIM_ECCrusaderArmor"
+	},
+	{
+		"abr": "crusaderhelmet(ec)",
+		"price": 1733,
+		"category": "Astra militarum headgear",
+		"defname": "EMIM_ECCrusaderHelmet"
+	},
+	{
+		"abr": "crusadertunic(ec)",
+		"price": 187,
+		"category": "Astra militarum apparel",
+		"defname": "EMIM_ECFatigue_Crusader"
+	},
+	{
+		"abr": "cultbonesword(gc)",
+		"price": 475,
+		"category": "Genestealer cult melee weapons",
+		"defname": "EMGC_CultBonesword"
+	},
+	{
+		"abr": "cultelectricsmithy(gc)",
+		"price": 492,
+		"category": "Production",
+		"defname": "EMGC_ElectricSmithy"
+	},
+	{
+		"abr": "cultfueledsmithy(gc)",
+		"price": 333,
+		"category": "Production",
+		"defname": "EMGC_FueledSmithy"
+	},
+	{
+		"abr": "culthandtailorbench(gc)",
+		"price": 262,
+		"category": "Production",
+		"defname": "EMGC_HandTailoringBench"
+	},
+	{
+		"abr": "cultknife(gc)",
+		"price": 297,
+		"category": "Genestealer cult melee weapons",
+		"defname": "EMGC_CultKnife"
+	},
+	{
+		"abr": "cultlashwhip(gc)",
+		"price": 358,
+		"category": "Genestealer cult melee weapons",
+		"defname": "EMGC_CultLashWhip"
+	},
+	{
+		"abr": "cultshotgun(gc)",
+		"price": 675,
+		"category": "Genestealer cult ranged weapons",
+		"defname": "EMGC_CultShotgun"
+	},
+	{
+		"abr": "cultsigil(bladedcog)",
+		"price": 275,
+		"category": "Art",
+		"defname": "EMGC_SculptureSmallBladedCog"
+	},
+	{
+		"abr": "cultsigil(fourarmedemperor)",
+		"price": 275,
+		"category": "Art",
+		"defname": "EMGC_SculptureSmallFourArmedEmperor"
+	},
+	{
+		"abr": "cultsigil(hivecult)",
+		"price": 275,
+		"category": "Art",
+		"defname": "EMGC_SculptureSmallTheHiveCult"
+	},
+	{
+		"abr": "cultsigil(innerwyrm)",
+		"price": 275,
+		"category": "Art",
+		"defname": "EMGC_SculptureSmallInnerwyrm"
+	},
+	{
+		"abr": "cultsigil(pauperprinces)",
+		"price": 275,
+		"category": "Art",
+		"defname": "EMGC_SculptureSmallPauperPrinces"
+	},
+	{
+		"abr": "cultsigil(rustedclaw)",
+		"price": 275,
+		"category": "Art",
+		"defname": "EMGC_SculptureSmallRustedClaw"
+	},
+	{
+		"abr": "cultsigil(twistedhelix)",
+		"price": 275,
+		"category": "Art",
+		"defname": "EMGC_SculptureSmallTwistedHelix"
+	},
+	{
+		"abr": "cultistarmor,khorne(ch)",
+		"price": 3067,
+		"category": "Chaos armor",
+		"defname": "EMCH_FlakArmorKhorneGiftedAP"
+	},
+	{
+		"abr": "cultistarmor,nurgle(ch)",
+		"price": 2975,
+		"category": "Chaos armor",
+		"defname": "EMCH_FlakArmorNurgleGiftedAP"
+	},
+	{
+		"abr": "cultistarmor,slaanesh(ch)",
+		"price": 2883,
+		"category": "Chaos armor",
+		"defname": "EMCH_FlakArmorSlaaneshGiftedAP"
+	},
+	{
+		"abr": "cultistarmor,tzeentch(ch)",
+		"price": 3158,
+		"category": "Chaos armor",
+		"defname": "EMCH_FlakArmorTzeentchGiftedAP"
+	},
+	{
+		"abr": "cultistelectrictailorbench",
+		"price": 533,
+		"category": "Production",
+		"defname": "EMGC_ElectricTailoringBench"
+	},
+	{
+		"abr": "cultistmask,khorne(ch)",
+		"price": 1767,
+		"category": "Chaos headgear",
+		"defname": "EMCH_CarapaceHelmet_Khorne"
+	},
+	{
+		"abr": "cultistmask,nurgle(ch)",
+		"price": 1675,
+		"category": "Chaos headgear",
+		"defname": "EMCH_CarapaceHelmet_Nurgle"
+	},
+	{
+		"abr": "cultistmask,slaanesh(ch)",
+		"price": 1583,
+		"category": "Chaos headgear",
+		"defname": "EMCH_CarapaceHelmet_Slaanesh"
+	},
+	{
+		"abr": "cultistmask,tzeentch(ch)",
+		"price": 1858,
+		"category": "Chaos headgear",
+		"defname": "EMCH_CarapaceHelmet_Tzeentch"
+	},
+	{
+		"abr": "cultistsniperrifle(tg)",
+		"price": 708,
+		"category": "Chaos ranged weapons",
+		"defname": "EMCH_LongLas"
+	},
+	{
+		"abr": "dathumpgun(ok)",
+		"price": 950,
+		"category": "Orks ranged weapons",
+		"defname": "EMOK_ThumpGun"
+	},
+	{
+		"abr": "daemonblade(cm)",
+		"price": 2192,
+		"category": "Chaos melee weapons",
+		"defname": "EMCM_DaemonBlade"
+	},
+	{
+		"abr": "deathmark",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "EMNC_NecronDeathmarkVanillaRace"
+	},
+	{
+		"abr": "deathwatchshotgun(dw)",
+		"price": 1008,
+		"category": "Deathwatch ranged weapons",
+		"defname": "EMSM_DWShotgun"
+	},
+	{
+		"abr": "deffgun(ok)",
+		"price": 12183,
+		"category": "Orks ranged weapons",
+		"defname": "EMOK_Deffgun"
+	},
+	{
+		"abr": "demolitioncharge(gc)",
+		"price": 302,
+		"category": "MIM WH40k grenades",
+		"defname": "Weapon_EMGC_DemolitionCharge"
+	},
+	{
+		"abr": "demolitioncharge(gc)",
+		"price": 304,
+		"category": "MIM WH40k grenades",
+		"defname": "EMGC_GrenadePack_DemolitionCharge"
+	},
+	{
+		"abr": "dispersionshield",
+		"price": 166742,
+		"category": "Shields",
+		"defname": "EMNC_DispersionShield"
+	},
+	{
+		"abr": "drilla(ok)",
+		"price": 1550,
+		"category": "Orks melee weapons",
+		"defname": "EMOK_Drilla"
+	},
+	{
+		"abr": "drukhari",
+		"price": 5000,
+		"category": "Animal",
+		"defname": "EMAE_DrukhariVanillaRace"
+	},
+	{
+		"abr": "'elmetbig'orn(ok)",
+		"price": 717,
+		"category": "MIM WH40k headgear",
+		"defname": "EMOK_FlakElmet_BigOrnEast"
+	},
+	{
+		"abr": "'elmetbig'orn(ok)",
+		"price": 717,
+		"category": "MIM WH40k headgear",
+		"defname": "EMOK_FlakElmet_BigOrnWest"
+	},
+	{
+		"abr": "'elmet'ead'orn(ok)",
+		"price": 186,
+		"category": "MIM WH40k headgear",
+		"defname": "EMOK_FlakElmet_EadOrn"
+	},
+	{
+		"abr": "'elmetleftauger,black(ok)",
+		"price": 508,
+		"category": "MIM WH40k headgear",
+		"defname": "EMOK_FlakElmet_EyeLeftBlack"
+	},
+	{
+		"abr": "'elmetleftauger,red(ok)",
+		"price": 508,
+		"category": "MIM WH40k headgear",
+		"defname": "EMOK_FlakElmet_EyeLeftRed"
+	},
+	{
+		"abr": "'elmetleftauger,yellow(ok)",
+		"price": 508,
+		"category": "MIM WH40k headgear",
+		"defname": "EMOK_FlakElmet_EyeLeftYellow"
+	},
+	{
+		"abr": "'elmetrightauger,black(ok)",
+		"price": 508,
+		"category": "MIM WH40k headgear",
+		"defname": "EMOK_FlakElmet_EyeRightBlack"
+	},
+	{
+		"abr": "'elmetrightauger,red(ok)",
+		"price": 508,
+		"category": "MIM WH40k headgear",
+		"defname": "EMOK_FlakElmet_EyeRightRed"
+	},
+	{
+		"abr": "'elmetrightauger,yellow(ok)",
+		"price": 508,
+		"category": "MIM WH40k headgear",
+		"defname": "EMOK_FlakElmet_EyeRightYellow"
+	},
+	{
+		"abr": "enforcerarmor(tg)",
+		"price": 2333,
+		"category": "Chaos armor",
+		"defname": "EMCH_EnforcerArmor"
+	},
+	{
+		"abr": "enforcercap(tg)",
+		"price": 333,
+		"category": "Chaos headgear",
+		"defname": "EMCH_EnforcerCap"
+	},
+	{
+		"abr": "enforcercoat(tg)",
+		"price": 293,
+		"category": "Chaos apparel",
+		"defname": "EMCH_EnforcerCoat"
+	},
+	{
+		"abr": "enforcerfatigue(tg)",
+		"price": 187,
+		"category": "Chaos apparel",
+		"defname": "EMCH_EnforcerFatigue"
+	},
+	{
+		"abr": "enginseerhood(ig)",
+		"price": 10000,
+		"category": "Astra militarum headgear",
+		"defname": "EMIG_EnginseerHood"
+	},
+	{
+		"abr": "enginseerpowerarmor(ig)",
+		"price": 33333,
+		"category": "Astra militarum armor",
+		"defname": "EMIG_PowerArmorEnginseer"
+	},
+	{
+		"abr": "enginseerpowerpack(ig)",
+		"price": 11075,
+		"category": "Astra militarum wargears",
+		"defname": "EMIG_PowerPackEnginseer"
+	},
+	{
+		"abr": "enginseerrobe(ig)",
+		"price": 2483,
+		"category": "Astra militarum apparel",
+		"defname": "EMIG_EnginseerRobe"
+	},
+	{
+		"abr": "enginseertunic(ig)",
+		"price": 1708,
+		"category": "Astra militarum apparel",
+		"defname": "EMIG_EnginseerFatigue"
+	},
+	{
+		"abr": "enmiticannihilator(n)",
+		"price": 417000,
+		"category": "Necron ranged weapons",
+		"defname": "EMNC_EnmiticAnnihilator"
+	},
+	{
+		"abr": "enmiticdisintegratorpistol(n)",
+		"price": 416875,
+		"category": "Necron ranged weapons",
+		"defname": "EMNC_EnmiticDisintegratorPistol"
+	},
+	{
+		"abr": "enmiticexterminator(n)",
+		"price": 625358,
+		"category": "Necron ranged weapons",
+		"defname": "EMNC_EnmiticExterminator"
+	},
+	{
+		"abr": "executorheavybolter(aa)",
+		"price": 5500,
+		"category": "Adeptus astartes ranged weapons",
+		"defname": "EMSM_ExecutorHeavyBolter"
+	},
+	{
+		"abr": "executorheavybolter(dw)",
+		"price": 5500,
+		"category": "Deathwatch ranged weapons",
+		"defname": "EMSM_DWExecutorHeavyBolter"
+	},
+	{
+		"abr": "exoditeeldar",
+		"price": 5000,
+		"category": "Animal",
+		"defname": "EMAE_ExoditeVanillaRace"
+	},
+	{
+		"abr": "eyecover,black(ok)",
+		"price": 550,
+		"category": "MIM WH40k headgear",
+		"defname": "EMOK_FlakElmet_EyeGlassBlack"
+	},
+	{
+		"abr": "eyecover,red(ok)",
+		"price": 550,
+		"category": "MIM WH40k headgear",
+		"defname": "EMOK_FlakElmet_EyeGlassRed"
+	},
+	{
+		"abr": "eyecover,yellow(ok)",
+		"price": 550,
+		"category": "MIM WH40k headgear",
+		"defname": "EMOK_FlakElmet_EyeGlassYellow"
+	},
+	{
+		"abr": "fatigue,astramilitarum(ig)",
+		"price": 187,
+		"category": "Astra militarum apparel",
+		"defname": "EMIG_Fatigue_Standard"
+	},
+	{
+		"abr": "fatigue,cultofnurgle(ch)",
+		"price": 187,
+		"category": "Chaos apparel",
+		"defname": "EMCH_FatigueNurgle"
+	},
+	{
+		"abr": "fatigue,cultofslaanesh(ch)",
+		"price": 187,
+		"category": "Chaos apparel",
+		"defname": "EMCH_FatigueSlaanesh"
+	},
+	{
+		"abr": "fatigue,cultoftzeentch(ch)",
+		"price": 187,
+		"category": "Chaos apparel",
+		"defname": "EMCH_FatigueTzeentch"
+	},
+	{
+		"abr": "fatigue,kasrkin(ig)",
+		"price": 187,
+		"category": "Astra militarum apparel",
+		"defname": "EMIG_Fatigue_Kasrkin"
+	},
+	{
+		"abr": "fatigue,traitorguardsmen(ch)",
+		"price": 187,
+		"category": "Chaos apparel",
+		"defname": "EMCH_Fatigue"
+	},
+	{
+		"abr": "feedermandibles(n)",
+		"price": 16817,
+		"category": "Necron melee weapons",
+		"defname": "EMNC_CanoptekScarabSwarm_FeederMandibles"
+	},
+	{
+		"abr": "fenrisianwolf",
+		"price": 10833,
+		"category": "Animals",
+		"defname": "EMSM_FenrisianWolf"
+	},
+	{
+		"abr": "field'at(ok)",
+		"price": 408,
+		"category": "MIM WH40k headgear",
+		"defname": "EMOK_FieldAt"
+	},
+	{
+		"abr": "fieldcap,seniorofficer(ig)",
+		"price": 333,
+		"category": "Astra militarum headgear",
+		"defname": "EMIG_FieldCap_SeniorOfficer"
+	},
+	{
+		"abr": "fieldhat(ig)",
+		"price": 107,
+		"category": "Astra militarum headgear",
+		"defname": "EMIG_FieldHat_Standard"
+	},
+	{
+		"abr": "fieldhat,red(ig)",
+		"price": 107,
+		"category": "Astra militarum headgear",
+		"defname": "EMIG_FieldHat_Red"
+	},
+	{
+		"abr": "flakarmor,chest(ec)",
+		"price": 950,
+		"category": "Astra militarum armor",
+		"defname": "EMIG_FlakArmor_ChestFraterisMilitia"
+	},
+	{
+		"abr": "flakarmor,chest(ig)",
+		"price": 450,
+		"category": "Astra militarum armor",
+		"defname": "EMIG_FlakArmor_ChestGreen"
+	},
+	{
+		"abr": "flakarmor,commandsquad(ig)",
+		"price": 983,
+		"category": "Astra militarum armor",
+		"defname": "EMIG_FlakArmor_CommandSquad"
+	},
+	{
+		"abr": "flakarmor,full(ec)",
+		"price": 1317,
+		"category": "Astra militarum armor",
+		"defname": "EMIG_FlakArmor_FullFraterisMilitia"
+	},
+	{
+		"abr": "flakarmor,full(ig)",
+		"price": 817,
+		"category": "Astra militarum armor",
+		"defname": "EMIG_FlakArmor_FullGreen"
+	},
+	{
+		"abr": "flakarmor,full(tg)",
+		"price": 817,
+		"category": "Chaos armor",
+		"defname": "EMCH_FlakArmor"
+	},
+	{
+		"abr": "flakarmor,nurgle(ch)",
+		"price": 817,
+		"category": "Chaos armor",
+		"defname": "EMCH_FlakArmorNurgle"
+	},
+	{
+		"abr": "flakarmor,psyker(ig)",
+		"price": 4958,
+		"category": "Astra militarum armor",
+		"defname": "EMIG_PrimarisPsykerArmor"
+	},
+	{
+		"abr": "flakarmor,seniorofficer(ig)",
+		"price": 1508,
+		"category": "Astra militarum armor",
+		"defname": "EMIG_FlakArmor_SeniorOfficer"
+	},
+	{
+		"abr": "flakarmor,slaanesh(ch)",
+		"price": 817,
+		"category": "Chaos armor",
+		"defname": "EMCH_FlakArmorSlaanesh"
+	},
+	{
+		"abr": "flakarmor,tzeentch(ch)",
+		"price": 817,
+		"category": "Chaos armor",
+		"defname": "EMCH_FlakArmorTzeentch"
+	},
+	{
+		"abr": "flakhelmet,chaosundivided(ch)",
+		"price": 575,
+		"category": "Chaos headgear",
+		"defname": "EMCH_FlakHelmet_Undivided"
+	},
+	{
+		"abr": "flakhelmet,commset(ig)",
+		"price": 408,
+		"category": "Astra militarum headgear",
+		"defname": "EMIG_FlakHelmet_CommsGreen"
+	},
+	{
+		"abr": "flakhelmet,conscript(ig)",
+		"price": 325,
+		"category": "Astra militarum headgear",
+		"defname": "EMIG_FlakHelmet_Conscript"
+	},
+	{
+		"abr": "flakhelmet,conscript(tg)",
+		"price": 325,
+		"category": "Chaos headgear",
+		"defname": "EMCH_FlakHelmet"
+	},
+	{
+		"abr": "flakhelmet,fraterismilitia(ec)",
+		"price": 825,
+		"category": "Astra militarum headgear",
+		"defname": "EMIG_FlakHelmet_FraterisMilitia"
+	},
+	{
+		"abr": "flakhelmet,horn(ig)",
+		"price": 19,
+		"category": "Astra militarum headgear",
+		"defname": "EMIG_FlakHelmet_HornSteel"
+	},
+	{
+		"abr": "flakhelmet,juniorofficer(ig)",
+		"price": 408,
+		"category": "Astra militarum headgear",
+		"defname": "EMIG_FlakHelmet_JO"
+	},
+	{
+		"abr": "flakhelmet,juniorofficer(tg)",
+		"price": 325,
+		"category": "Chaos headgear",
+		"defname": "EMCH_FlakHelmet_Gunner"
+	},
+	{
+		"abr": "flakhelmet,khorne(ch)",
+		"price": 1058,
+		"category": "Chaos headgear",
+		"defname": "EMCH_FlakHelmet_Khorne"
+	},
+	{
+		"abr": "flakhelmet,nurgle(ch)",
+		"price": 967,
+		"category": "Chaos headgear",
+		"defname": "EMCH_FlakHelmet_Nurgle"
+	},
+	{
+		"abr": "flakhelmet,primarispsyker(ig)",
+		"price": 4000,
+		"category": "Astra militarum headgear",
+		"defname": "EMIG_PrimarisPsykerHelmet"
+	},
+	{
+		"abr": "flakhelmet,rebreather(ig)",
+		"price": 164,
+		"category": "Astra militarum headgear",
+		"defname": "EMIG_FlakHelmet_Rebreather"
+	},
+	{
+		"abr": "flakhelmet,seniorofficer(ch)",
+		"price": 325,
+		"category": "Chaos headgear",
+		"defname": "EMCH_FlakHelmet_Sweeper"
+	},
+	{
+		"abr": "flakhelmet,seniorofficer(ig)",
+		"price": 492,
+		"category": "Astra militarum headgear",
+		"defname": "EMIG_FlakHelmet_SO"
+	},
+	{
+		"abr": "flakhelmet,slaanesh(ch)",
+		"price": 875,
+		"category": "Chaos headgear",
+		"defname": "EMCH_FlakHelmet_Blissbarb"
+	},
+	{
+		"abr": "flakhelmet,targeter(ig)",
+		"price": 425,
+		"category": "Astra militarum headgear",
+		"defname": "EMIG_FlakHelmet_TargetGreen"
+	},
+	{
+		"abr": "flakhelmet,trooper(ig)",
+		"price": 325,
+		"category": "Astra militarum headgear",
+		"defname": "EMIG_FlakHelmet_Trooper"
+	},
+	{
+		"abr": "flakhelmet,trooper(tg)",
+		"price": 325,
+		"category": "Chaos headgear",
+		"defname": "EMCH_FlakHelmet_Troop"
+	},
+	{
+		"abr": "flakhelmet,tzeentch(ch)",
+		"price": 1150,
+		"category": "Chaos headgear",
+		"defname": "EMCH_FlakHelmet_KairicAcolyte"
+	},
+	{
+		"abr": "flamer(aa)",
+		"price": 3192,
+		"category": "Adeptus astartes ranged weapons",
+		"defname": "EMSM_Flamer"
+	},
+	{
+		"abr": "flamer(cm)",
+		"price": 3925,
+		"category": "Chaos ranged weapons",
+		"defname": "EMCM_CUFlamer"
+	},
+	{
+		"abr": "flamer(gc)",
+		"price": 3925,
+		"category": "Genestealer cult ranged weapons",
+		"defname": "EMGC_Flamer"
+	},
+	{
+		"abr": "flamer(ig)",
+		"price": 3192,
+		"category": "Astra militarum ranged weapons",
+		"defname": "EMIG_Flamer"
+	},
+	{
+		"abr": "flayedone",
+		"price": -10,
+		"category": "Animal",
+		"defname": "EMNC_NecronFlayedOneVanillaRace"
+	},
+	{
+		"abr": "flensingclaw(n)",
+		"price": 167000,
+		"category": "Necron melee weapons",
+		"defname": "EMNC_FlensingClaw"
+	},
+	{
+		"abr": "forcestaffequinoxmkii",
+		"price": 933,
+		"category": "Melee weapons",
+		"defname": "GW_HOI_Melee_PsykerForceStaff"
+	},
+	{
+		"abr": "forcestave(aa)",
+		"price": 2850,
+		"category": "Adeptus astartes melee weapons",
+		"defname": "EMSM_ForceStave"
+	},
+	{
+		"abr": "forcestave(gk)",
+		"price": 2850,
+		"category": "Adeptus astartes melee weapons",
+		"defname": "EMSM_GKForceStave"
+	},
+	{
+		"abr": "forcestave(ig)",
+		"price": 2850,
+		"category": "Astra militarum melee weapons",
+		"defname": "EMIG_ForceStave"
+	},
+	{
+		"abr": "gaussblaster(n)",
+		"price": 83575,
+		"category": "Necron ranged weapons",
+		"defname": "EMNC_GaussBlaster"
+	},
+	{
+		"abr": "gausscannon(n)",
+		"price": 667042,
+		"category": "Necron ranged weapons",
+		"defname": "EMNC_GaussCannon"
+	},
+	{
+		"abr": "gaussdestructor(n)",
+		"price": 708725,
+		"category": "Necron ranged weapons",
+		"defname": "EMNC_GaussDestructor"
+	},
+	{
+		"abr": "gaussflayer(n)",
+		"price": 41875,
+		"category": "Necron ranged weapons",
+		"defname": "EMNC_GaussFlayer"
+	},
+	{
+		"abr": "gaussreaper(n)",
+		"price": 62767,
+		"category": "Necron ranged weapons",
+		"defname": "EMNC_GaussReaper"
+	},
+	{
+		"abr": "gene-seedfragment",
+		"price": 8333,
+		"category": "Archotech",
+		"defname": "EMSM_GeneSeed_Fragment"
+	},
+	{
+		"abr": "gene-seedfragment(blacktemplars)",
+		"price": 8333,
+		"category": "Archotech",
+		"defname": "EMSM_BTGeneSeed_Fragment"
+	},
+	{
+		"abr": "gene-seedfragment(bloodangels)",
+		"price": 8333,
+		"category": "Archotech",
+		"defname": "EMSM_BAGeneSeed_Fragment"
+	},
+	{
+		"abr": "gene-seedfragment(chaos)",
+		"price": 8333,
+		"category": "Archotech",
+		"defname": "EMCM_GeneSeed_Fragment"
+	},
+	{
+		"abr": "gene-seedfragment(crimsonfists)",
+		"price": 8333,
+		"category": "Archotech",
+		"defname": "EMSM_CFGeneSeed_Fragment"
+	},
+	{
+		"abr": "gene-seedfragment(deathguard)",
+		"price": 8333,
+		"category": "Archotech",
+		"defname": "EMDG_GeneSeed_Fragment"
+	},
+	{
+		"abr": "gene-seedfragment(emperor'schildren)",
+		"price": 8333,
+		"category": "Archotech",
+		"defname": "EMCM_ECGeneSeed_Fragment"
+	},
+	{
+		"abr": "gene-seedfragment(fallenangels)",
+		"price": 8333,
+		"category": "Archotech",
+		"defname": "EMCM_FAGeneSeed_Fragment"
+	},
+	{
+		"abr": "gene-seedfragment(imperialfists)",
+		"price": 8333,
+		"category": "Archotech",
+		"defname": "EMSM_IFGeneSeed_Fragment"
+	},
+	{
+		"abr": "gene-seedfragment(ironhands)",
+		"price": 8333,
+		"category": "Archotech",
+		"defname": "EMSM_IHGeneSeed_Fragment"
+	},
+	{
+		"abr": "gene-seedfragment(nightlords)",
+		"price": 8333,
+		"category": "Archotech",
+		"defname": "EMCM_NLGeneSeed_Fragment"
+	},
+	{
+		"abr": "gene-seedfragment(ravenguard)",
+		"price": 8333,
+		"category": "Archotech",
+		"defname": "EMSM_RGGeneSeed_Fragment"
+	},
+	{
+		"abr": "gene-seedfragment(salamanders)",
+		"price": 8333,
+		"category": "Archotech",
+		"defname": "EMSM_SAGeneSeed_Fragment"
+	},
+	{
+		"abr": "gene-seedfragment(spacewolves)",
+		"price": 8333,
+		"category": "Archotech",
+		"defname": "EMSM_SWGeneSeed_Fragment"
+	},
+	{
+		"abr": "gene-seedfragment(thousandsons)",
+		"price": 8333,
+		"category": "Archotech",
+		"defname": "EMCM_TSGeneSeed_Fragment"
+	},
+	{
+		"abr": "gene-seedfragment(whitescars)",
+		"price": 8333,
+		"category": "Archotech",
+		"defname": "EMSM_WSGeneSeed_Fragment"
+	},
+	{
+		"abr": "gene-seedfragment(worldeaters)",
+		"price": 8333,
+		"category": "Archotech",
+		"defname": "EMCM_WEGeneSeed_Fragment"
+	},
+	{
+		"abr": "genestealerpatriarch",
+		"price": -10,
+		"category": "Animal",
+		"defname": "EMGC_PatriarchVanillaRace"
+	},
+	{
+		"abr": "genestealerpatriarchmeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_EMGC_PatriarchVanillaRace"
+	},
+	{
+		"abr": "grav-cannon(aa)",
+		"price": 5850,
+		"category": "Adeptus astartes ranged weapons",
+		"defname": "EMSM_GravCannon"
+	},
+	{
+		"abr": "grav-gun(aa)",
+		"price": 4992,
+		"category": "Adeptus astartes ranged weapons",
+		"defname": "EMSM_GravGun"
+	},
+	{
+		"abr": "grav-gun(as)",
+		"price": 4992,
+		"category": "Adepta sororitas ranged weapons",
+		"defname": "EMAS_GravGun"
+	},
+	{
+		"abr": "grav-gun(dw)",
+		"price": 4992,
+		"category": "Deathwatch ranged weapons",
+		"defname": "EMSM_DWGravGun"
+	},
+	{
+		"abr": "grav-gun(igcolor)",
+		"price": 4992,
+		"category": "Astra militarum ranged weapons",
+		"defname": "EMIG_GravGun"
+	},
+	{
+		"abr": "grenadelauncher(gc)",
+		"price": 950,
+		"category": "Genestealer cult ranged weapons",
+		"defname": "EMGC_GrenadeLauncher"
+	},
+	{
+		"abr": "grenadelauncher(ig)",
+		"price": 950,
+		"category": "Astra militarum ranged weapons",
+		"defname": "EMIG_GrenadeLauncher"
+	},
+	{
+		"abr": "grenadelauncher(tg)",
+		"price": 950,
+		"category": "Chaos ranged weapons",
+		"defname": "EMCH_GrenadeLauncher"
+	},
+	{
+		"abr": "grot",
+		"price": -10,
+		"category": "Animal",
+		"defname": "EMOK_GrotVanillaRace"
+	},
+	{
+		"abr": "grotblasta(ok)",
+		"price": 2083,
+		"category": "Orks ranged weapons",
+		"defname": "EMOK_GrotBlasta"
+	},
+	{
+		"abr": "hallowedmace(as)",
+		"price": 3175,
+		"category": "Adepta sororitas melee weapons",
+		"defname": "EMAS_HallowedMace"
+	},
+	{
+		"abr": "handflamer(aa)",
+		"price": 2717,
+		"category": "Adeptus astartes ranged weapons",
+		"defname": "EMSM_HandFlamer"
+	},
+	{
+		"abr": "handflamer(gc)",
+		"price": 2717,
+		"category": "Genestealer cult ranged weapons",
+		"defname": "EMGC_HandFlamer"
+	},
+	{
+		"abr": "handflamer(ig)",
+		"price": 2717,
+		"category": "Astra militarum ranged weapons",
+		"defname": "EMIG_HandFlamer"
+	},
+	{
+		"abr": "harness,primarispsyker(ig)",
+		"price": 7308,
+		"category": "Astra militarum apparel",
+		"defname": "EMIG_PrimarisPsykerHarness"
+	},
+	{
+		"abr": "heavybolter(aa)",
+		"price": 4667,
+		"category": "Adeptus astartes ranged weapons",
+		"defname": "EMSM_HeavyBolter"
+	},
+	{
+		"abr": "heavybolter(as)",
+		"price": 4667,
+		"category": "Adepta sororitas ranged weapons",
+		"defname": "EMAS_HeavyBolter"
+	},
+	{
+		"abr": "heavybolter(cm)",
+		"price": 4667,
+		"category": "Chaos ranged weapons",
+		"defname": "EMCM_CUHeavyBolter"
+	},
+	{
+		"abr": "heavybolter(dw)",
+		"price": 4667,
+		"category": "Deathwatch ranged weapons",
+		"defname": "EMSM_DWHeavyBolter"
+	},
+	{
+		"abr": "heavybolter(gc)",
+		"price": 4667,
+		"category": "Genestealer cult ranged weapons",
+		"defname": "EMGC_HeavyBolter"
+	},
+	{
+		"abr": "heavybolter(ig)",
+		"price": 4667,
+		"category": "Astra militarum ranged weapons",
+		"defname": "EMIG_HeavyBolter"
+	},
+	{
+		"abr": "heavychainaxe(cm)",
+		"price": 3942,
+		"category": "Chaos melee weapons",
+		"defname": "EMCM_HeavyChainaxe"
+	},
+	{
+		"abr": "heavyclub(tg)",
+		"price": 2933,
+		"category": "Chaos melee weapons",
+		"defname": "EMCH_HeavyClub"
+	},
+	{
+		"abr": "heavyflamer(aa)",
+		"price": 3750,
+		"category": "Adeptus astartes ranged weapons",
+		"defname": "EMSM_HeavyFlamer"
+	},
+	{
+		"abr": "heavyflamer(cm)",
+		"price": 7625,
+		"category": "Chaos ranged weapons",
+		"defname": "EMCM_CUHeavyflamer"
+	},
+	{
+		"abr": "heavyflamer(ig)",
+		"price": 3750,
+		"category": "Astra militarum ranged weapons",
+		"defname": "EMIG_HeavyFlamer"
+	},
+	{
+		"abr": "heavyimprovisedweapon(gc)",
+		"price": 575,
+		"category": "Genestealer cult melee weapons",
+		"defname": "EMGC_HeavyImprovisedWeapon"
+	},
+	{
+		"abr": "heavyplasmaincinerator(aa)",
+		"price": 4992,
+		"category": "Adeptus astartes ranged weapons",
+		"defname": "EMSM_HeavyPlasmaIncinerator"
+	},
+	{
+		"abr": "heavypowerweapon(gc)",
+		"price": 3892,
+		"category": "Genestealer cult melee weapons",
+		"defname": "EMGC_HeavyPowerWeapon"
+	},
+	{
+		"abr": "heavyrocksaw(gc)",
+		"price": 2217,
+		"category": "Genestealer cult melee weapons",
+		"defname": "EMGC_HeavyRockSaw"
+	},
+	{
+		"abr": "heavystubber(gc)",
+		"price": 958,
+		"category": "Genestealer cult ranged weapons",
+		"defname": "EMGC_HeavyStubber"
+	},
+	{
+		"abr": "heavystubber(ig)",
+		"price": 958,
+		"category": "Astra militarum ranged weapons",
+		"defname": "EMIG_HeavyStubber"
+	},
+	{
+		"abr": "helbrutecombi-bolter(cm)",
+		"price": 4733,
+		"category": "Chaos ranged weapons",
+		"defname": "EMCM_DNCombiBolter"
+	},
+	{
+		"abr": "helbrutemulti-melta(aa)",
+		"price": 6950,
+		"category": "Chaos ranged weapons",
+		"defname": "EMCM_DNMultiMelta"
+	},
+	{
+		"abr": "helmetauger,left(ch)",
+		"price": 425,
+		"category": "Chaos headgear",
+		"defname": "EMCH_FlakHelmet_AugerEast"
+	},
+	{
+		"abr": "helmetauger,left(ig)",
+		"price": 425,
+		"category": "Astra militarum headgear",
+		"defname": "EMIG_FlakHelmet_AugerEast"
+	},
+	{
+		"abr": "helmetauger,right(ch)",
+		"price": 425,
+		"category": "Chaos headgear",
+		"defname": "EMCH_FlakHelmet_AugerWest"
+	},
+	{
+		"abr": "helmetauger,right(ig)",
+		"price": 425,
+		"category": "Astra militarum headgear",
+		"defname": "EMIG_FlakHelmet_AugerWest"
+	},
+	{
+		"abr": "helmethorn,brass(tg)",
+		"price": 19,
+		"category": "Chaos headgear",
+		"defname": "EMCH_FlakHelmet_Horn"
+	},
+	{
+		"abr": "helmethorn,rightside(ch)",
+		"price": 408,
+		"category": "Chaos headgear",
+		"defname": "EMCH_FlakHelmet_HornRight"
+	},
+	{
+		"abr": "helmetmouthtentacle,purple(tg)",
+		"price": 417,
+		"category": "Chaos headgear",
+		"defname": "EMCH_FlakHelmet_MouthTentaclePurple"
+	},
+	{
+		"abr": "helmetmouthtentacle,red(tg)",
+		"price": 417,
+		"category": "Chaos headgear",
+		"defname": "EMCH_FlakHelmet_MouthTentacleRed"
+	},
+	{
+		"abr": "helmetrebreather,black(tg)",
+		"price": 164,
+		"category": "Chaos headgear",
+		"defname": "EMCH_FlakHelmet_RebreatherBlack"
+	},
+	{
+		"abr": "helmetrebreather,white(tg)",
+		"price": 164,
+		"category": "Chaos headgear",
+		"defname": "EMCH_FlakHelmet_RebreatherWhite"
+	},
+	{
+		"abr": "helmettentacle,purple(ch)",
+		"price": 408,
+		"category": "Chaos headgear",
+		"defname": "EMCH_FlakHelmet_TentaclePurple"
+	},
+	{
+		"abr": "helmettentacle,red(ch)",
+		"price": 408,
+		"category": "Chaos headgear",
+		"defname": "EMCH_FlakHelmet_TentacleRed"
+	},
+	{
+		"abr": "hexmarkdestroyer",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "EMNC_HexmarkDestroyerVanillaRace"
+	},
+	{
+		"abr": "holypistol(as)",
+		"price": 2083,
+		"category": "Adepta sororitas ranged weapons",
+		"defname": "EMAS_ECHolyPistol"
+	},
+	{
+		"abr": "honorbadge,imperiallaurel(aa)",
+		"price": 942,
+		"category": "Adeptus astartes headgear",
+		"defname": "EMSM_AA_Headgear_Laurel"
+	},
+	{
+		"abr": "honorbadge,ironhalo(aa)",
+		"price": 8492,
+		"category": "Adeptus astartes headgear",
+		"defname": "EMSM_Wargear_IronHalo"
+	},
+	{
+		"abr": "hot-shotlaspistol(ig)",
+		"price": 467,
+		"category": "Astra militarum ranged weapons",
+		"defname": "EMIG_HotshotLasPistol"
+	},
+	{
+		"abr": "hot-shotlasgun(ig)",
+		"price": 858,
+		"category": "Astra militarum ranged weapons",
+		"defname": "EMIG_HotshotLasgun"
+	},
+	{
+		"abr": "hot-shotvolleygun(ig)",
+		"price": 1017,
+		"category": "Astra militarum ranged weapons",
+		"defname": "EMIG_HotshotVolleyGun"
+	},
+	{
+		"abr": "hyperphaseharvester(n)",
+		"price": 168075,
+		"category": "Necron melee weapons",
+		"defname": "EMNC_HyperphaseHarvester"
+	},
+	{
+		"abr": "hyperphasereap-blade(n)",
+		"price": 168075,
+		"category": "Necron melee weapons",
+		"defname": "EMNC_HyperphaseReapblade"
+	},
+	{
+		"abr": "hyperphasesword(n)",
+		"price": 167050,
+		"category": "Necron melee weapons",
+		"defname": "EMNC_HyperphaseSword"
+	},
+	{
+		"abr": "hyperphasethreshers(n)",
+		"price": 167458,
+		"category": "Necron melee weapons",
+		"defname": "EMNC_HyperphaseThreshers"
+	},
+	{
+		"abr": "immortal",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "EMNC_NecronImmortalVanillaRace"
+	},
+	{
+		"abr": "imperiumarmorcraftingtable",
+		"price": 758,
+		"category": "Production",
+		"defname": "EMIG_PowerArmorCustomization"
+	},
+	{
+		"abr": "infernopistol(aa)",
+		"price": 4400,
+		"category": "Adeptus astartes ranged weapons",
+		"defname": "EMSM_InfernoPistol"
+	},
+	{
+		"abr": "infernopistol(as)",
+		"price": 4400,
+		"category": "Adepta sororitas ranged weapons",
+		"defname": "EMAS_InfernoPistol"
+	},
+	{
+		"abr": "infernopistol(iq)",
+		"price": 4400,
+		"category": "Adepta sororitas ranged weapons",
+		"defname": "EMIQ_InfernoPistol"
+	},
+	{
+		"abr": "jacket(ok)",
+		"price": 293,
+		"category": "MIM WH40k apparel",
+		"defname": "EMOK_Jacket"
+	},
+	{
+		"abr": "kasrkinarmor(ig)",
+		"price": 2333,
+		"category": "Astra militarum armor",
+		"defname": "EMIG_KasrkinArmor"
+	},
+	{
+		"abr": "kasrkinhelmet(ig)",
+		"price": 1033,
+		"category": "Astra militarum headgear",
+		"defname": "EMIG_KasrkinHelmet"
+	},
+	{
+		"abr": "kasrkinpack(ig)",
+		"price": 1083,
+		"category": "Astra militarum wargears",
+		"defname": "EMIG_BackpackKasrkin"
+	},
+	{
+		"abr": "khornateflakarmor(ch)",
+		"price": 817,
+		"category": "Chaos armor",
+		"defname": "EMCH_FlakArmorKhorne"
+	},
+	{
+		"abr": "killsaw(ok)",
+		"price": 2558,
+		"category": "Orks melee weapons",
+		"defname": "EMOK_Killsaw"
+	},
+	{
+		"abr": "kombatbelt(ok)",
+		"price": 154,
+		"category": "MIM WH40k utility",
+		"defname": "EMOK_KombatBelt"
+	},
+	{
+		"abr": "kombatpants,boyz(ok)",
+		"price": 270,
+		"category": "MIM WH40k apparel",
+		"defname": "EMOK_KombatPants"
+	},
+	{
+		"abr": "kombatsuit(ok)",
+		"price": 517,
+		"category": "MIM WH40k apparel",
+		"defname": "EMOK_KombatSuit"
+	},
+	{
+		"abr": "kombi-burna(ok)",
+		"price": 4417,
+		"category": "Orks ranged weapons",
+		"defname": "EMOK_KombiBurna"
+	},
+	{
+		"abr": "kombi-rokkit(ok)",
+		"price": 4492,
+		"category": "Orks ranged weapons",
+		"defname": "EMOK_KombiRokkit"
+	},
+	{
+		"abr": "kustomgrotblasta(ok)",
+		"price": 2650,
+		"category": "Orks ranged weapons",
+		"defname": "EMOK_KustomGrotBlasta"
+	},
+	{
+		"abr": "kustommega-slugga(ok)",
+		"price": 4683,
+		"category": "Orks ranged weapons",
+		"defname": "EMOK_KustomMegaSlugga"
+	},
+	{
+		"abr": "kustomshoota(ok)",
+		"price": 3442,
+		"category": "Orks ranged weapons",
+		"defname": "EMOK_KustomShoota"
+	},
+	{
+		"abr": "lasfusil(aa)",
+		"price": 7033,
+		"category": "Adeptus astartes ranged weapons",
+		"defname": "EMSM_LasFusil"
+	},
+	{
+		"abr": "laspistol(ig)",
+		"price": 425,
+		"category": "Astra militarum ranged weapons",
+		"defname": "EMIG_LasPistol"
+	},
+	{
+		"abr": "laspistol(tg)",
+		"price": 425,
+		"category": "Chaos ranged weapons",
+		"defname": "EMCH_LasPistol"
+	},
+	{
+		"abr": "lascannon(aa)",
+		"price": 14208,
+		"category": "Adeptus astartes ranged weapons",
+		"defname": "EMSM_Lascannon"
+	},
+	{
+		"abr": "lascannon(cm)",
+		"price": 14208,
+		"category": "Chaos ranged weapons",
+		"defname": "EMCM_Lascannon"
+	},
+	{
+		"abr": "lascannon(ig)",
+		"price": 14208,
+		"category": "Astra militarum ranged weapons",
+		"defname": "EMIG_Lascannon"
+	},
+	{
+		"abr": "lasgun(ig)",
+		"price": 633,
+		"category": "Astra militarum ranged weapons",
+		"defname": "EMIG_Lasgun"
+	},
+	{
+		"abr": "lasgun(tg)",
+		"price": 633,
+		"category": "Chaos ranged weapons",
+		"defname": "EMCH_Lasgun"
+	},
+	{
+		"abr": "lightningclaw(aa)",
+		"price": 2133,
+		"category": "Adeptus astartes melee weapons",
+		"defname": "EMSM_LightningClaw"
+	},
+	{
+		"abr": "lightningclaw(cm)",
+		"price": 2133,
+		"category": "Imperium melee weapons",
+		"defname": "EMCH_LightningClaw"
+	},
+	{
+		"abr": "livingsaintsculpture",
+		"price": 21967,
+		"category": "Art",
+		"defname": "EMAS_SculptureGrandLivingSaint"
+	},
+	{
+		"abr": "lokhustdestroyer",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "EMNC_NecronLokhustDestroyerVanillaRace"
+	},
+	{
+		"abr": "lokhustheavydestroyer",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "EMNC_NecronLokhustHeavyDestroyerVanillaRace"
+	},
+	{
+		"abr": "lokhustlord",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "EMNC_NecronLokhustLordVanillaRace"
+	},
+	{
+		"abr": "longlas(ig)",
+		"price": 708,
+		"category": "Astra militarum ranged weapons",
+		"defname": "EMIG_LongLas"
+	},
+	{
+		"abr": "luciuspatternlasgun(ig)",
+		"price": 858,
+		"category": "Astra militarum ranged weapons",
+		"defname": "EMIG_Lasgun_Lucius"
+	},
+	{
+		"abr": "lychguard",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "EMNC_NecronLychguardVanillaRace"
+	},
+	{
+		"abr": "magazinepouch(boltpistol)",
+		"price": 265,
+		"category": "Wargears",
+		"defname": "EMWH_MagazinePouch_BoltPistol"
+	},
+	{
+		"abr": "magazinepouch(boltrifle)",
+		"price": 265,
+		"category": "Wargears",
+		"defname": "EMWH_MagazinePouch_BoltRifle"
+	},
+	{
+		"abr": "magazinepouch(boltgun)",
+		"price": 265,
+		"category": "Wargears",
+		"defname": "EMWH_MagazinePouch_Boltgun"
+	},
+	{
+		"abr": "magazinepouch(deathwatchshotgun)",
+		"price": 265,
+		"category": "Wargears",
+		"defname": "EMWH_MagazinePouch_DWShotGun"
+	},
+	{
+		"abr": "magazinepouch(heavyboltpistol)",
+		"price": 265,
+		"category": "Wargears",
+		"defname": "EMWH_MagazinePouch_HeavyBoltPistol"
+	},
+	{
+		"abr": "magazinepouch(heavybolter)",
+		"price": 265,
+		"category": "Wargears",
+		"defname": "EMWH_MagazinePouch_HeavyBolter"
+	},
+	{
+		"abr": "magazinepouch(stormbolter)",
+		"price": 265,
+		"category": "Wargears",
+		"defname": "EMWH_MagazinePouch_StormBolter"
+	},
+	{
+		"abr": "markofkhorne",
+		"price": 275,
+		"category": "Art",
+		"defname": "EMCH_SculptureSmallMarkofKhorne"
+	},
+	{
+		"abr": "markofnurgle",
+		"price": 275,
+		"category": "Art",
+		"defname": "EMCH_SculptureSmallMarkofNurgle"
+	},
+	{
+		"abr": "markofslaanesh",
+		"price": 275,
+		"category": "Art",
+		"defname": "EMCH_SculptureSmallMarkofSlaanesh"
+	},
+	{
+		"abr": "markoftzeentch",
+		"price": 275,
+		"category": "Art",
+		"defname": "EMCH_SculptureSmallMarkofTzeentch"
+	},
+	{
+		"abr": "markofundivided",
+		"price": 275,
+		"category": "Art",
+		"defname": "EMCH_SculptureSmallMarkofUndivided"
+	},
+	{
+		"abr": "meltagun(aa)",
+		"price": 5508,
+		"category": "Adeptus astartes ranged weapons",
+		"defname": "EMSM_Meltagun"
+	},
+	{
+		"abr": "meltagun(as)",
+		"price": 5508,
+		"category": "Adepta sororitas ranged weapons",
+		"defname": "EMAS_Meltagun"
+	},
+	{
+		"abr": "meltagun(cm)",
+		"price": 5508,
+		"category": "Chaos ranged weapons",
+		"defname": "EMCM_CUMeltagun"
+	},
+	{
+		"abr": "meltagun(dw)",
+		"price": 5508,
+		"category": "Adeptus astartes ranged weapons",
+		"defname": "EMSM_DWMeltagun"
+	},
+	{
+		"abr": "meltagun(ig)",
+		"price": 5508,
+		"category": "Astra militarum ranged weapons",
+		"defname": "EMIG_Meltagun"
+	},
+	{
+		"abr": "meltagun(in)",
+		"price": 5508,
+		"category": "Astra militarum ranged weapons",
+		"defname": "EMIN_Meltagun"
+	},
+	{
+		"abr": "mindshacklescarab",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "EMNC_MindshackleScarabVanillaRace"
+	},
+	{
+		"abr": "mininglaser(gc)",
+		"price": 14208,
+		"category": "Genestealer cult ranged weapons",
+		"defname": "EMGC_MiningLaserBiotech"
+	},
+	{
+		"abr": "mininglaser(gc)",
+		"price": 14208,
+		"category": "Genestealer cult ranged weapons",
+		"defname": "EMGC_MiningLaserVWELaser"
+	},
+	{
+		"abr": "ministorumcombi-flamer(as)",
+		"price": 4417,
+		"category": "Adepta sororitas ranged weapons",
+		"defname": "EMAS_CombiFlamer"
+	},
+	{
+		"abr": "ministorumflamer(as)",
+		"price": 3192,
+		"category": "Adepta sororitas ranged weapons",
+		"defname": "EMAS_MinistorumFlamer"
+	},
+	{
+		"abr": "ministorumhandflamer(as)",
+		"price": 2717,
+		"category": "Adepta sororitas ranged weapons",
+		"defname": "EMAS_MinistorumHandFlamer"
+	},
+	{
+		"abr": "ministorumheavyflamer(as)",
+		"price": 3750,
+		"category": "Adepta sororitas ranged weapons",
+		"defname": "EMAS_MinistorumHeavyFlamer"
+	},
+	{
+		"abr": "ministorumshotgun(as)",
+		"price": 675,
+		"category": "Adepta sororitas ranged weapons",
+		"defname": "EMAS_ECShotgun"
+	},
+	{
+		"abr": "missilelauncher(aa)",
+		"price": 1908,
+		"category": "Adeptus astartes ranged weapons",
+		"defname": "EMSM_MissileLauncher"
+	},
+	{
+		"abr": "missilelauncher(cm)",
+		"price": 1908,
+		"category": "Chaos ranged weapons",
+		"defname": "EMCM_MissileLauncher"
+	},
+	{
+		"abr": "missilelauncher(ig)",
+		"price": 1908,
+		"category": "Astra militarum ranged weapons",
+		"defname": "EMIG_MissileLauncher"
+	},
+	{
+		"abr": "mortar(ig)",
+		"price": 2500,
+		"category": "Astra militarum ranged weapons",
+		"defname": "EMIG_Mortar"
+	},
+	{
+		"abr": "multi-melta(ig)",
+		"price": 6950,
+		"category": "Astra militarum ranged weapons",
+		"defname": "EMIG_MultiMelta"
+	},
+	{
+		"abr": "navishatchet(in)",
+		"price": 633,
+		"category": "Astra militarum melee weapons",
+		"defname": "EMIN_NavisHatchet"
+	},
+	{
+		"abr": "navisheavyshotgun(in)",
+		"price": 1117,
+		"category": "Astra militarum ranged weapons",
+		"defname": "EMIN_NavisHeavyShotgun"
+	},
+	{
+		"abr": "navislas-volley(in)",
+		"price": 1017,
+		"category": "Astra militarum ranged weapons",
+		"defname": "EMIN_NavisLasVolley"
+	},
+	{
+		"abr": "navispoweraxe(in)",
+		"price": 3933,
+		"category": "Astra militarum melee weapons",
+		"defname": "EMIN_NavisPowerAxe"
+	},
+	{
+		"abr": "navisshotgun(in)",
+		"price": 675,
+		"category": "Astra militarum ranged weapons",
+		"defname": "EMIN_NavisShotgun"
+	},
+	{
+		"abr": "necrodermis",
+		"price": 833,
+		"category": "Raw resources",
+		"defname": "EMNC_Necrodermis"
+	},
+	{
+		"abr": "necronlord",
+		"price": -10,
+		"category": "Animal",
+		"defname": "EMNC_NecronLordVanillaRace"
+	},
+	{
+		"abr": "necronoverlord",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "EMNC_NecronOverLordVanillaRace"
+	},
+	{
+		"abr": "necronsmelter",
+		"price": 717,
+		"category": "Production",
+		"defname": "EMNC_NecronSmelter"
+	},
+	{
+		"abr": "necronwarrior",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "EMNC_NecronWarriorVanillaRace"
+	},
+	{
+		"abr": "neo-volkitepistol(aa)",
+		"price": 3867,
+		"category": "Adeptus astartes ranged weapons",
+		"defname": "EMSM_NeovolkitePistol"
+	},
+	{
+		"abr": "neo-volkitepistol(dw)",
+		"price": 3867,
+		"category": "Adeptus astartes ranged weapons",
+		"defname": "EMSM_DWNeovolkitePistol"
+	},
+	{
+		"abr": "neuralforcefieldintegrator",
+		"price": 8000,
+		"category": "Bionic",
+		"defname": "ForcefieldIntegrator"
+	},
+	{
+		"abr": "neuralwhip(as)",
+		"price": 975,
+		"category": "Adepta sororitas melee weapons",
+		"defname": "EMAS_NeuralWhip"
+	},
+	{
+		"abr": "omnissianpoweraxe(aa)",
+		"price": 3167,
+		"category": "Imperium melee weapons",
+		"defname": "EMAS_OmnissianAxe"
+	},
+	{
+		"abr": "orkboyz",
+		"price": -10,
+		"category": "Animal",
+		"defname": "EMOK_OrkBoyzVanillaRace"
+	},
+	{
+		"abr": "orkleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_EMOK_Ork"
+	},
+	{
+		"abr": "orkmek",
+		"price": -10,
+		"category": "Animal",
+		"defname": "EMOK_OrkMekVanillaRace"
+	},
+	{
+		"abr": "orkpainboy",
+		"price": -10,
+		"category": "Animal",
+		"defname": "EMOK_OrkPainboyVanillaRace"
+	},
+	{
+		"abr": "orkruntherd",
+		"price": -10,
+		"category": "Animal",
+		"defname": "EMOK_OrkRuntherdVanillaRace"
+	},
+	{
+		"abr": "orkwarboss",
+		"price": -10,
+		"category": "Animal",
+		"defname": "EMOK_OrkWarbossVanillaRace"
+	},
+	{
+		"abr": "orkweirdboy",
+		"price": -10,
+		"category": "Animal",
+		"defname": "EMOK_OrkWeirdboyVanillaRace"
+	},
+	{
+		"abr": "orkoidmeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_EMOK_Orkoid"
+	},
+	{
+		"abr": "orkoidspore",
+		"price": 12,
+		"category": "Eggs (fert.)",
+		"defname": "EMOK_Spore"
+	},
+	{
+		"abr": "overlord'sblade(n)",
+		"price": 167517,
+		"category": "Necron melee weapons",
+		"defname": "EMNC_HyperphaseGlaive"
+	},
+	{
+		"abr": "palatineblade(as)",
+		"price": 2283,
+		"category": "Adepta sororitas melee weapons",
+		"defname": "EMAS_PalatineBlade"
+	},
+	{
+		"abr": "particlebeamer(n)",
+		"price": 125250,
+		"category": "Necron ranged weapons",
+		"defname": "EMNC_ParticleBeamer"
+	},
+	{
+		"abr": "particlecaster(n)",
+		"price": 500183,
+		"category": "Necron ranged weapons",
+		"defname": "EMNC_ParticleCaster"
+	},
+	{
+		"abr": "penitenteviscerator(as)",
+		"price": 3933,
+		"category": "Adepta sororitas melee weapons",
+		"defname": "EMAS_PenitentEviscerator"
+	},
+	{
+		"abr": "plasmagun(aa)",
+		"price": 3825,
+		"category": "Adeptus astartes ranged weapons",
+		"defname": "EMSM_PlasmaGun"
+	},
+	{
+		"abr": "plasmagun(as)",
+		"price": 3825,
+		"category": "Adepta sororitas ranged weapons",
+		"defname": "EMAS_PlasmaGun"
+	},
+	{
+		"abr": "plasmagun(cm)",
+		"price": 3825,
+		"category": "Chaos ranged weapons",
+		"defname": "EMCM_CUPlasmaGun"
+	},
+	{
+		"abr": "plasmagun(dw)",
+		"price": 3825,
+		"category": "Deathwatch ranged weapons",
+		"defname": "EMSM_DWPlasmaGun"
+	},
+	{
+		"abr": "plasmagun(ig)",
+		"price": 3825,
+		"category": "Astra militarum ranged weapons",
+		"defname": "EMIG_PlasmaGun"
+	},
+	{
+		"abr": "plasmagun(in)",
+		"price": 3825,
+		"category": "Astra militarum ranged weapons",
+		"defname": "EMIN_PlasmaGun"
+	},
+	{
+		"abr": "plasmaincinerator(aa)",
+		"price": 4367,
+		"category": "Adeptus astartes ranged weapons",
+		"defname": "EMSM_PlasmaIncinerator"
+	},
+	{
+		"abr": "plasmapistol(aa)",
+		"price": 3508,
+		"category": "Adeptus astartes ranged weapons",
+		"defname": "EMSM_PlasmaPistol"
+	},
+	{
+		"abr": "plasmapistol(as)",
+		"price": 3508,
+		"category": "Adepta sororitas ranged weapons",
+		"defname": "EMAS_PlasmaPistol"
+	},
+	{
+		"abr": "plasmapistol(cm)",
+		"price": 3508,
+		"category": "Chaos ranged weapons",
+		"defname": "EMCM_CUPlasmaPistol"
+	},
+	{
+		"abr": "plasmapistol(dw)",
+		"price": 3508,
+		"category": "Deathwatch ranged weapons",
+		"defname": "EMSM_DWPlasmaPistol"
+	},
+	{
+		"abr": "plasmapistol(gc)",
+		"price": 3508,
+		"category": "Genestealer cult ranged weapons",
+		"defname": "EMGC_PlasmaPistol"
+	},
+	{
+		"abr": "plasmapistol(ig)",
+		"price": 3508,
+		"category": "Astra militarum ranged weapons",
+		"defname": "EMIG_PlasmaPistol"
+	},
+	{
+		"abr": "plasmancer",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "EMNC_NecronPlasmancerVanillaRace"
+	},
+	{
+		"abr": "plasmiclance(n)",
+		"price": 167758,
+		"category": "Necron melee weapons",
+		"defname": "EMNC_PlasmicLance"
+	},
+	{
+		"abr": "pole,dakka(ok)",
+		"price": 658,
+		"category": "MIM WH40k utility",
+		"defname": "EMOK_Pole_Dakka"
+	},
+	{
+		"abr": "pole,skull(ok)",
+		"price": 658,
+		"category": "MIM WH40k utility",
+		"defname": "EMOK_Pole_Skull"
+	},
+	{
+		"abr": "powerarmorinnerframe(im)",
+		"price": 1708,
+		"category": "MIM WH40k apparel",
+		"defname": "EMWH_PowerArmorInnerFrame"
+	},
+	{
+		"abr": "powerfist(aa)",
+		"price": 2850,
+		"category": "Adeptus astartes melee weapons",
+		"defname": "EMSM_PowerFist"
+	},
+	{
+		"abr": "powerfist(cm)",
+		"price": 2850,
+		"category": "Chaos melee weapons",
+		"defname": "EMCM_PowerFist"
+	},
+	{
+		"abr": "powerfist(ig)",
+		"price": 2850,
+		"category": "Astra militarum melee weapons",
+		"defname": "EMIG_PowerFist"
+	},
+	{
+		"abr": "powerfist(tg)",
+		"price": 2850,
+		"category": "Chaos melee weapons",
+		"defname": "EMCH_TGPowerFist"
+	},
+	{
+		"abr": "powerhelmetauger,apothecary(aa)",
+		"price": 2517,
+		"category": "Adeptus astartes headgear",
+		"defname": "EMSM_AA_Auger_ApothecaryEastA"
+	},
+	{
+		"abr": "powerhelmetauger,apothecary(aa)",
+		"price": 2517,
+		"category": "Adeptus astartes headgear",
+		"defname": "EMSM_AA_Auger_ApothecaryWestA"
+	},
+	{
+		"abr": "powerhelmetauger,devastator(aa)",
+		"price": 2417,
+		"category": "Adeptus astartes headgear",
+		"defname": "EMSM_AA_Auger_DevastatorEastA"
+	},
+	{
+		"abr": "powerhelmetauger,devastator(aa)",
+		"price": 2417,
+		"category": "Adeptus astartes headgear",
+		"defname": "EMSM_AA_Auger_DevastatorWestA"
+	},
+	{
+		"abr": "powerhelmetauger,devastator(aa)",
+		"price": 2417,
+		"category": "Adeptus astartes headgear",
+		"defname": "EMSM_AA_Auger_DevastatorEastB"
+	},
+	{
+		"abr": "powerhelmetauger,devastator(aa)",
+		"price": 2417,
+		"category": "Adeptus astartes headgear",
+		"defname": "EMSM_AA_Auger_DevastatorWestB"
+	},
+	{
+		"abr": "powerhelmetauger,devastator(aa)",
+		"price": 2417,
+		"category": "Adeptus astartes headgear",
+		"defname": "EMSM_AA_Auger_DevastatorEastC"
+	},
+	{
+		"abr": "powerhelmetauger,devastator(aa)",
+		"price": 2417,
+		"category": "Adeptus astartes headgear",
+		"defname": "EMSM_AA_Auger_DevastatorWestC"
+	},
+	{
+		"abr": "powerhelmetheadset(l)",
+		"price": 983,
+		"category": "Adeptus astartes headgear",
+		"defname": "EMSM_AA_Headgear_HeadsetWestA"
+	},
+	{
+		"abr": "powerhelmetheadset(r)",
+		"price": 983,
+		"category": "Adeptus astartes headgear",
+		"defname": "EMSM_AA_Headgear_HeadsetEastA"
+	},
+	{
+		"abr": "powerklaw(ok)",
+		"price": 3892,
+		"category": "Orks melee weapons",
+		"defname": "EMOK_PowerKlaw"
+	},
+	{
+		"abr": "powerklaw(ok)",
+		"price": 4575,
+		"category": "Orks melee weapons",
+		"defname": "EMOK_PowerKlawPainboy"
+	},
+	{
+		"abr": "powerpick(gc)",
+		"price": 1783,
+		"category": "Genestealer cult melee weapons",
+		"defname": "EMGC_PowerPick"
+	},
+	{
+		"abr": "powersnappa(ok)",
+		"price": 3533,
+		"category": "Orks melee weapons",
+		"defname": "EMOK_PowerSnappa"
+	},
+	{
+		"abr": "powersword(aa)",
+		"price": 2150,
+		"category": "Adeptus astartes melee weapons",
+		"defname": "EMSM_PowerSword"
+	},
+	{
+		"abr": "powersword(as)",
+		"price": 2150,
+		"category": "Adepta sororitas melee weapons",
+		"defname": "EMEC_PowerSword"
+	},
+	{
+		"abr": "powersword(cm)",
+		"price": 2150,
+		"category": "Chaos melee weapons",
+		"defname": "EMCM_CUPowerSword"
+	},
+	{
+		"abr": "powersword(ig)",
+		"price": 2150,
+		"category": "Astra militarum melee weapons",
+		"defname": "EMIG_PowerSword"
+	},
+	{
+		"abr": "powersword(in)",
+		"price": 2150,
+		"category": "Astra militarum melee weapons",
+		"defname": "EMIN_PowerSword"
+	},
+	{
+		"abr": "powersword(tg)",
+		"price": 2150,
+		"category": "Chaos melee weapons",
+		"defname": "EMCH_PowerSword"
+	},
+	{
+		"abr": "psychichood(aa)",
+		"price": 10000,
+		"category": "Adeptus astartes headgear",
+		"defname": "EMSM_AA_PsychicHood"
+	},
+	{
+		"abr": "purestraingenestealer",
+		"price": -10,
+		"category": "Animal",
+		"defname": "EMGC_PurestrainGenestealerVanillaRace"
+	},
+	{
+		"abr": "purestraingenestealermeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_EMGC_PurestrainGenestealerVanillaRace"
+	},
+	{
+		"abr": "raworkoidfungus",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "EMOK_RawOrkoidFungus"
+	},
+	{
+		"abr": "reanimationprotocol",
+		"price": 2500,
+		"category": "Items",
+		"defname": "EMNC_NecronProtocol_ReanimationProtocol"
+	},
+	{
+		"abr": "reaperautocannon(cm)",
+		"price": 8025,
+		"category": "Chaos ranged weapons",
+		"defname": "EMCM_CUReaperAutocannon"
+	},
+	{
+		"abr": "reaperchaincannon(cm)",
+		"price": 9408,
+		"category": "Chaos ranged weapons",
+		"defname": "EMCM_CUReaperChaincannon"
+	},
+	{
+		"abr": "reductorpistol(aa)",
+		"price": 6817,
+		"category": "Adeptus astartes ranged weapons",
+		"defname": "EMSM_ReductorPistol"
+	},
+	{
+		"abr": "relicshield",
+		"price": 14825,
+		"category": "Shields",
+		"defname": "EMSM_RelicShield"
+	},
+	{
+		"abr": "rillietann",
+		"price": 5000,
+		"category": "Animal",
+		"defname": "EMAE_RillietannVanillaRace"
+	},
+	{
+		"abr": "rippergun(ig)",
+		"price": 1000,
+		"category": "Astra militarum ranged weapons",
+		"defname": "EMIG_RipperGun"
+	},
+	{
+		"abr": "robe,ministorumpriest(ec)",
+		"price": 767,
+		"category": "MIM WH40k apparel",
+		"defname": "EMIM_ECRobe_MinistorumPriest"
+	},
+	{
+		"abr": "rodofcovenant(n)",
+		"price": 167758,
+		"category": "Necron melee weapons",
+		"defname": "EMNC_RodofCovenant"
+	},
+	{
+		"abr": "rokkitlauncha(ok)",
+		"price": 1750,
+		"category": "Orks ranged weapons",
+		"defname": "EMOK_RokkitLauncha"
+	},
+	{
+		"abr": "rokkitpistol(ok)",
+		"price": 1442,
+		"category": "Orks ranged weapons",
+		"defname": "EMOK_RokkitPistol"
+	},
+	{
+		"abr": "rosarius(aa)",
+		"price": 8533,
+		"category": "Adeptus astartes wargears",
+		"defname": "EMSM_Wargear_Rosarius"
+	},
+	{
+		"abr": "rubiconprimarisbasement",
+		"price": 400,
+		"category": "Archotech",
+		"defname": "EMSM_GeneSeed_Rubicon"
+	},
+	{
+		"abr": "rubiconprimarisfragment",
+		"price": 8333,
+		"category": "Archotech",
+		"defname": "EMSM_GeneSeed_Fragment_Rubicon"
+	},
+	{
+		"abr": "runtherdtool(ok)",
+		"price": 358,
+		"category": "Orks melee weapons",
+		"defname": "EMOK_RuntherdTool"
+	},
+	{
+		"abr": "sacresantshield",
+		"price": 4992,
+		"category": "Shields",
+		"defname": "EMAS_SacresantShield"
+	},
+	{
+		"abr": "schematic(adeptusastartes)",
+		"price": 250,
+		"category": "Books",
+		"defname": "EMWH_Schematic_AA"
+	},
+	{
+		"abr": "schematic(chaosspacemarine)",
+		"price": 250,
+		"category": "Books",
+		"defname": "EMWH_Schematic_CSM"
+	},
+	{
+		"abr": "schematic(genestealercult)",
+		"price": 250,
+		"category": "Books",
+		"defname": "EMWH_Schematic_GC"
+	},
+	{
+		"abr": "schematic(imperiumofman)",
+		"price": 250,
+		"category": "Books",
+		"defname": "EMWH_Schematic_IM"
+	},
+	{
+		"abr": "schematic(necron)",
+		"price": 250,
+		"category": "Books",
+		"defname": "EMWH_Schematic_NC"
+	},
+	{
+		"abr": "schematic(orkz)",
+		"price": 250,
+		"category": "Books",
+		"defname": "EMWH_Schematic_OK"
+	},
+	{
+		"abr": "seismiccannon(gc)",
+		"price": 4858,
+		"category": "Genestealer cult ranged weapons",
+		"defname": "EMGC_SeismicCannon"
+	},
+	{
+		"abr": "shellcarrier(mortar)",
+		"price": 892,
+		"category": "Wargears",
+		"defname": "EMWH_MagazinePouch_Mortar"
+	},
+	{
+		"abr": "shoota(ok)",
+		"price": 2425,
+		"category": "Orks ranged weapons",
+		"defname": "EMOK_Shoota"
+	},
+	{
+		"abr": "shotgun(ig)",
+		"price": 675,
+		"category": "Astra militarum ranged weapons",
+		"defname": "EMIG_Shotgun"
+	},
+	{
+		"abr": "shotgun(tg)",
+		"price": 675,
+		"category": "Chaos ranged weapons",
+		"defname": "EMCH_Shotgun"
+	},
+	{
+		"abr": "skinningblade(tg)",
+		"price": 850,
+		"category": "Chaos melee weapons",
+		"defname": "EMCH_Skinningblade"
+	},
+	{
+		"abr": "skorpekhdestroyer",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "EMNC_NecronSkorpekhDestroyerVanillaRace"
+	},
+	{
+		"abr": "skorpekhlord",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "EMNC_NecronSkorpekhLordVanillaRace"
+	},
+	{
+		"abr": "slugga(ok)",
+		"price": 1733,
+		"category": "Orks ranged weapons",
+		"defname": "EMOK_Slugga"
+	},
+	{
+		"abr": "smokeleafpartypack",
+		"price": 167,
+		"category": "Armor",
+		"defname": "Apparel_PackSmokeleaf"
+	},
+	{
+		"abr": "snazzgun(ok)",
+		"price": 4108,
+		"category": "Orks ranged weapons",
+		"defname": "EMOK_Snazzgun"
+	},
+	{
+		"abr": "snotling",
+		"price": 250,
+		"category": "Animals",
+		"defname": "EMWH_Snotling"
+	},
+	{
+		"abr": "sororitasarmorcraftingtable",
+		"price": 758,
+		"category": "Production",
+		"defname": "EMAS_PowerArmorCustomization"
+	},
+	{
+		"abr": "sororitaslilysculpture",
+		"price": 275,
+		"category": "Art",
+		"defname": "EMAS_SculptureSmallLily"
+	},
+	{
+		"abr": "spacemarinearmorcraftingtable",
+		"price": 758,
+		"category": "Production",
+		"defname": "EMSM_PowerArmorCustomization"
+	},
+	{
+		"abr": "spearofthefaithful(as)",
+		"price": 2125,
+		"category": "Adepta sororitas melee weapons",
+		"defname": "EMAS_SpearoftheFaithful"
+	},
+	{
+		"abr": "speshulkommandoshoota(ok)",
+		"price": 3817,
+		"category": "Orks ranged weapons",
+		"defname": "EMOK_SpeshulKommandoShoota"
+	},
+	{
+		"abr": "spiritstone",
+		"price": 3333,
+		"category": "Aeldari spirit stones",
+		"defname": "EMAE_SpiritStone"
+	},
+	{
+		"abr": "squig",
+		"price": 333,
+		"category": "Animals",
+		"defname": "EMOK_Squig"
+	},
+	{
+		"abr": "squighog",
+		"price": 833,
+		"category": "Animals",
+		"defname": "EMOK_SquigSmasha"
+	},
+	{
+		"abr": "staffoflight(n)",
+		"price": 167758,
+		"category": "Necron melee weapons",
+		"defname": "EMNC_StaffofLight"
+	},
+	{
+		"abr": "starofchaos(cultist)",
+		"price": 275,
+		"category": "Art",
+		"defname": "EMCH_SculptureSmallStarofChaos"
+	},
+	{
+		"abr": "stikka(ok)",
+		"price": 2600,
+		"category": "Orks melee weapons",
+		"defname": "EMOK_Stikka"
+	},
+	{
+		"abr": "stormbolter(aa)",
+		"price": 4733,
+		"category": "Adeptus astartes ranged weapons",
+		"defname": "EMSM_StormBolter"
+	},
+	{
+		"abr": "stormbolter(ig)",
+		"price": 4733,
+		"category": "Astra militarum ranged weapons",
+		"defname": "EMIG_StormBolter"
+	},
+	{
+		"abr": "stormshield",
+		"price": 11875,
+		"category": "Shields",
+		"defname": "EMSM_StormShield"
+	},
+	{
+		"abr": "synapticdisintegrator(n)",
+		"price": 583633,
+		"category": "Necron ranged weapons",
+		"defname": "EMNC_SynapticDisintegrator"
+	},
+	{
+		"abr": "tachyonarrow(n)",
+		"price": 12500,
+		"category": "Necron ranged weapons",
+		"defname": "EMNC_TachyonArrow"
+	},
+	{
+		"abr": "tankhammer(ok)",
+		"price": 3558,
+		"category": "Orks melee weapons",
+		"defname": "EMOK_Tankhammer"
+	},
+	{
+		"abr": "techprint(gaussweapons(nc))",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint_EMNC_Necron_Tech_Weapons_Gauss"
+	},
+	{
+		"abr": "techprint(hyperphaseweapons(nc))",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint_EMNC_Necron_Tech_Weapons_Hyperphase"
+	},
+	{
+		"abr": "techprint(necrodermis(nc))",
+		"price": 33333,
+		"category": "Techprints",
+		"defname": "Techprint_EMNC_Necron_Tech_Production_Necrodermis"
+	},
+	{
+		"abr": "techprint(primaryawakeners(nc))",
+		"price": 33333,
+		"category": "Techprints",
+		"defname": "Techprint_EMNC_Necron_Tech_Base_PrimaryAwakeners"
+	},
+	{
+		"abr": "teef",
+		"price": 8,
+		"category": "Misc",
+		"defname": "EMOK_Teef"
+	},
+	{
+		"abr": "tempestusarmor,blue(ig)",
+		"price": 2333,
+		"category": "Astra militarum armor",
+		"defname": "EMIG_TempestusArmor_Blue"
+	},
+	{
+		"abr": "tempestusarmor,green(ig)",
+		"price": 2333,
+		"category": "Astra militarum armor",
+		"defname": "EMIG_TempestusArmor_Green"
+	},
+	{
+		"abr": "tempestusarmor,red(iq)",
+		"price": 2333,
+		"category": "Astra militarum armor",
+		"defname": "EMIQ_TempestusArmor_Red"
+	},
+	{
+		"abr": "tempestushelmet,blue(ig)",
+		"price": 1033,
+		"category": "Astra militarum headgear",
+		"defname": "EMIG_TempestusHelmet_Blue"
+	},
+	{
+		"abr": "tempestushelmet,green(ig)",
+		"price": 1033,
+		"category": "Astra militarum headgear",
+		"defname": "EMIG_TempestusHelmet_Green"
+	},
+	{
+		"abr": "tempestushelmet,red(iq)",
+		"price": 1033,
+		"category": "Astra militarum headgear",
+		"defname": "EMIQ_TempestusHelmet_Red"
+	},
+	{
+		"abr": "tempestusomnishield,blue(ig)",
+		"price": 708,
+		"category": "Astra militarum headgear",
+		"defname": "EMIG_TempestusHelmet_OmnishieldBlue"
+	},
+	{
+		"abr": "tempestusomnishield,green(ig)",
+		"price": 708,
+		"category": "Astra militarum headgear",
+		"defname": "EMIG_TempestusHelmet_OmnishieldGreen"
+	},
+	{
+		"abr": "tempestusomnishield,red(iq)",
+		"price": 708,
+		"category": "Astra militarum headgear",
+		"defname": "EMIQ_TempestusHelmet_OmnishieldGreen"
+	},
+	{
+		"abr": "tempestuspack,blue(ig)",
+		"price": 1083,
+		"category": "Astra militarum wargears",
+		"defname": "EMIG_BackpackTempestus_Blue"
+	},
+	{
+		"abr": "tempestuspack,green(ig)",
+		"price": 1083,
+		"category": "Astra militarum wargears",
+		"defname": "EMIG_BackpackTempestus_Green"
+	},
+	{
+		"abr": "tempestuspack,red(iq)",
+		"price": 1083,
+		"category": "Astra militarum wargears",
+		"defname": "EMIQ_BackpackTempestus_Red"
+	},
+	{
+		"abr": "traktorblasta(ok)",
+		"price": 17975,
+		"category": "Orks ranged weapons",
+		"defname": "EMOK_TraktorBlasta"
+	},
+	{
+		"abr": "trenchsweepershield(tg)",
+		"price": 272,
+		"category": "Shields",
+		"defname": "EMCH_TrenchSweeperShield"
+	},
+	{
+		"abr": "triarchpraetorian",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "EMNC_NecronTriarchPraetorianVanillaRace"
+	},
+	{
+		"abr": "tunic,fraterismilitia(ec)",
+		"price": 187,
+		"category": "Astra militarum apparel",
+		"defname": "EMIM_ECFatigue_FraterisMilitia"
+	},
+	{
+		"abr": "twinboltgun(dw)",
+		"price": 5200,
+		"category": "Deathwatch ranged weapons",
+		"defname": "EMSM_DWStormBolter"
+	},
+	{
+		"abr": "twinheavybolter(cm)",
+		"price": 8867,
+		"category": "Chaos ranged weapons",
+		"defname": "EMCM_TwinHeavyBolter"
+	},
+	{
+		"abr": "twinlascannon(cm)",
+		"price": 17050,
+		"category": "Chaos ranged weapons",
+		"defname": "EMCM_DNLascannon"
+	},
+	{
+		"abr": "tzeentchianshield(tg)",
+		"price": 272,
+		"category": "Shields",
+		"defname": "EMCH_TzeentchianShield"
+	},
+	{
+		"abr": "'ugechoppa(ok)",
+		"price": 3050,
+		"category": "Orks melee weapons",
+		"defname": "EMOK_UgeChoppa"
+	},
+	{
+		"abr": "vigilspear(dw)",
+		"price": 2150,
+		"category": "Deathwatch melee weapons",
+		"defname": "EMSM_VigilSpear"
+	},
+	{
+		"abr": "voidarmor(rt)",
+		"price": 2867,
+		"category": "Astra militarum armor",
+		"defname": "EMRT_VoidArmor_Voidsmen"
+	},
+	{
+		"abr": "voidarmor,navybreachers(in)",
+		"price": 2867,
+		"category": "Astra militarum armor",
+		"defname": "EMIN_VoidArmor_Breachers"
+	},
+	{
+		"abr": "voidarmor,solarauxilia(ig)",
+		"price": 2867,
+		"category": "Astra militarum armor",
+		"defname": "EMIG_VoidArmor_Green"
+	},
+	{
+		"abr": "voidhelmet(rt)",
+		"price": 1467,
+		"category": "Astra militarum headgear",
+		"defname": "EMRT_VoidHelmet_Voidsmen"
+	},
+	{
+		"abr": "voidhelmet,conscript(ig)",
+		"price": 1467,
+		"category": "Astra militarum headgear",
+		"defname": "EMIG_VoidHelmet_CG"
+	},
+	{
+		"abr": "voidhelmet,enlisted(in)",
+		"price": 1467,
+		"category": "Astra militarum headgear",
+		"defname": "EMIN_VoidHelmet_E"
+	},
+	{
+		"abr": "voidhelmet,juniorofficer(ig)",
+		"price": 1550,
+		"category": "Astra militarum headgear",
+		"defname": "EMIG_VoidHelmet_JOG"
+	},
+	{
+		"abr": "voidhelmet,juniorofficer(ig)",
+		"price": 1550,
+		"category": "Astra militarum headgear",
+		"defname": "EMIN_VoidHelmet_JOG"
+	},
+	{
+		"abr": "voidhelmet,seniorofficer(ig)",
+		"price": 1633,
+		"category": "Astra militarum headgear",
+		"defname": "EMIG_VoidHelmet_SOG"
+	},
+	{
+		"abr": "voidhelmet,seniorofficer(ig)",
+		"price": 1633,
+		"category": "Astra militarum headgear",
+		"defname": "EMIN_VoidHelmet_SOG"
+	},
+	{
+		"abr": "voidhelmet,trooper(ig)",
+		"price": 1467,
+		"category": "Astra militarum headgear",
+		"defname": "EMIG_VoidHelmet_TG"
+	},
+	{
+		"abr": "voidhelmet,trooper(ig)",
+		"price": 1467,
+		"category": "Astra militarum headgear",
+		"defname": "EMIN_VoidHelmet_T"
+	},
+	{
+		"abr": "voidpack(ig)",
+		"price": 2067,
+		"category": "Astra militarum wargears",
+		"defname": "EMIG_BackpackVoid"
+	},
+	{
+		"abr": "voidpack(rt)",
+		"price": 2067,
+		"category": "Astra militarum wargears",
+		"defname": "EMRT_BackpackVoid"
+	},
+	{
+		"abr": "voidpack,navybreachers(in)",
+		"price": 2067,
+		"category": "Astra militarum wargears",
+		"defname": "EMIN_BackpackVoid"
+	},
+	{
+		"abr": "voidsuit(rt)",
+		"price": 650,
+		"category": "Astra militarum apparel",
+		"defname": "EMRT_VoidSuit_RogueTrader"
+	},
+	{
+		"abr": "voidsuit,navisimperialis(in)",
+		"price": 650,
+		"category": "Astra militarum apparel",
+		"defname": "EMIN_VoidSuit_Standard"
+	},
+	{
+		"abr": "voidblade(n)",
+		"price": 167375,
+		"category": "Necron melee weapons",
+		"defname": "EMNC_Voidblade"
+	},
+	{
+		"abr": "voidscythe(n)",
+		"price": 167592,
+		"category": "Necron melee weapons",
+		"defname": "EMNC_Voidscythe"
+	},
+	{
+		"abr": "warscythe(n)",
+		"price": 167433,
+		"category": "Necron melee weapons",
+		"defname": "EMNC_Warscythe"
+	},
+	{
+		"abr": "wraithbone",
+		"price": 833,
+		"category": "Raw resources",
+		"defname": "EMAE_Wraithbone"
+	},
+	{
+		"abr": "wraithboneweave",
+		"price": 25,
+		"category": "Manufactured",
+		"defname": "EMAE_Wraithboneweave"
+	},
+	{
+		"abr": "wrench(ok)",
+		"price": 967,
+		"category": "Orks melee weapons",
+		"defname": "EMOK_Wrench"
+	},
+	{
+		"abr": "xenophaseblade",
+		"price": 16667,
+		"category": "Melee weapons",
+		"defname": "GW_SS_Phaseblade"
+	},
+	{
+		"abr": "zaronamkii",
+		"price": 367,
+		"category": "Ranged weapons",
+		"defname": "GW_HOI_Gun_Zarona"
+	},
+	{
+		"abr": "celestiacitycombatsuit",
+		"price": 400,
+		"category": "Celestia military apparel",
+		"defname": "Celes_CombatSuitJK"
+	},
+	{
+		"abr": "celestiafieldcoat",
+		"price": 750,
+		"category": "Celestia military apparel",
+		"defname": "Celes_FieldCoat"
+	},
+	{
+		"abr": "celestiafieldcombatsuit",
+		"price": 400,
+		"category": "Celestia military apparel",
+		"defname": "Celes_CombatSuitTactical"
+	},
+	{
+		"abr": "celestiaswimsuita",
+		"price": 68,
+		"category": "Celestia daily apparel",
+		"defname": "Celes_SwimsuitA"
+	},
+	{
+		"abr": "celestiaswimsuitb",
+		"price": 68,
+		"category": "Celestia daily apparel",
+		"defname": "Celes_SwimsuitB"
+	},
+	{
+		"abr": "celestiaunderweara",
+		"price": 68,
+		"category": "Celestia daily apparel",
+		"defname": "Celes_UnderwearA"
+	},
+	{
+		"abr": "celestiaunderwearb",
+		"price": 68,
+		"category": "Celestia daily apparel",
+		"defname": "Celes_UnderwearB"
+	},
 	],
-	"total": 2223
+	"total": 2794
 }
